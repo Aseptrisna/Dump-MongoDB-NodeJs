@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "6584f4b8799d6a6a9fc6fa0e",
+    "guid": "ACTIVITY-98cd3992-ca5d-48a8-9480-de94ce03c5b3",
+    "title": "Eksplorasi Lapangan yang Mendalam",
+    "description": "GeoRima Geologi secara rutin mengadakan kegiatan eksplorasi lapangan yang mendalam untuk memahami secara langsung karakteristik geologi suatu daerah. Peserta kegiatan akan dibimbing oleh para ahli geologi dalam mengidentifikasi formasi batuan, fenomena geologi, dan melacak jejak sejarah geologi di lapangan. Eksplorasi ini memberikan pengalaman langsung yang tak ternilai dalam memahami dinamika bumi.",
+    "timestamp": 1703212216,
+    "image": "ACTIVITY-98cd3992-ca5d-48a8-9480-de94ce03c5b3-1703212216-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:30:16.261Z"
+  },
+  {
+    "_id": "6584f509799d6a6a9fc6fa2d",
+    "guid": "ACTIVITY-9d057866-8489-4103-822f-d7a59a652eba",
+    "title": "Seminar dan Diskusi Geologi",
+    "description": "GeoRima Geologi menggelar serangkaian seminar dan diskusi geologi yang melibatkan para pakar industri dan akademisi. Kegiatan ini memberikan platform bagi peserta untuk mendengarkan pembaruan terkini dalam ilmu geologi, berbagi pengetahuan, dan menggali wawasan dari berbagai perspektif untuk mendukung perkembangan ilmu geologi di Indonesia.",
+    "timestamp": 1703212297,
+    "image": "ACTIVITY-9d057866-8489-4103-822f-d7a59a652eba-1703212297-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:31:37.235Z"
+  },
+  {
+    "_id": "6584f530799d6a6a9fc6fa33",
+    "guid": "ACTIVITY-5d7e4fbf-4505-40e2-85b0-486e02aa7b98",
+    "title": "Penelitian Sumber Daya Alam",
+    "description": "Sebagai bagian dari misi GeoRima Geologi untuk mendukung pembangunan berkelanjutan, lembaga ini aktif terlibat dalam penelitian sumber daya alam. Kegiatan penelitian ini melibatkan analisis mineral, eksplorasi potensi energi terbarukan, dan pemetaan potensi sumber daya lainnya. GeoRima Geologi berkomitmen untuk memberikan kontribusi positif dalam pemanfaatan sumber daya alam yang berkelanjutan.",
+    "timestamp": 1703212375,
+    "image": "ACTIVITY-5d7e4fbf-4505-40e2-85b0-486e02aa7b98-1703212374-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:32:16.919Z"
+  },
+  {
+    "_id": "6584f594799d6a6a9fc6fa4c",
+    "guid": "ACTIVITY-77ab20db-4ea2-4749-a780-684981f9cd81",
+    "title": "Proyek Pelestarian Lingkungan",
+    "description": "GeoRima Geologi aktif terlibat dalam proyek-proyek pelestarian lingkungan yang melibatkan penelitian dan mitigasi risiko geologi. Kegiatan ini mencakup pemetaan daerah rawan bencana alam, penyusunan rencana tanggap darurat, dan proyek-proyek rehabilitasi lingkungan. Melalui inisiatif ini, GeoRima Geologi berusaha untuk melibatkan masyarakat dalam upaya pelestarian dan pemahaman risiko lingkungan yang dihadapi.",
+    "timestamp": 1703212436,
+    "image": "ACTIVITY-77ab20db-4ea2-4749-a780-684981f9cd81-1703212436-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:33:56.311Z"
+  },
+  {
+    "_id": "6584f5a6799d6a6a9fc6fa50",
+    "guid": "ACTIVITY-da51b14e-6700-4b19-8cdc-f5ed18a38a50",
+    "title": "Pendidikan dan Pelatihan Geologi",
+    "description": "GeoRima Geologi menyelenggarakan program pendidikan dan pelatihan geologi untuk berbagai kalangan, termasuk mahasiswa, profesional, dan masyarakat umum. Kegiatan ini mencakup kuliah, lokakarya, dan pelatihan lapangan yang dirancang untuk meningkatkan pemahaman tentang ilmu geologi dan aplikasinya dalam berbagai sektor.",
+    "timestamp": 1703212454,
+    "image": "ACTIVITY-da51b14e-6700-4b19-8cdc-f5ed18a38a50-1703212454-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:34:14.264Z"
+  },
+  {
+    "_id": "6584f5a6799d6a6a9fc6fa52",
+    "guid": "ACTIVITY-528debff-2037-4091-bb1e-2b979b3dbe18",
+    "title": "Pendidikan dan Pelatihan Geologi",
+    "description": "GeoRima Geologi menyelenggarakan program pendidikan dan pelatihan geologi untuk berbagai kalangan, termasuk mahasiswa, profesional, dan masyarakat umum. Kegiatan ini mencakup kuliah, lokakarya, dan pelatihan lapangan yang dirancang untuk meningkatkan pemahaman tentang ilmu geologi dan aplikasinya dalam berbagai sektor.",
+    "timestamp": 1703212454,
+    "image": "ACTIVITY-528debff-2037-4091-bb1e-2b979b3dbe18-1703212454-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:34:14.294Z"
+  },
+  {
+    "_id": "6584f5f8799d6a6a9fc6fa70",
+    "guid": "ACTIVITY-e1e20db9-de95-4f0c-bb35-e3746c060daa",
+    "title": "Proyek Konservasi Keanekaragaman Hayati",
+    "description": "GeoRima Geologi menginisiasi proyek konservasi keanekaragaman hayati yang terkait erat dengan aspek geologi. Tim ahli geologi bekerja sama dengan ahli biologi untuk memahami dampak aktivitas geologi terhadap ekosistem setempat. Melalui proyek ini, GeoRima Geologi berusaha menjaga keseimbangan ekologi dengan mempertahankan keanekaragaman hayati yang unik di suatu wilayah.",
+    "timestamp": 1703212537,
+    "image": "ACTIVITY-e1e20db9-de95-4f0c-bb35-e3746c060daa-1703212536-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:35:36.761Z"
+  },
+  {
+    "_id": "6584f618799d6a6a9fc6fa8c",
+    "guid": "ACTIVITY-c044e4c9-f5d4-4c78-a626-fc3757672ce0",
+    "title": "Ekspedisi Geologi Komunitas",
+    "description": "GeoRima Geologi membawa geologi ke tingkat lokal dengan menyelenggarakan ekspedisi geologi komunitas. Kegiatan ini melibatkan warga setempat dalam perjalanan pendidikan lapangan yang mengeksplorasi aspek-aspek geologi di sekitar mereka. Para peserta diajak untuk memahami pengaruh geologi terhadap kehidupan sehari-hari mereka dan menjaga keberlanjutan lingkungan lokal. Ekspedisi geologi komunitas ini membangun kesadaran dan partisipasi aktif dalam menjaga bumi.",
+    "timestamp": 1703212568,
+    "image": "ACTIVITY-c044e4c9-f5d4-4c78-a626-fc3757672ce0-1703212568-GEORIMA.jpg",
+    "createdAt": "2023-12-22T02:36:08.402Z"
+  }
+]

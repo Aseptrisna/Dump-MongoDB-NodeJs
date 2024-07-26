@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "657a6d073056726f73034101",
+    "guid": "PROFILE-d48245e2-6a99-4a11-8041-c7746bdfcd8b",
+    "name": "Asep Trisna Setiawan",
+    "image": "PROFILE-d48245e2-6a99-4a11-8041-c7746bdfcd8b-1702522119-GEORIMA.png",
+    "position": "KAPUS 2023-2028",
+    "phone": "082283198216",
+    "email": "Asep.iot@ubl.ac.id",
+    "createdAt": "2023-12-14T02:48:39.135Z"
+  },
+  {
+    "_id": "657a7dd53056726f7303446e",
+    "guid": "PROFILE-63541483-dea6-465e-94fe-100b093aba53",
+    "name": "Faiza Kailani Kuswanto",
+    "image": "PROFILE-63541483-dea6-465e-94fe-100b093aba53-1702526421-GEORIMA.JPG",
+    "position": "KASUBAG KEUANGAN",
+    "phone": "087878571535",
+    "email": "faizakailanik@gmail.com",
+    "createdAt": "2023-12-14T04:00:21.242Z"
+  },
+  {
+    "_id": "6584e712799d6a6a9fc6f6c9",
+    "guid": "PROFILE-fc02273d-cd47-4e3b-a9de-700e625311ad",
+    "name": "Agung Yusuf Wibowo",
+    "image": "PROFILE-fc02273d-cd47-4e3b-a9de-700e625311ad-1703208722-GEORIMA.png",
+    "position": "KASUBAG INFORMASI",
+    "phone": "+6282283198216",
+    "email": "software.creative.indonesia@gmail.com",
+    "createdAt": "2023-12-22T01:32:02.207Z"
+  },
+  {
+    "_id": "6584ef72799d6a6a9fc6f8bb",
+    "guid": "PROFILE-e2f8e9ad-68bc-4e2b-ae88-44120204e66d",
+    "name": "Ach. Maulana  Habibi Yusuf",
+    "image": "PROFILE-e2f8e9ad-68bc-4e2b-ae88-44120204e66d-1703210866-GEORIMA.jpg",
+    "position": "KASUBAG INFORMASI",
+    "phone": "089687281264",
+    "email": "maulana@pptik.ac.id",
+    "createdAt": "2023-12-22T02:07:46.132Z"
+  },
+  {
+    "_id": "6584efc1799d6a6a9fc6f8cd",
+    "guid": "PROFILE-568df0f9-f243-43d5-8ba8-fd67db8780fd",
+    "name": "Adnan Darwanto",
+    "image": "PROFILE-568df0f9-f243-43d5-8ba8-fd67db8780fd-1703210945-GEORIMA.jpg",
+    "position": "KASUBAG ADMINISTRASI",
+    "phone": "08982357901",
+    "email": "adnan@pptik.id",
+    "createdAt": "2023-12-22T02:09:05.602Z"
+  },
+  {
+    "_id": "6584f008799d6a6a9fc6f8d3",
+    "guid": "PROFILE-42ef8b4a-3ed2-4cef-8241-7aba87ce46be",
+    "name": "Afanin Ryandana",
+    "image": "PROFILE-42ef8b4a-3ed2-4cef-8241-7aba87ce46be-1703211016-GEORIMA.jpg",
+    "position": "KASUBAG ADMINISTRASI",
+    "phone": "081224581908",
+    "email": "afanin@pptik.id",
+    "createdAt": "2023-12-22T02:10:16.652Z"
+  },
+  {
+    "_id": "6584f04d799d6a6a9fc6f8e1",
+    "guid": "PROFILE-fd57a976-b88e-4b5d-b021-02da8553415b",
+    "name": "Muhammad Daffa  Prasetyo",
+    "image": "PROFILE-fd57a976-b88e-4b5d-b021-02da8553415b-1703211085-GEORIMA.jpeg",
+    "position": "KASUBAG MEDIA",
+    "phone": "081345709801",
+    "email": "daffa@pptik.id",
+    "createdAt": "2023-12-22T02:11:25.293Z"
+  },
+  {
+    "_id": "6584f08f799d6a6a9fc6f8ef",
+    "guid": "PROFILE-7e0fe8ff-dd0f-4dd8-ac62-694a047bb539",
+    "name": "Diko Prasojo",
+    "image": "PROFILE-7e0fe8ff-dd0f-4dd8-ac62-694a047bb539-1703211151-GEORIMA.jpeg",
+    "position": "KASUBAG INFORMASI",
+    "phone": "085674351245",
+    "email": "diko@pptik.id",
+    "createdAt": "2023-12-22T02:12:31.535Z"
+  },
+  {
+    "_id": "6584f0c8799d6a6a9fc6f8fd",
+    "guid": "PROFILE-f88fe571-13b0-44ee-afdd-104c48a26c75",
+    "name": "M. Fahmi Nurfadilah",
+    "image": "PROFILE-f88fe571-13b0-44ee-afdd-104c48a26c75-1703211208-GEORIMA.jpg",
+    "position": "KASUBAG TEKNOLOGI",
+    "phone": "085314578778",
+    "email": "fahmi@pptik.id",
+    "createdAt": "2023-12-22T02:13:28.336Z"
+  },
+  {
+    "_id": "6584f12d799d6a6a9fc6f909",
+    "guid": "PROFILE-dea304e9-1aa5-42e2-8917-7286b1807fec",
+    "name": "Nurman Hairyanto",
+    "image": "PROFILE-dea304e9-1aa5-42e2-8917-7286b1807fec-1703211309-GEORIMA.jpg",
+    "position": "KASUBAG MEDIA",
+    "phone": "08785161243",
+    "email": "nurman@pptik.id",
+    "createdAt": "2023-12-22T02:15:09.946Z"
+  },
+  {
+    "_id": "6584f8b8799d6a6a9fc6fb3c",
+    "guid": "PROFILE-09e54071-4ff3-4561-9e9c-7d54b94d06ef",
+    "name": "Muhammad Rizki  Fahreza",
+    "image": "PROFILE-09e54071-4ff3-4561-9e9c-7d54b94d06ef-1703213240-GEORIMA.jpg",
+    "position": "KASUBAG TEKNOLOGI",
+    "phone": "08986681990",
+    "email": "reza@pptik.id",
+    "createdAt": "2023-12-22T02:47:20.623Z"
+  },
+  {
+    "_id": "6584f8e2799d6a6a9fc6fb42",
+    "guid": "PROFILE-6bd19c94-b8ab-4b31-a9c1-7937e08b8090",
+    "name": "Sintia Rahmawati",
+    "image": "PROFILE-6bd19c94-b8ab-4b31-a9c1-7937e08b8090-1703213282-GEORIMA.jpg",
+    "position": "KASUBAG SEKRETARIS",
+    "phone": "08927194103",
+    "email": "sintia@pptik.id",
+    "createdAt": "2023-12-22T02:48:02.366Z"
+  },
+  {
+    "_id": "6584f908799d6a6a9fc6fb48",
+    "guid": "PROFILE-9b040715-7777-4f1d-88a3-c7637888016f",
+    "name": "Syaefudin Mubaroq",
+    "image": "PROFILE-9b040715-7777-4f1d-88a3-c7637888016f-1703213320-GEORIMA.jpeg",
+    "position": "KASUBAG INFORMASI",
+    "phone": "08795278124",
+    "email": "saefuin@pptik.id",
+    "createdAt": "2023-12-22T02:48:40.886Z"
+  },
+  {
+    "_id": "65a60e50799d6a6a9fc71575",
+    "guid": "PROFILE-79a0e45c-424d-4c8e-a34e-8202ca3143e6",
+    "name": "tes",
+    "image": "PROFILE-79a0e45c-424d-4c8e-a34e-8202ca3143e6-1705381456-GEORIMA.png",
+    "position": "mahasiswa",
+    "phone": "0855555555",
+    "email": "tes@gmail.com",
+    "createdAt": "2024-01-16T05:04:16.299Z"
+  },
+  {
+    "_id": "65a60e82799d6a6a9fc7158d",
+    "guid": "PROFILE-0d1cd4e4-684b-4202-a3e4-f43fa9351b81",
+    "name": "tes",
+    "image": "PROFILE-0d1cd4e4-684b-4202-a3e4-f43fa9351b81-1705381506-GEORIMA.png",
+    "position": "mahasiswa",
+    "phone": "0855555",
+    "email": "tes@gmail.com",
+    "createdAt": "2024-01-16T05:05:06.035Z"
+  },
+  {
+    "_id": "65a60f01799d6a6a9fc715a5",
+    "guid": "PROFILE-c54a2ae2-8426-4ff0-a0c4-f34101e83e7f",
+    "name": "tes",
+    "image": "PROFILE-c54a2ae2-8426-4ff0-a0c4-f34101e83e7f-1705381633-GEORIMA.png",
+    "position": "tes",
+    "phone": "tes",
+    "email": "tes",
+    "createdAt": "2024-01-16T05:07:13.732Z"
+  },
+  {
+    "_id": "6641d32bedbc74ef8c34467a",
+    "guid": "PROFILE-8fe91ac2-ec78-4d68-a806-10fc4bccc86a",
+    "name": "jiko",
+    "image": "PROFILE-8fe91ac2-ec78-4d68-a806-10fc4bccc86a-1715589931-GEORIMA.jpg",
+    "position": "Ketua",
+    "phone": "098765678909876",
+    "email": "jiko@gmail.co",
+    "createdAt": "2024-05-13T08:45:31.671Z"
+  },
+  {
+    "_id": "6657f18215e64883b4b9d3cb",
+    "guid": "PROFILE-831d3b72-bb58-43f9-81bc-a2e4d7531551",
+    "name": "Faiza Kailani Kuswanto",
+    "image": "PROFILE-831d3b72-bb58-43f9-81bc-a2e4d7531551-1717039490-GEORIMA.png",
+    "position": "KEPALA ",
+    "phone": "087878571535",
+    "email": "faizakailanik@gmail.com",
+    "createdAt": "2024-05-30T03:24:50.451Z"
+  }
+]
