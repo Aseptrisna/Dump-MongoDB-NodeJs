@@ -3,8 +3,8 @@ const fs = require('fs-extra');
 const path = require('path');
 
 // Konfigurasi untuk database tujuan
-const targetUri = 'mongodb://ngadmin:Agat3Dolomit3@10.101.102.245:27017/georima-peta';
-const inputDir = path.join(__dirname, 'backup/map');  // Direktori tempat file JSON disimpan
+const targetUri = 'mongodb://localhost:27017/georima-portal';
+const inputDir = path.join(__dirname, 'backup/portal');  // Direktori tempat file JSON disimpan
 
 async function importCollections() {
   console.log('Menghubungkan ke MongoDB tujuan...');

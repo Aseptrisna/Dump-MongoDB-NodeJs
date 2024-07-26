@@ -3,9 +3,9 @@ const fs = require('fs-extra');
 const path = require('path');
 
 // Konfigurasi
-const uri = 'mongodb://georima-map:mltYSZ2Vvc1tYXA@database2.pptik.id:27017/georima-map';
-const dbName = 'georima-map';
-const outputDir = path.join(__dirname, 'backup');
+const uri = 'mongodb://georima-portal:tYS1wYWwZ2Vvb3J0cml@database2.pptik.id:27017/georima-portal';
+// const dbName = 'georima-map';
+const outputDir = path.join(__dirname, 'backup/portal');
 
 async function exportCollections() {
   console.log('Memastikan direktori output ada...');
