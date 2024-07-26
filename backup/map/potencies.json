@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "65732f4aaea4b314adebf491",
+    "guid": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "name": "Mineral Logam",
+    "icon": "ICON-2e70d8ea-d293-46de-ac22-e5bf89b059e2-1702047562-GEORIMA.png",
+    "status": true,
+    "createdAt": "2023-12-08T14:59:22.037Z",
+    "updatedAt": "2023-12-08T14:59:22.037Z"
+  },
+  {
+    "_id": "65732fd408a6ec0e4d7a66c7",
+    "guid": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "name": "Mineral Bukan Logam",
+    "icon": "ICON-18029944-0de5-443e-b785-6a89a0abdf17-1702047700-GEORIMA.png",
+    "status": true,
+    "createdAt": "2023-12-08T15:01:40.330Z",
+    "updatedAt": "2023-12-08T15:01:40.330Z"
+  },
+  {
+    "_id": "6573303308a6ec0e4d7a66cd",
+    "guid": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "name": "Batubara",
+    "icon": "ICON-ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18-1702047795-GEORIMA.png",
+    "status": true,
+    "createdAt": "2023-12-08T15:03:15.829Z",
+    "updatedAt": "2023-12-08T15:03:15.829Z"
+  },
+  {
+    "_id": "657336b5c0f19021760c46c9",
+    "guid": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "name": "Panas Bumi",
+    "icon": "ICON-10d51afe-3fbf-408e-834a-c1d8f0c6970b-1702049461-GEORIMA.png",
+    "status": true,
+    "createdAt": "2023-12-08T15:31:01.935Z",
+    "updatedAt": "2023-12-08T15:31:01.936Z"
+  }
+]
