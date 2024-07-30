@@ -4,7 +4,7 @@ const path = require('path');
 
 // Konfigurasi untuk database tujuan
 const targetUri = 'mongodb://localhost:27017/georima-peta';
-const inputDir = path.join(__dirname, 'backup/potensi'); 
+const inputDir = path.join(__dirname, 'backup/data'); 
 
 async function importCollections() {
   console.log('Menghubungkan ke MongoDB tujuan...');
