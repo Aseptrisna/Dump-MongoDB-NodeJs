@@ -1,0 +1,394 @@
+[
+  {
+    "_id": "6694d2a73bee162d4fb0b97d",
+    "Name": "Ametis",
+    "ID": "201",
+    "Unsur": "Am",
+    "No": "1"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b97e",
+    "Name": "Andesit",
+    "ID": "202",
+    "Unsur": "An",
+    "No": "2"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b97f",
+    "Name": "Ball / Bond Clay",
+    "ID": "203",
+    "Unsur": "Bc",
+    "No": "3"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b980",
+    "Name": "Barit",
+    "ID": "204",
+    "Unsur": "Ba",
+    "No": "4"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b981",
+    "Name": "Basal",
+    "ID": "205",
+    "Unsur": "Bs",
+    "No": "5"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b982",
+    "Name": "Batu Hias",
+    "ID": "206",
+    "Unsur": "Orn",
+    "No": "6"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b983",
+    "Name": "Batu Kuarsa",
+    "ID": "207",
+    "Unsur": "Q",
+    "No": "7"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b984",
+    "Name": "Batuan Pembawa Kalium",
+    "ID": "208",
+    "Unsur": "K",
+    "No": "8"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b985",
+    "Name": "Batuapung",
+    "ID": "209",
+    "Unsur": "Pu",
+    "No": "9"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b986",
+    "Name": "Batugamping",
+    "ID": "210",
+    "Unsur": "Ls",
+    "No": "10"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b987",
+    "Name": "Batusabak",
+    "ID": "211",
+    "Unsur": "Sl",
+    "No": "11"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b988",
+    "Name": "Belerang",
+    "ID": "212",
+    "Unsur": "S",
+    "No": "12"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b989",
+    "Name": "Bentonit",
+    "ID": "213",
+    "Unsur": "Btn",
+    "No": "13"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98a",
+    "Name": "Dasit",
+    "ID": "214",
+    "Unsur": "Da",
+    "No": "14"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98b",
+    "Name": "Diatomea",
+    "ID": "215",
+    "Unsur": "Dia",
+    "No": "15"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98c",
+    "Name": "Diorit",
+    "ID": "216",
+    "Unsur": "Dio",
+    "No": "16"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98d",
+    "Name": "Dolomit",
+    "ID": "217",
+    "Unsur": "Do",
+    "No": "17"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98e",
+    "Name": "Felspar",
+    "ID": "218",
+    "Unsur": "Fl",
+    "No": "18"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b98f",
+    "Name": "Fosfat",
+    "ID": "219",
+    "Unsur": "P",
+    "No": "19"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b990",
+    "Name": "Gipsum",
+    "ID": "220",
+    "Unsur": "Gy",
+    "No": "20"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b991",
+    "Name": "Granit",
+    "ID": "221",
+    "Unsur": "Gr",
+    "No": "21"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b992",
+    "Name": "Granodiorit",
+    "ID": "222",
+    "Unsur": "Gd",
+    "No": "22"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b993",
+    "Name": "Intan",
+    "ID": "223",
+    "Unsur": "Di",
+    "No": "23"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b994",
+    "Name": "Jasper",
+    "ID": "224",
+    "Unsur": "Jas",
+    "No": "24"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b995",
+    "Name": "Kalsedon",
+    "ID": "225",
+    "Unsur": "Cha",
+    "No": "25"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b996",
+    "Name": "Kalsit",
+    "ID": "226",
+    "Unsur": "Ca",
+    "No": "26"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b997",
+    "Name": "Kaolin",
+    "ID": "227",
+    "Unsur": "Ka",
+    "No": "27"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b998",
+    "Name": "Kuarsit",
+    "ID": "228",
+    "Unsur": "Qtz",
+    "No": "28"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b999",
+    "Name": "Lempung",
+    "ID": "229",
+    "Unsur": "Cly",
+    "No": "29"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99a",
+    "Name": "Magnesit",
+    "ID": "230",
+    "Unsur": "Mg",
+    "No": "30"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99b",
+    "Name": "Marmer",
+    "ID": "231",
+    "Unsur": "Ma",
+    "No": "31"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99c",
+    "Name": "Obsidian",
+    "ID": "232",
+    "Unsur": "Ob",
+    "No": "32"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99d",
+    "Name": "Oker",
+    "ID": "233",
+    "Unsur": "Och",
+    "No": "33"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99e",
+    "Name": "Oniks",
+    "ID": "234",
+    "Unsur": "Onx",
+    "No": "34"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b99f",
+    "Name": "Opal",
+    "ID": "235",
+    "Unsur": "Op",
+    "No": "35"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a0",
+    "Name": "Pasir Laut",
+    "ID": "236",
+    "Unsur": "-",
+    "No": "36"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a1",
+    "Name": "Pasir Zirkon",
+    "ID": "237",
+    "Unsur": "Zr",
+    "No": "37"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a2",
+    "Name": "Pasirkuarsa",
+    "ID": "238",
+    "Unsur": "SiO2",
+    "No": "38"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a3",
+    "Name": "Peridotit",
+    "ID": "239",
+    "Unsur": "Pdt",
+    "No": "39"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a4",
+    "Name": "Perlit",
+    "ID": "240",
+    "Unsur": "Pe",
+    "No": "40"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a5",
+    "Name": "Pirofilit",
+    "ID": "241",
+    "Unsur": "Phy",
+    "No": "41"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a6",
+    "Name": "Prehnit",
+    "ID": "242",
+    "Unsur": "Pr",
+    "No": "42"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a7",
+    "Name": "Rijang",
+    "ID": "243",
+    "Unsur": "Ch",
+    "No": "43"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a8",
+    "Name": "Serpentin",
+    "ID": "244",
+    "Unsur": "Sp",
+    "No": "44"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9a9",
+    "Name": "Sirtu",
+    "ID": "245",
+    "Unsur": "Gra",
+    "No": "45"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9aa",
+    "Name": "Talk",
+    "ID": "246",
+    "Unsur": "Tc",
+    "No": "46"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9ab",
+    "Name": "Toseki",
+    "ID": "247",
+    "Unsur": "To",
+    "No": "47"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9ac",
+    "Name": "Trakhit",
+    "ID": "248",
+    "Unsur": "Tr",
+    "No": "48"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9ad",
+    "Name": "Tras",
+    "ID": "249",
+    "Unsur": "Tra",
+    "No": "49"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9ae",
+    "Name": "Travertin",
+    "ID": "250",
+    "Unsur": "Trv",
+    "No": "50"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9af",
+    "Name": "Ultrabasa",
+    "ID": "251",
+    "Unsur": "Ub",
+    "No": "51"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9b0",
+    "Name": "Yodium",
+    "ID": "252",
+    "Unsur": "Y",
+    "No": "52"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9b1",
+    "Name": "Zeolit",
+    "ID": "253",
+    "Unsur": "Ze",
+    "No": "53"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9b2",
+    "Name": "Giok",
+    "ID": "254",
+    "Unsur": "Jad",
+    "No": "54"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9b3",
+    "Name": "Grafit",
+    "ID": "255",
+    "Unsur": "Grf",
+    "No": "55"
+  },
+  {
+    "_id": "6694d2a73bee162d4fb0b9b4",
+    "Name": "Kayu Terkersikan",
+    "ID": "256",
+    "Unsur": "Sil",
+    "No": "56"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "668ce197aeb2d39bc2adae5c",
+    "No": 1,
+    "Name": "Air Raksa",
+    "ID": 101
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae5d",
+    "No": 2,
+    "Name": "Bauksit",
+    "ID": 102
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae5e",
+    "No": 3,
+    "Name": "Besi Laterit",
+    "ID": 103
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae5f",
+    "No": 4,
+    "Name": "Besi Primer",
+    "ID": 104
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae60",
+    "No": 5,
+    "Name": "Besi Sedimen",
+    "ID": 105
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae61",
+    "No": 6,
+    "Name": "Emas Alluvial",
+    "ID": 107
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae62",
+    "No": 7,
+    "Name": "Emas Primer",
+    "ID": 108
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae63",
+    "No": 8,
+    "Name": "Kobal",
+    "ID": 109
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae64",
+    "No": 9,
+    "Name": "Kromit",
+    "ID": 110
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae65",
+    "No": 10,
+    "Name": "Kromit Plaser",
+    "ID": 111
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae66",
+    "No": 11,
+    "Name": "Mangan",
+    "ID": 112
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae67",
+    "No": 12,
+    "Name": "Molibdenum",
+    "ID": 113
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae68",
+    "No": 13,
+    "Name": "Monasit",
+    "ID": 114
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae69",
+    "No": 14,
+    "Name": "Nikel",
+    "ID": 115
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6a",
+    "No": 15,
+    "Name": "Pasir Besi",
+    "ID": 116
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6b",
+    "No": 16,
+    "Name": "Perak",
+    "ID": 117
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6c",
+    "No": 17,
+    "Name": "Platina",
+    "ID": 118
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6d",
+    "No": 18,
+    "Name": "Seng",
+    "ID": 119
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6e",
+    "No": 19,
+    "Name": "Tembaga",
+    "ID": 120
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae6f",
+    "No": 20,
+    "Name": "Timah",
+    "ID": 121
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae70",
+    "No": 21,
+    "Name": "Timbal",
+    "ID": 122
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae71",
+    "No": 22,
+    "Name": "Titan Laterit",
+    "ID": 123
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae72",
+    "No": 23,
+    "Name": "Titan Plaser",
+    "ID": 124
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae73",
+    "No": 24,
+    "Name": "Xenotim",
+    "ID": 125
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae74",
+    "No": 25,
+    "Name": "Antimon",
+    "ID": 126
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae75",
+    "No": 26,
+    "Name": "Vanadium",
+    "ID": 127
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae76",
+    "No": 27,
+    "Name": "Torium",
+    "ID": 128
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae77",
+    "No": 28,
+    "Name": "Logam Tanah Jarang",
+    "ID": 129
+  },
+  {
+    "_id": "668ce197aeb2d39bc2adae78",
+    "No": 29,
+    "Name": "Uranium",
+    "ID": 130
+  }
+]

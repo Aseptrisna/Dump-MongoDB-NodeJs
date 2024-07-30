@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "657343e48482c9febd063f07",
+    "guid": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "name": "Logam Dasar",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "icon": "ICON-0df0f44e-cb33-4012-86ac-acccf8d5d123-1702052836-GEORIMA.png",
+    "createdAt": "2023-12-08T16:27:16.471Z",
+    "updatedAt": "2023-12-08T16:27:16.472Z"
+  },
+  {
+    "_id": "657344088482c9febd063f0a",
+    "guid": "4fb09b04-f937-41d9-b6b5-a7ccb167c840",
+    "name": "Logam Mulia",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "icon": "ICON-4fb09b04-f937-41d9-b6b5-a7ccb167c840-1702052872-GEORIMA.png",
+    "createdAt": "2023-12-08T16:27:52.024Z",
+    "updatedAt": "2023-12-08T16:27:52.024Z"
+  },
+  {
+    "_id": "657344138482c9febd063f0d",
+    "guid": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "name": "Logam Besi Dan Paduan Besi",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "icon": "ICON-8b99789c-9eea-43e4-ad47-7c84f5a5d558-1702052883-GEORIMA.png",
+    "createdAt": "2023-12-08T16:28:03.383Z",
+    "updatedAt": "2023-12-08T16:28:03.383Z"
+  },
+  {
+    "_id": "657344238482c9febd063f10",
+    "guid": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "name": "Logam Ringan dan Langka",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "icon": "ICON-ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2-1702052899-GEORIMA.png",
+    "createdAt": "2023-12-08T16:28:19.085Z",
+    "updatedAt": "2023-12-08T16:28:19.085Z"
+  },
+  {
+    "_id": "657344548482c9febd063f13",
+    "guid": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "name": "Batu Mulia",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "icon": "ICON-c88ef9da-6a3b-412a-b8d4-e6dab5a38ace-1702052948-GEORIMA.png",
+    "createdAt": "2023-12-08T16:29:08.350Z",
+    "updatedAt": "2023-12-08T16:29:08.350Z"
+  },
+  {
+    "_id": "657344608482c9febd063f16",
+    "guid": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "name": "Bahan Bangunan",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "icon": "ICON-4d380da2-4dda-4d73-b9f9-bcec87d37a07-1702052960-GEORIMA.png",
+    "createdAt": "2023-12-08T16:29:20.596Z",
+    "updatedAt": "2023-12-08T16:29:20.596Z"
+  },
+  {
+    "_id": "6573446a8482c9febd063f19",
+    "guid": "9d3330db-33b9-417b-8989-0477da62e630",
+    "name": "Bahan Keramik",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "icon": "ICON-9d3330db-33b9-417b-8989-0477da62e630-1702052970-GEORIMA.png",
+    "createdAt": "2023-12-08T16:29:30.374Z",
+    "updatedAt": "2023-12-08T16:29:30.374Z"
+  },
+  {
+    "_id": "657344748482c9febd063f1c",
+    "guid": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "name": "Mineral Industri",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "icon": "ICON-086cd8d0-dcc2-48e1-bf69-7bd7b01ff304-1702052980-GEORIMA.png",
+    "createdAt": "2023-12-08T16:29:40.394Z",
+    "updatedAt": "2023-12-08T16:29:40.394Z"
+  },
+  {
+    "_id": "657344bf8482c9febd063f1f",
+    "guid": "e40b50a0-ed0f-4cf2-afa2-202e0477e985",
+    "name": "Menu",
+    "guidPotency": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "icon": "ICON-e40b50a0-ed0f-4cf2-afa2-202e0477e985-1702053055-GEORIMA.png",
+    "createdAt": "2023-12-08T16:30:55.913Z",
+    "updatedAt": "2023-12-08T16:30:55.913Z"
+  },
+  {
+    "_id": "668ce124ba672ac4ec9a209a",
+    "guid": "27d93f91-b493-4a4f-918b-fdd0e6f3b4ad",
+    "name": "Mineral Radioaktif",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "icon": "ICON-27d93f91-b493-4a4f-918b-fdd0e6f3b4ad-1720508708-GEORIMA.png",
+    "createdAt": "2024-07-09T07:05:08.343Z",
+    "updatedAt": "2024-07-09T07:05:08.343Z"
+  },
+  {
+    "_id": "66967fb56d7b9c2144fd8d3a",
+    "guid": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "name": "Menu",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "icon": "ICON-c14ae97a-e76d-4fd6-a11a-3e81e8cc56e3-1721139125-GEORIMA.png",
+    "createdAt": "2024-07-16T14:12:05.435Z",
+    "updatedAt": "2024-07-16T14:12:05.435Z"
+  }
+]

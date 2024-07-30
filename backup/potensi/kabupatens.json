@@ -1,0 +1,3086 @@
+[
+  {
+    "_id": "668ce79faeb2d39bc2adae83",
+    "no": "1",
+    "nama_kabupaten": "Aceh Selatan",
+    "id_kabupaten": "1"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae84",
+    "no": "2",
+    "nama_kabupaten": "Aceh Tenggara",
+    "id_kabupaten": "2"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae85",
+    "no": "3",
+    "nama_kabupaten": "Aceh Timur",
+    "id_kabupaten": "3"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae86",
+    "no": "4",
+    "nama_kabupaten": "Aceh Tengah",
+    "id_kabupaten": "4"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae87",
+    "no": "5",
+    "nama_kabupaten": "Aceh Barat",
+    "id_kabupaten": "5"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae88",
+    "no": "6",
+    "nama_kabupaten": "Aceh Besar",
+    "id_kabupaten": "6"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae89",
+    "no": "7",
+    "nama_kabupaten": "Pidie",
+    "id_kabupaten": "7"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8a",
+    "no": "8",
+    "nama_kabupaten": "Aceh Utara",
+    "id_kabupaten": "8"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8b",
+    "no": "9",
+    "nama_kabupaten": "Simeulue",
+    "id_kabupaten": "9"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8c",
+    "no": "10",
+    "nama_kabupaten": "Aceh Singkil",
+    "id_kabupaten": "10"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8d",
+    "no": "11",
+    "nama_kabupaten": "Bireuen",
+    "id_kabupaten": "11"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8e",
+    "no": "12",
+    "nama_kabupaten": "Aceh Barat Daya",
+    "id_kabupaten": "12"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae8f",
+    "no": "13",
+    "nama_kabupaten": "Gayo Lues",
+    "id_kabupaten": "13"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae90",
+    "no": "14",
+    "nama_kabupaten": "Aceh Jaya",
+    "id_kabupaten": "14"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae91",
+    "no": "15",
+    "nama_kabupaten": "Nagan Raya",
+    "id_kabupaten": "15"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae92",
+    "no": "16",
+    "nama_kabupaten": "Aceh Tamiang",
+    "id_kabupaten": "16"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae93",
+    "no": "17",
+    "nama_kabupaten": "Bener Meriah",
+    "id_kabupaten": "17"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae94",
+    "no": "18",
+    "nama_kabupaten": "Pidie Jaya",
+    "id_kabupaten": "18"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae95",
+    "no": "19",
+    "nama_kabupaten": "Kota Banda Aceh",
+    "id_kabupaten": "19"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae96",
+    "no": "20",
+    "nama_kabupaten": "Kota Sabang",
+    "id_kabupaten": "20"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae97",
+    "no": "21",
+    "nama_kabupaten": "Kota Lhokseumawe",
+    "id_kabupaten": "21"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae98",
+    "no": "22",
+    "nama_kabupaten": "Kota Langsa",
+    "id_kabupaten": "22"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae99",
+    "no": "23",
+    "nama_kabupaten": "Kota Subulussalam",
+    "id_kabupaten": "23"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9a",
+    "no": "24",
+    "nama_kabupaten": "Tapanuli Tengah",
+    "id_kabupaten": "24"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9b",
+    "no": "25",
+    "nama_kabupaten": "Tapanuli Utara",
+    "id_kabupaten": "25"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9c",
+    "no": "26",
+    "nama_kabupaten": "Tapanuli Selatan",
+    "id_kabupaten": "26"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9d",
+    "no": "27",
+    "nama_kabupaten": "Nias",
+    "id_kabupaten": "27"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9e",
+    "no": "28",
+    "nama_kabupaten": "Langkat",
+    "id_kabupaten": "28"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adae9f",
+    "no": "29",
+    "nama_kabupaten": "Karo",
+    "id_kabupaten": "29"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea0",
+    "no": "30",
+    "nama_kabupaten": "Deli Serdang",
+    "id_kabupaten": "30"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea1",
+    "no": "31",
+    "nama_kabupaten": "Simalungun",
+    "id_kabupaten": "31"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea2",
+    "no": "32",
+    "nama_kabupaten": "Asahan",
+    "id_kabupaten": "32"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea3",
+    "no": "33",
+    "nama_kabupaten": "Labuhan Batu",
+    "id_kabupaten": "33"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea4",
+    "no": "34",
+    "nama_kabupaten": "Dairi",
+    "id_kabupaten": "34"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea5",
+    "no": "35",
+    "nama_kabupaten": "Toba Samosir",
+    "id_kabupaten": "35"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea6",
+    "no": "36",
+    "nama_kabupaten": "Mandailing Natal",
+    "id_kabupaten": "36"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea7",
+    "no": "37",
+    "nama_kabupaten": "Nias Selatan",
+    "id_kabupaten": "37"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea8",
+    "no": "38",
+    "nama_kabupaten": "Pakpak Bharat",
+    "id_kabupaten": "38"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaea9",
+    "no": "39",
+    "nama_kabupaten": "Humbang Hasundutan",
+    "id_kabupaten": "39"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeaa",
+    "no": "40",
+    "nama_kabupaten": "Samosir",
+    "id_kabupaten": "40"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeab",
+    "no": "41",
+    "nama_kabupaten": "Serdang Bedagai",
+    "id_kabupaten": "41"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeac",
+    "no": "42",
+    "nama_kabupaten": "Batu Bara",
+    "id_kabupaten": "42"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaead",
+    "no": "43",
+    "nama_kabupaten": "Padang Lawas Utara",
+    "id_kabupaten": "43"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeae",
+    "no": "44",
+    "nama_kabupaten": "Padang Lawas",
+    "id_kabupaten": "44"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeaf",
+    "no": "45",
+    "nama_kabupaten": "Labuhanbatu Selatan",
+    "id_kabupaten": "45"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb0",
+    "no": "46",
+    "nama_kabupaten": "Labuhanbatu Utara",
+    "id_kabupaten": "46"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb1",
+    "no": "47",
+    "nama_kabupaten": "Nias Utara",
+    "id_kabupaten": "47"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb2",
+    "no": "48",
+    "nama_kabupaten": "Nias Barat",
+    "id_kabupaten": "48"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb3",
+    "no": "49",
+    "nama_kabupaten": "Kota Medan",
+    "id_kabupaten": "49"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb4",
+    "no": "50",
+    "nama_kabupaten": "Kota Pematang Siantar",
+    "id_kabupaten": "50"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb5",
+    "no": "51",
+    "nama_kabupaten": "Kota Sibolga",
+    "id_kabupaten": "51"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb6",
+    "no": "52",
+    "nama_kabupaten": "Kota Tanjung Balai",
+    "id_kabupaten": "52"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb7",
+    "no": "53",
+    "nama_kabupaten": "Kota Binjai",
+    "id_kabupaten": "53"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb8",
+    "no": "54",
+    "nama_kabupaten": "Kota Tebing Tinggi",
+    "id_kabupaten": "54"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeb9",
+    "no": "55",
+    "nama_kabupaten": "Kota Padang Sidempuan",
+    "id_kabupaten": "55"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeba",
+    "no": "56",
+    "nama_kabupaten": "Kota Gunungsitoli",
+    "id_kabupaten": "56"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaebb",
+    "no": "57",
+    "nama_kabupaten": "Pesisir Selatan",
+    "id_kabupaten": "57"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaebc",
+    "no": "58",
+    "nama_kabupaten": "Solok",
+    "id_kabupaten": "58"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaebd",
+    "no": "59",
+    "nama_kabupaten": "Sijunjung",
+    "id_kabupaten": "59"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaebe",
+    "no": "60",
+    "nama_kabupaten": "Tanah Datar",
+    "id_kabupaten": "60"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaebf",
+    "no": "61",
+    "nama_kabupaten": "Padang Pariaman",
+    "id_kabupaten": "61"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec0",
+    "no": "62",
+    "nama_kabupaten": "Agam",
+    "id_kabupaten": "62"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec1",
+    "no": "63",
+    "nama_kabupaten": "Lima Puluh Kota",
+    "id_kabupaten": "63"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec2",
+    "no": "64",
+    "nama_kabupaten": "Pasaman",
+    "id_kabupaten": "64"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec3",
+    "no": "65",
+    "nama_kabupaten": "Kepulauan Mentawai",
+    "id_kabupaten": "65"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec4",
+    "no": "66",
+    "nama_kabupaten": "Dharmasraya",
+    "id_kabupaten": "66"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec5",
+    "no": "67",
+    "nama_kabupaten": "Solok Selatan",
+    "id_kabupaten": "67"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec6",
+    "no": "68",
+    "nama_kabupaten": "Pasaman Barat",
+    "id_kabupaten": "68"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec7",
+    "no": "69",
+    "nama_kabupaten": "Kota Padang",
+    "id_kabupaten": "69"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec8",
+    "no": "70",
+    "nama_kabupaten": "Kota Solok",
+    "id_kabupaten": "70"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaec9",
+    "no": "71",
+    "nama_kabupaten": "Kota Sawahlunto",
+    "id_kabupaten": "71"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeca",
+    "no": "72",
+    "nama_kabupaten": "Kota Padangpanjang",
+    "id_kabupaten": "72"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaecb",
+    "no": "73",
+    "nama_kabupaten": "Kota Bukittinggi",
+    "id_kabupaten": "73"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaecc",
+    "no": "74",
+    "nama_kabupaten": "Kota Payakumbuh",
+    "id_kabupaten": "74"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaecd",
+    "no": "75",
+    "nama_kabupaten": "Kota Pariaman",
+    "id_kabupaten": "75"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaece",
+    "no": "76",
+    "nama_kabupaten": "Musi Rawas Utara",
+    "id_kabupaten": "76"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaecf",
+    "no": "77",
+    "nama_kabupaten": "Kampar",
+    "id_kabupaten": "77"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed0",
+    "no": "78",
+    "nama_kabupaten": "Indragiri Hulu",
+    "id_kabupaten": "78"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed1",
+    "no": "79",
+    "nama_kabupaten": "Bengkalis",
+    "id_kabupaten": "79"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed2",
+    "no": "80",
+    "nama_kabupaten": "Indragiri Hilir",
+    "id_kabupaten": "80"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed3",
+    "no": "81",
+    "nama_kabupaten": "Pelalawan",
+    "id_kabupaten": "81"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed4",
+    "no": "82",
+    "nama_kabupaten": "Rokan Hulu",
+    "id_kabupaten": "82"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed5",
+    "no": "83",
+    "nama_kabupaten": "Rokan Hilir",
+    "id_kabupaten": "83"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed6",
+    "no": "84",
+    "nama_kabupaten": "Siak",
+    "id_kabupaten": "84"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed7",
+    "no": "85",
+    "nama_kabupaten": "Kuantan Singingi",
+    "id_kabupaten": "85"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed8",
+    "no": "86",
+    "nama_kabupaten": "Kepulauan Meranti",
+    "id_kabupaten": "86"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaed9",
+    "no": "87",
+    "nama_kabupaten": "Kota Pekanbaru",
+    "id_kabupaten": "87"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeda",
+    "no": "88",
+    "nama_kabupaten": "Kota Dumai",
+    "id_kabupaten": "88"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaedb",
+    "no": "89",
+    "nama_kabupaten": "Kerinci",
+    "id_kabupaten": "89"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaedc",
+    "no": "90",
+    "nama_kabupaten": "Merangin",
+    "id_kabupaten": "90"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaedd",
+    "no": "91",
+    "nama_kabupaten": "Sarolangun",
+    "id_kabupaten": "91"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaede",
+    "no": "92",
+    "nama_kabupaten": "Batang Hari",
+    "id_kabupaten": "92"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaedf",
+    "no": "93",
+    "nama_kabupaten": "Muaro Jambi",
+    "id_kabupaten": "93"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee0",
+    "no": "94",
+    "nama_kabupaten": "Tanjung Jabung Barat",
+    "id_kabupaten": "94"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee1",
+    "no": "95",
+    "nama_kabupaten": "Tanjung Jabung Timur",
+    "id_kabupaten": "95"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee2",
+    "no": "96",
+    "nama_kabupaten": "Bungo",
+    "id_kabupaten": "96"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee3",
+    "no": "97",
+    "nama_kabupaten": "Tebo",
+    "id_kabupaten": "97"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee4",
+    "no": "98",
+    "nama_kabupaten": "Kota Jambi",
+    "id_kabupaten": "98"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee5",
+    "no": "99",
+    "nama_kabupaten": "Kota Sungai Penuh",
+    "id_kabupaten": "99"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee6",
+    "no": "100",
+    "nama_kabupaten": "Penukal Abab Lematang Ilir",
+    "id_kabupaten": "100"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee7",
+    "no": "101",
+    "nama_kabupaten": "Ogan Komering Ulu",
+    "id_kabupaten": "101"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee8",
+    "no": "102",
+    "nama_kabupaten": "Ogan Komering Ilir",
+    "id_kabupaten": "102"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaee9",
+    "no": "103",
+    "nama_kabupaten": "Muara Enim",
+    "id_kabupaten": "103"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeea",
+    "no": "104",
+    "nama_kabupaten": "Lahat",
+    "id_kabupaten": "104"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeeb",
+    "no": "105",
+    "nama_kabupaten": "Musi Rawas",
+    "id_kabupaten": "105"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeec",
+    "no": "106",
+    "nama_kabupaten": "Musi Banyuasin",
+    "id_kabupaten": "106"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeed",
+    "no": "107",
+    "nama_kabupaten": "Banyuasin",
+    "id_kabupaten": "107"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeee",
+    "no": "108",
+    "nama_kabupaten": "Ogan Komering Ulu Timur",
+    "id_kabupaten": "108"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeef",
+    "no": "109",
+    "nama_kabupaten": "Ogan Komering Ulu Selatan",
+    "id_kabupaten": "109"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef0",
+    "no": "110",
+    "nama_kabupaten": "Ogan Ilir",
+    "id_kabupaten": "110"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef1",
+    "no": "111",
+    "nama_kabupaten": "Empat Lawang",
+    "id_kabupaten": "111"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef2",
+    "no": "112",
+    "nama_kabupaten": "Kota Palembang",
+    "id_kabupaten": "112"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef3",
+    "no": "113",
+    "nama_kabupaten": "Kota Pagar Alam",
+    "id_kabupaten": "113"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef4",
+    "no": "114",
+    "nama_kabupaten": "Kota Lubuk Linggau",
+    "id_kabupaten": "114"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef5",
+    "no": "115",
+    "nama_kabupaten": "Kota Prabumulih",
+    "id_kabupaten": "115"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef6",
+    "no": "116",
+    "nama_kabupaten": "Bengkulu Selatan",
+    "id_kabupaten": "116"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef7",
+    "no": "117",
+    "nama_kabupaten": "Rejang Lebong",
+    "id_kabupaten": "117"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef8",
+    "no": "118",
+    "nama_kabupaten": "Bengkulu Utara",
+    "id_kabupaten": "118"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaef9",
+    "no": "119",
+    "nama_kabupaten": "Kaur",
+    "id_kabupaten": "119"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaefa",
+    "no": "120",
+    "nama_kabupaten": "Seluma",
+    "id_kabupaten": "120"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaefb",
+    "no": "121",
+    "nama_kabupaten": "Muko-Muko",
+    "id_kabupaten": "121"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaefc",
+    "no": "122",
+    "nama_kabupaten": "Lebong",
+    "id_kabupaten": "122"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaefd",
+    "no": "123",
+    "nama_kabupaten": "Kepahiang",
+    "id_kabupaten": "123"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaefe",
+    "no": "124",
+    "nama_kabupaten": "Bengkulu Tengah",
+    "id_kabupaten": "124"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaeff",
+    "no": "125",
+    "nama_kabupaten": "Kota Bengkulu",
+    "id_kabupaten": "125"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf00",
+    "no": "126",
+    "nama_kabupaten": "Pesisir Barat",
+    "id_kabupaten": "126"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf01",
+    "no": "127",
+    "nama_kabupaten": "Lampung Selatan",
+    "id_kabupaten": "127"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf02",
+    "no": "128",
+    "nama_kabupaten": "Lampung Tengah",
+    "id_kabupaten": "128"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf03",
+    "no": "129",
+    "nama_kabupaten": "Lampung Utara",
+    "id_kabupaten": "129"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf04",
+    "no": "130",
+    "nama_kabupaten": "Lampung Barat",
+    "id_kabupaten": "130"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf05",
+    "no": "131",
+    "nama_kabupaten": "Tulang Bawang",
+    "id_kabupaten": "131"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf06",
+    "no": "132",
+    "nama_kabupaten": "Tanggamus",
+    "id_kabupaten": "132"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf07",
+    "no": "133",
+    "nama_kabupaten": "Lampung Timur",
+    "id_kabupaten": "133"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf08",
+    "no": "134",
+    "nama_kabupaten": "Way Kanan",
+    "id_kabupaten": "134"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf09",
+    "no": "135",
+    "nama_kabupaten": "Pesawaran",
+    "id_kabupaten": "135"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0a",
+    "no": "136",
+    "nama_kabupaten": "Pringsewu",
+    "id_kabupaten": "136"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0b",
+    "no": "137",
+    "nama_kabupaten": "Mesuji",
+    "id_kabupaten": "137"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0c",
+    "no": "138",
+    "nama_kabupaten": "Tulang Bawang Barat",
+    "id_kabupaten": "138"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0d",
+    "no": "139",
+    "nama_kabupaten": "Kota Bandar Lampung",
+    "id_kabupaten": "139"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0e",
+    "no": "140",
+    "nama_kabupaten": "Kota Metro",
+    "id_kabupaten": "140"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf0f",
+    "no": "141",
+    "nama_kabupaten": "Bangka",
+    "id_kabupaten": "141"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf10",
+    "no": "142",
+    "nama_kabupaten": "Belitung",
+    "id_kabupaten": "142"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf11",
+    "no": "143",
+    "nama_kabupaten": "Bangka Selatan",
+    "id_kabupaten": "143"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf12",
+    "no": "144",
+    "nama_kabupaten": "Bangka Tengah",
+    "id_kabupaten": "144"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf13",
+    "no": "145",
+    "nama_kabupaten": "Bangka Barat",
+    "id_kabupaten": "145"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf14",
+    "no": "146",
+    "nama_kabupaten": "Belitung Timur",
+    "id_kabupaten": "146"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf15",
+    "no": "147",
+    "nama_kabupaten": "Kota PangkalPinang",
+    "id_kabupaten": "147"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf16",
+    "no": "148",
+    "nama_kabupaten": "Bintan",
+    "id_kabupaten": "148"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf17",
+    "no": "149",
+    "nama_kabupaten": "Karimun",
+    "id_kabupaten": "149"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf18",
+    "no": "150",
+    "nama_kabupaten": "Natuna",
+    "id_kabupaten": "150"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf19",
+    "no": "151",
+    "nama_kabupaten": "Lingga",
+    "id_kabupaten": "151"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1a",
+    "no": "152",
+    "nama_kabupaten": "Kepulauan Anambas",
+    "id_kabupaten": "152"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1b",
+    "no": "153",
+    "nama_kabupaten": "Kota Batam",
+    "id_kabupaten": "153"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1c",
+    "no": "154",
+    "nama_kabupaten": "Kota Tanjung Pinang",
+    "id_kabupaten": "154"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1d",
+    "no": "155",
+    "nama_kabupaten": "Kepulauan Seribu",
+    "id_kabupaten": "155"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1e",
+    "no": "156",
+    "nama_kabupaten": "Kota Jakarta Pusat",
+    "id_kabupaten": "156"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf1f",
+    "no": "157",
+    "nama_kabupaten": "Kota Jakarta Utara",
+    "id_kabupaten": "157"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf20",
+    "no": "158",
+    "nama_kabupaten": "Kota Jakarta Barat",
+    "id_kabupaten": "158"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf21",
+    "no": "159",
+    "nama_kabupaten": "Kota Jakarta Selatan",
+    "id_kabupaten": "159"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf22",
+    "no": "160",
+    "nama_kabupaten": "Kota Jakarta Timur",
+    "id_kabupaten": "160"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf23",
+    "no": "161",
+    "nama_kabupaten": "Pangandaran",
+    "id_kabupaten": "161"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf24",
+    "no": "162",
+    "nama_kabupaten": "Sukabumi",
+    "id_kabupaten": "162"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf25",
+    "no": "163",
+    "nama_kabupaten": "Cianjur",
+    "id_kabupaten": "163"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf26",
+    "no": "164",
+    "nama_kabupaten": "Bandung",
+    "id_kabupaten": "164"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf27",
+    "no": "165",
+    "nama_kabupaten": "Garut",
+    "id_kabupaten": "165"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf28",
+    "no": "166",
+    "nama_kabupaten": "Tasikmalaya",
+    "id_kabupaten": "166"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf29",
+    "no": "167",
+    "nama_kabupaten": "Ciamis",
+    "id_kabupaten": "167"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2a",
+    "no": "168",
+    "nama_kabupaten": "Kuningan",
+    "id_kabupaten": "168"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2b",
+    "no": "169",
+    "nama_kabupaten": "Cirebon",
+    "id_kabupaten": "169"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2c",
+    "no": "170",
+    "nama_kabupaten": "Majalengka",
+    "id_kabupaten": "170"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2d",
+    "no": "171",
+    "nama_kabupaten": "Sumedang",
+    "id_kabupaten": "171"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2e",
+    "no": "172",
+    "nama_kabupaten": "Indramayu",
+    "id_kabupaten": "172"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf2f",
+    "no": "173",
+    "nama_kabupaten": "Subang",
+    "id_kabupaten": "173"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf30",
+    "no": "174",
+    "nama_kabupaten": "Purwakarta",
+    "id_kabupaten": "174"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf31",
+    "no": "175",
+    "nama_kabupaten": "Karawang",
+    "id_kabupaten": "175"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf32",
+    "no": "176",
+    "nama_kabupaten": "Bekasi",
+    "id_kabupaten": "176"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf33",
+    "no": "177",
+    "nama_kabupaten": "Bandung Barat",
+    "id_kabupaten": "177"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf34",
+    "no": "178",
+    "nama_kabupaten": "Kota Bogor",
+    "id_kabupaten": "178"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf35",
+    "no": "179",
+    "nama_kabupaten": "Kota Sukabumi",
+    "id_kabupaten": "179"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf36",
+    "no": "180",
+    "nama_kabupaten": "Kota Bandung",
+    "id_kabupaten": "180"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf37",
+    "no": "181",
+    "nama_kabupaten": "Kota Cirebon",
+    "id_kabupaten": "181"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf38",
+    "no": "182",
+    "nama_kabupaten": "Kota Bekasi",
+    "id_kabupaten": "182"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf39",
+    "no": "183",
+    "nama_kabupaten": "Kota Depok",
+    "id_kabupaten": "183"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3a",
+    "no": "184",
+    "nama_kabupaten": "Kota Cimahi",
+    "id_kabupaten": "184"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3b",
+    "no": "185",
+    "nama_kabupaten": "Kota Tasikmalaya",
+    "id_kabupaten": "185"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3c",
+    "no": "186",
+    "nama_kabupaten": "Kota Banjar",
+    "id_kabupaten": "186"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3d",
+    "no": "187",
+    "nama_kabupaten": "Cilacap",
+    "id_kabupaten": "187"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3e",
+    "no": "188",
+    "nama_kabupaten": "Banyumas",
+    "id_kabupaten": "188"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf3f",
+    "no": "189",
+    "nama_kabupaten": "Purbalingga",
+    "id_kabupaten": "189"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf40",
+    "no": "190",
+    "nama_kabupaten": "Banjarnegara",
+    "id_kabupaten": "190"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf41",
+    "no": "191",
+    "nama_kabupaten": "Kebumen",
+    "id_kabupaten": "191"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf42",
+    "no": "192",
+    "nama_kabupaten": "Purworejo",
+    "id_kabupaten": "192"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf43",
+    "no": "193",
+    "nama_kabupaten": "Wonosobo",
+    "id_kabupaten": "193"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf44",
+    "no": "194",
+    "nama_kabupaten": "Magelang",
+    "id_kabupaten": "194"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf45",
+    "no": "195",
+    "nama_kabupaten": "Boyolali",
+    "id_kabupaten": "195"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf46",
+    "no": "196",
+    "nama_kabupaten": "Klaten",
+    "id_kabupaten": "196"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf47",
+    "no": "197",
+    "nama_kabupaten": "Sukoharjo",
+    "id_kabupaten": "197"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf48",
+    "no": "198",
+    "nama_kabupaten": "Wonogiri",
+    "id_kabupaten": "198"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf49",
+    "no": "199",
+    "nama_kabupaten": "Karanganyar",
+    "id_kabupaten": "199"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4a",
+    "no": "200",
+    "nama_kabupaten": "Sragen",
+    "id_kabupaten": "200"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4b",
+    "no": "201",
+    "nama_kabupaten": "Grobogan",
+    "id_kabupaten": "201"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4c",
+    "no": "202",
+    "nama_kabupaten": "Blora",
+    "id_kabupaten": "202"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4d",
+    "no": "203",
+    "nama_kabupaten": "Rembang",
+    "id_kabupaten": "203"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4e",
+    "no": "204",
+    "nama_kabupaten": "Pati",
+    "id_kabupaten": "204"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf4f",
+    "no": "205",
+    "nama_kabupaten": "Kudus",
+    "id_kabupaten": "205"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf50",
+    "no": "206",
+    "nama_kabupaten": "Jepara",
+    "id_kabupaten": "206"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf51",
+    "no": "207",
+    "nama_kabupaten": "Demak",
+    "id_kabupaten": "207"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf52",
+    "no": "208",
+    "nama_kabupaten": "Semarang",
+    "id_kabupaten": "208"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf53",
+    "no": "209",
+    "nama_kabupaten": "Temanggung",
+    "id_kabupaten": "209"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf54",
+    "no": "210",
+    "nama_kabupaten": "Kendal",
+    "id_kabupaten": "210"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf55",
+    "no": "211",
+    "nama_kabupaten": "Batang",
+    "id_kabupaten": "211"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf56",
+    "no": "212",
+    "nama_kabupaten": "Pekalongan",
+    "id_kabupaten": "212"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf57",
+    "no": "213",
+    "nama_kabupaten": "Pemalang",
+    "id_kabupaten": "213"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf58",
+    "no": "214",
+    "nama_kabupaten": "Tegal",
+    "id_kabupaten": "214"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf59",
+    "no": "215",
+    "nama_kabupaten": "Brebes",
+    "id_kabupaten": "215"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5a",
+    "no": "216",
+    "nama_kabupaten": "Kota Magelang",
+    "id_kabupaten": "216"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5b",
+    "no": "217",
+    "nama_kabupaten": "Kota Surakarta",
+    "id_kabupaten": "217"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5c",
+    "no": "218",
+    "nama_kabupaten": "Kota Salatiga",
+    "id_kabupaten": "218"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5d",
+    "no": "219",
+    "nama_kabupaten": "Kota Semarang",
+    "id_kabupaten": "219"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5e",
+    "no": "220",
+    "nama_kabupaten": "Kota Pekalongan",
+    "id_kabupaten": "220"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf5f",
+    "no": "221",
+    "nama_kabupaten": "Kota Tegal",
+    "id_kabupaten": "221"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf60",
+    "no": "222",
+    "nama_kabupaten": "Kulon Progo",
+    "id_kabupaten": "222"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf61",
+    "no": "223",
+    "nama_kabupaten": "Bantul",
+    "id_kabupaten": "223"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf62",
+    "no": "224",
+    "nama_kabupaten": "Gunung Kidul",
+    "id_kabupaten": "224"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf63",
+    "no": "225",
+    "nama_kabupaten": "Sleman",
+    "id_kabupaten": "225"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf64",
+    "no": "226",
+    "nama_kabupaten": "Kota Yogyakarta",
+    "id_kabupaten": "226"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf65",
+    "no": "227",
+    "nama_kabupaten": "Pacitan",
+    "id_kabupaten": "227"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf66",
+    "no": "228",
+    "nama_kabupaten": "Ponorogo",
+    "id_kabupaten": "228"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf67",
+    "no": "229",
+    "nama_kabupaten": "Tulungagung",
+    "id_kabupaten": "229"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf68",
+    "no": "230",
+    "nama_kabupaten": "Blitar",
+    "id_kabupaten": "230"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf69",
+    "no": "231",
+    "nama_kabupaten": "Kediri",
+    "id_kabupaten": "231"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6a",
+    "no": "232",
+    "nama_kabupaten": "Malang",
+    "id_kabupaten": "232"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6b",
+    "no": "233",
+    "nama_kabupaten": "Lumajang",
+    "id_kabupaten": "233"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6c",
+    "no": "234",
+    "nama_kabupaten": "Jember",
+    "id_kabupaten": "234"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6d",
+    "no": "235",
+    "nama_kabupaten": "Banyuwangi",
+    "id_kabupaten": "235"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6e",
+    "no": "236",
+    "nama_kabupaten": "Bondowoso",
+    "id_kabupaten": "236"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf6f",
+    "no": "237",
+    "nama_kabupaten": "Situbondo",
+    "id_kabupaten": "237"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf70",
+    "no": "238",
+    "nama_kabupaten": "Pasuruan",
+    "id_kabupaten": "238"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf71",
+    "no": "239",
+    "nama_kabupaten": "Sidoarjo",
+    "id_kabupaten": "239"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf72",
+    "no": "240",
+    "nama_kabupaten": "Mojokerto",
+    "id_kabupaten": "240"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf73",
+    "no": "241",
+    "nama_kabupaten": "Jombang",
+    "id_kabupaten": "241"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf74",
+    "no": "242",
+    "nama_kabupaten": "Nganjuk",
+    "id_kabupaten": "242"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf75",
+    "no": "243",
+    "nama_kabupaten": "Madiun",
+    "id_kabupaten": "243"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf76",
+    "no": "244",
+    "nama_kabupaten": "Magetan",
+    "id_kabupaten": "244"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf77",
+    "no": "245",
+    "nama_kabupaten": "Ngawi",
+    "id_kabupaten": "245"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf78",
+    "no": "246",
+    "nama_kabupaten": "Bojonegoro",
+    "id_kabupaten": "246"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf79",
+    "no": "247",
+    "nama_kabupaten": "Tuban",
+    "id_kabupaten": "247"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7a",
+    "no": "248",
+    "nama_kabupaten": "Lamongan",
+    "id_kabupaten": "248"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7b",
+    "no": "249",
+    "nama_kabupaten": "Gresik",
+    "id_kabupaten": "249"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7c",
+    "no": "250",
+    "nama_kabupaten": "Bangkalan",
+    "id_kabupaten": "250"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7d",
+    "no": "251",
+    "nama_kabupaten": "Sampang",
+    "id_kabupaten": "251"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7e",
+    "no": "252",
+    "nama_kabupaten": "Pamekasan",
+    "id_kabupaten": "252"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf7f",
+    "no": "253",
+    "nama_kabupaten": "Sumenep",
+    "id_kabupaten": "253"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf80",
+    "no": "254",
+    "nama_kabupaten": "Kota Kediri",
+    "id_kabupaten": "254"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf81",
+    "no": "255",
+    "nama_kabupaten": "Kota Blitar",
+    "id_kabupaten": "255"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf82",
+    "no": "256",
+    "nama_kabupaten": "Kota Malang",
+    "id_kabupaten": "256"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf83",
+    "no": "257",
+    "nama_kabupaten": "Kota Probolinggo",
+    "id_kabupaten": "257"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf84",
+    "no": "258",
+    "nama_kabupaten": "Kota Pasuruan",
+    "id_kabupaten": "258"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf85",
+    "no": "259",
+    "nama_kabupaten": "Kota Mojokerto",
+    "id_kabupaten": "259"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf86",
+    "no": "260",
+    "nama_kabupaten": "Kota Madiun",
+    "id_kabupaten": "260"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf87",
+    "no": "261",
+    "nama_kabupaten": "Kota Surabaya",
+    "id_kabupaten": "261"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf88",
+    "no": "262",
+    "nama_kabupaten": "Kota Batu",
+    "id_kabupaten": "262"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf89",
+    "no": "263",
+    "nama_kabupaten": "Pandeglang",
+    "id_kabupaten": "263"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8a",
+    "no": "264",
+    "nama_kabupaten": "Lebak",
+    "id_kabupaten": "264"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8b",
+    "no": "265",
+    "nama_kabupaten": "Tangerang",
+    "id_kabupaten": "265"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8c",
+    "no": "266",
+    "nama_kabupaten": "Serang",
+    "id_kabupaten": "266"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8d",
+    "no": "267",
+    "nama_kabupaten": "Kota Tangerang",
+    "id_kabupaten": "267"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8e",
+    "no": "268",
+    "nama_kabupaten": "Kota Cilegon",
+    "id_kabupaten": "268"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf8f",
+    "no": "269",
+    "nama_kabupaten": "Kota Serang",
+    "id_kabupaten": "269"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf90",
+    "no": "270",
+    "nama_kabupaten": "Kota Tangerang Selatan",
+    "id_kabupaten": "270"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf91",
+    "no": "271",
+    "nama_kabupaten": "Jembrana",
+    "id_kabupaten": "271"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf92",
+    "no": "272",
+    "nama_kabupaten": "Tabanan",
+    "id_kabupaten": "272"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf93",
+    "no": "273",
+    "nama_kabupaten": "Badung",
+    "id_kabupaten": "273"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf94",
+    "no": "274",
+    "nama_kabupaten": "Gianyar",
+    "id_kabupaten": "274"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf95",
+    "no": "275",
+    "nama_kabupaten": "Klungkung",
+    "id_kabupaten": "275"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf96",
+    "no": "276",
+    "nama_kabupaten": "Bangli",
+    "id_kabupaten": "276"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf97",
+    "no": "277",
+    "nama_kabupaten": "Karangasem",
+    "id_kabupaten": "277"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf98",
+    "no": "278",
+    "nama_kabupaten": "Buleleng",
+    "id_kabupaten": "278"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf99",
+    "no": "279",
+    "nama_kabupaten": "Kota Denpasar",
+    "id_kabupaten": "279"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9a",
+    "no": "280",
+    "nama_kabupaten": "Lombok Barat",
+    "id_kabupaten": "280"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9b",
+    "no": "281",
+    "nama_kabupaten": "Lombok Tengah",
+    "id_kabupaten": "281"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9c",
+    "no": "282",
+    "nama_kabupaten": "Lombok Timur",
+    "id_kabupaten": "282"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9d",
+    "no": "283",
+    "nama_kabupaten": "Sumbawa",
+    "id_kabupaten": "283"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9e",
+    "no": "284",
+    "nama_kabupaten": "Dompu",
+    "id_kabupaten": "284"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaf9f",
+    "no": "285",
+    "nama_kabupaten": "Bima",
+    "id_kabupaten": "285"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa0",
+    "no": "286",
+    "nama_kabupaten": "Sumbawa Barat",
+    "id_kabupaten": "286"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa1",
+    "no": "287",
+    "nama_kabupaten": "Lombok Utara",
+    "id_kabupaten": "287"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa2",
+    "no": "288",
+    "nama_kabupaten": "Kota Mataram",
+    "id_kabupaten": "288"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa3",
+    "no": "289",
+    "nama_kabupaten": "Kota Bima",
+    "id_kabupaten": "289"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa4",
+    "no": "290",
+    "nama_kabupaten": "Malaka",
+    "id_kabupaten": "290"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa5",
+    "no": "291",
+    "nama_kabupaten": "Kupang",
+    "id_kabupaten": "291"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa6",
+    "no": "292",
+    "nama_kabupaten": "Timor Tengah Selatan",
+    "id_kabupaten": "292"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa7",
+    "no": "293",
+    "nama_kabupaten": "Timor Tengah Utara",
+    "id_kabupaten": "293"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa8",
+    "no": "294",
+    "nama_kabupaten": "Belu",
+    "id_kabupaten": "294"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafa9",
+    "no": "295",
+    "nama_kabupaten": "Alor",
+    "id_kabupaten": "295"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafaa",
+    "no": "296",
+    "nama_kabupaten": "Flores Timur",
+    "id_kabupaten": "296"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafab",
+    "no": "297",
+    "nama_kabupaten": "Sikka",
+    "id_kabupaten": "297"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafac",
+    "no": "298",
+    "nama_kabupaten": "Ende",
+    "id_kabupaten": "298"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafad",
+    "no": "299",
+    "nama_kabupaten": "Ngada",
+    "id_kabupaten": "299"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafae",
+    "no": "300",
+    "nama_kabupaten": "Manggarai",
+    "id_kabupaten": "300"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafaf",
+    "no": "301",
+    "nama_kabupaten": "Sumba Timur",
+    "id_kabupaten": "301"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb0",
+    "no": "302",
+    "nama_kabupaten": "Sumba Barat",
+    "id_kabupaten": "302"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb1",
+    "no": "303",
+    "nama_kabupaten": "Lembata",
+    "id_kabupaten": "303"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb2",
+    "no": "304",
+    "nama_kabupaten": "Rote Ndao",
+    "id_kabupaten": "304"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb3",
+    "no": "305",
+    "nama_kabupaten": "Manggarai Barat",
+    "id_kabupaten": "305"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb4",
+    "no": "306",
+    "nama_kabupaten": "Nagekeo",
+    "id_kabupaten": "306"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb5",
+    "no": "307",
+    "nama_kabupaten": "Sumba Tengah",
+    "id_kabupaten": "307"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb6",
+    "no": "308",
+    "nama_kabupaten": "Sumba Barat Daya",
+    "id_kabupaten": "308"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb7",
+    "no": "309",
+    "nama_kabupaten": "Manggarai Timur",
+    "id_kabupaten": "309"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb8",
+    "no": "310",
+    "nama_kabupaten": "Sabu Raijua",
+    "id_kabupaten": "310"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafb9",
+    "no": "311",
+    "nama_kabupaten": "Kota Kupang",
+    "id_kabupaten": "311"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafba",
+    "no": "312",
+    "nama_kabupaten": "Sambas",
+    "id_kabupaten": "312"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafbb",
+    "no": "313",
+    "nama_kabupaten": "Mempawah",
+    "id_kabupaten": "313"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafbc",
+    "no": "314",
+    "nama_kabupaten": "Sanggau",
+    "id_kabupaten": "314"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafbd",
+    "no": "315",
+    "nama_kabupaten": "Ketapang",
+    "id_kabupaten": "315"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafbe",
+    "no": "316",
+    "nama_kabupaten": "Sintang",
+    "id_kabupaten": "316"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafbf",
+    "no": "317",
+    "nama_kabupaten": "Kapuas Hulu",
+    "id_kabupaten": "317"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc0",
+    "no": "318",
+    "nama_kabupaten": "Bengkayang",
+    "id_kabupaten": "318"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc1",
+    "no": "319",
+    "nama_kabupaten": "Landak",
+    "id_kabupaten": "319"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc2",
+    "no": "320",
+    "nama_kabupaten": "Sekadau",
+    "id_kabupaten": "320"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc3",
+    "no": "321",
+    "nama_kabupaten": "Melawi",
+    "id_kabupaten": "321"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc4",
+    "no": "322",
+    "nama_kabupaten": "Kayong Utara",
+    "id_kabupaten": "322"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc5",
+    "no": "323",
+    "nama_kabupaten": "Kubu Raya",
+    "id_kabupaten": "323"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc6",
+    "no": "324",
+    "nama_kabupaten": "Kota Pontianak",
+    "id_kabupaten": "324"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc7",
+    "no": "325",
+    "nama_kabupaten": "Kota Singkawang",
+    "id_kabupaten": "325"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc8",
+    "no": "326",
+    "nama_kabupaten": "Kotawaringin Barat",
+    "id_kabupaten": "326"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafc9",
+    "no": "327",
+    "nama_kabupaten": "Kotawaringin Timur",
+    "id_kabupaten": "327"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafca",
+    "no": "328",
+    "nama_kabupaten": "Kapuas",
+    "id_kabupaten": "328"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafcb",
+    "no": "329",
+    "nama_kabupaten": "Barito Selatan",
+    "id_kabupaten": "329"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafcc",
+    "no": "330",
+    "nama_kabupaten": "Barito Utara",
+    "id_kabupaten": "330"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafcd",
+    "no": "331",
+    "nama_kabupaten": "Katingan",
+    "id_kabupaten": "331"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafce",
+    "no": "332",
+    "nama_kabupaten": "Seruyan",
+    "id_kabupaten": "332"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafcf",
+    "no": "333",
+    "nama_kabupaten": "Sukamara",
+    "id_kabupaten": "333"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd0",
+    "no": "334",
+    "nama_kabupaten": "Lamandau",
+    "id_kabupaten": "334"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd1",
+    "no": "335",
+    "nama_kabupaten": "Gunung Mas",
+    "id_kabupaten": "335"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd2",
+    "no": "336",
+    "nama_kabupaten": "Pulang Pisau",
+    "id_kabupaten": "336"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd3",
+    "no": "337",
+    "nama_kabupaten": "Murung Raya",
+    "id_kabupaten": "337"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd4",
+    "no": "338",
+    "nama_kabupaten": "Barito Timur",
+    "id_kabupaten": "338"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd5",
+    "no": "339",
+    "nama_kabupaten": "Kota Palangkaraya",
+    "id_kabupaten": "339"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd6",
+    "no": "340",
+    "nama_kabupaten": "Tanah Laut",
+    "id_kabupaten": "340"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd7",
+    "no": "341",
+    "nama_kabupaten": "Kotabaru",
+    "id_kabupaten": "341"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd8",
+    "no": "342",
+    "nama_kabupaten": "Banjar",
+    "id_kabupaten": "342"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafd9",
+    "no": "343",
+    "nama_kabupaten": "Barito Kuala",
+    "id_kabupaten": "343"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafda",
+    "no": "344",
+    "nama_kabupaten": "Tapin",
+    "id_kabupaten": "344"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafdb",
+    "no": "345",
+    "nama_kabupaten": "Hulu Sungai Selatan",
+    "id_kabupaten": "345"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafdc",
+    "no": "346",
+    "nama_kabupaten": "Hulu Sungai Tengah",
+    "id_kabupaten": "346"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafdd",
+    "no": "347",
+    "nama_kabupaten": "Hulu Sungai Utara",
+    "id_kabupaten": "347"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafde",
+    "no": "348",
+    "nama_kabupaten": "Tabalong",
+    "id_kabupaten": "348"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafdf",
+    "no": "349",
+    "nama_kabupaten": "Tanah Bumbu",
+    "id_kabupaten": "349"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe0",
+    "no": "350",
+    "nama_kabupaten": "Balangan",
+    "id_kabupaten": "350"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe1",
+    "no": "351",
+    "nama_kabupaten": "Kota Banjarmasin",
+    "id_kabupaten": "351"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe2",
+    "no": "352",
+    "nama_kabupaten": "Kota Banjarbaru",
+    "id_kabupaten": "352"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe3",
+    "no": "353",
+    "nama_kabupaten": "Paser",
+    "id_kabupaten": "353"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe4",
+    "no": "354",
+    "nama_kabupaten": "Kutai Kartanegara",
+    "id_kabupaten": "354"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe5",
+    "no": "355",
+    "nama_kabupaten": "Berau",
+    "id_kabupaten": "355"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe6",
+    "no": "356",
+    "nama_kabupaten": "Malinau",
+    "id_kabupaten": "356"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe7",
+    "no": "357",
+    "nama_kabupaten": "Kutai Barat",
+    "id_kabupaten": "357"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe8",
+    "no": "358",
+    "nama_kabupaten": "Mahakam Ulu",
+    "id_kabupaten": "358"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafe9",
+    "no": "359",
+    "nama_kabupaten": "Kutai Timur",
+    "id_kabupaten": "359"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafea",
+    "no": "360",
+    "nama_kabupaten": "Penajam Paser Utara",
+    "id_kabupaten": "360"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafeb",
+    "no": "361",
+    "nama_kabupaten": "Kota Balikpapan",
+    "id_kabupaten": "361"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafec",
+    "no": "362",
+    "nama_kabupaten": "Kota Samarinda",
+    "id_kabupaten": "362"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafed",
+    "no": "363",
+    "nama_kabupaten": "Kota Bontang",
+    "id_kabupaten": "363"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafee",
+    "no": "364",
+    "nama_kabupaten": "Bulungan",
+    "id_kabupaten": "364"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafef",
+    "no": "365",
+    "nama_kabupaten": "Nunukan",
+    "id_kabupaten": "365"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff0",
+    "no": "366",
+    "nama_kabupaten": "Tana Tidung",
+    "id_kabupaten": "366"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff1",
+    "no": "367",
+    "nama_kabupaten": "Kota Tarakan",
+    "id_kabupaten": "367"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff2",
+    "no": "368",
+    "nama_kabupaten": "Bolaang Mongondow",
+    "id_kabupaten": "368"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff3",
+    "no": "369",
+    "nama_kabupaten": "Minahasa",
+    "id_kabupaten": "369"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff4",
+    "no": "370",
+    "nama_kabupaten": "Kepulauan Sangihe",
+    "id_kabupaten": "370"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff5",
+    "no": "371",
+    "nama_kabupaten": "Kepulauan Talaud",
+    "id_kabupaten": "371"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff6",
+    "no": "372",
+    "nama_kabupaten": "Minahasa Selatan",
+    "id_kabupaten": "372"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff7",
+    "no": "373",
+    "nama_kabupaten": "Minahasa Utara",
+    "id_kabupaten": "373"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff8",
+    "no": "374",
+    "nama_kabupaten": "Minahasa Tenggara",
+    "id_kabupaten": "374"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaff9",
+    "no": "375",
+    "nama_kabupaten": "Bolaang Mongondow Utara",
+    "id_kabupaten": "375"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaffa",
+    "no": "376",
+    "nama_kabupaten": "Kepulauan Siau Tagulandang Biaro",
+    "id_kabupaten": "376"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaffb",
+    "no": "377",
+    "nama_kabupaten": "Bolaang Mongondow Timur",
+    "id_kabupaten": "377"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaffc",
+    "no": "378",
+    "nama_kabupaten": "Bolaang Mongondow Selatan",
+    "id_kabupaten": "378"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaffd",
+    "no": "379",
+    "nama_kabupaten": "Kota Manado",
+    "id_kabupaten": "379"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adaffe",
+    "no": "380",
+    "nama_kabupaten": "Kota Bitung",
+    "id_kabupaten": "380"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adafff",
+    "no": "381",
+    "nama_kabupaten": "Kota Tomohon",
+    "id_kabupaten": "381"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb000",
+    "no": "382",
+    "nama_kabupaten": "Kota Kotamobagu",
+    "id_kabupaten": "382"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb001",
+    "no": "383",
+    "nama_kabupaten": "Banggai Laut",
+    "id_kabupaten": "383"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb002",
+    "no": "384",
+    "nama_kabupaten": "Morowali Utara",
+    "id_kabupaten": "384"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb003",
+    "no": "385",
+    "nama_kabupaten": "Banggai",
+    "id_kabupaten": "385"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb004",
+    "no": "386",
+    "nama_kabupaten": "Poso",
+    "id_kabupaten": "386"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb005",
+    "no": "387",
+    "nama_kabupaten": "Donggala",
+    "id_kabupaten": "387"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb006",
+    "no": "388",
+    "nama_kabupaten": "Toli-Toli",
+    "id_kabupaten": "388"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb007",
+    "no": "389",
+    "nama_kabupaten": "Buol",
+    "id_kabupaten": "389"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb008",
+    "no": "390",
+    "nama_kabupaten": "Morowali",
+    "id_kabupaten": "390"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb009",
+    "no": "391",
+    "nama_kabupaten": "Banggai Kepulauan",
+    "id_kabupaten": "391"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00a",
+    "no": "392",
+    "nama_kabupaten": "Parigi Moutong",
+    "id_kabupaten": "392"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00b",
+    "no": "393",
+    "nama_kabupaten": "Tojo Una-Una",
+    "id_kabupaten": "393"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00c",
+    "no": "394",
+    "nama_kabupaten": "Sigi",
+    "id_kabupaten": "394"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00d",
+    "no": "395",
+    "nama_kabupaten": "Kota Palu",
+    "id_kabupaten": "395"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00e",
+    "no": "396",
+    "nama_kabupaten": "Kepulauan Selayar",
+    "id_kabupaten": "396"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb00f",
+    "no": "397",
+    "nama_kabupaten": "Bulukumba",
+    "id_kabupaten": "397"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb010",
+    "no": "398",
+    "nama_kabupaten": "Bantaeng",
+    "id_kabupaten": "398"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb011",
+    "no": "399",
+    "nama_kabupaten": "Jeneponto",
+    "id_kabupaten": "399"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb012",
+    "no": "400",
+    "nama_kabupaten": "Takalar",
+    "id_kabupaten": "400"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb013",
+    "no": "401",
+    "nama_kabupaten": "Gowa",
+    "id_kabupaten": "401"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb014",
+    "no": "402",
+    "nama_kabupaten": "Sinjai",
+    "id_kabupaten": "402"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb015",
+    "no": "403",
+    "nama_kabupaten": "Bone",
+    "id_kabupaten": "403"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb016",
+    "no": "404",
+    "nama_kabupaten": "Maros",
+    "id_kabupaten": "404"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb017",
+    "no": "405",
+    "nama_kabupaten": "Pangkajene Kepulauan",
+    "id_kabupaten": "405"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb018",
+    "no": "406",
+    "nama_kabupaten": "Barru",
+    "id_kabupaten": "406"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb019",
+    "no": "407",
+    "nama_kabupaten": "Soppeng",
+    "id_kabupaten": "407"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01a",
+    "no": "408",
+    "nama_kabupaten": "Wajo",
+    "id_kabupaten": "408"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01b",
+    "no": "409",
+    "nama_kabupaten": "Sidenreng Rappang",
+    "id_kabupaten": "409"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01c",
+    "no": "410",
+    "nama_kabupaten": "Pinrang",
+    "id_kabupaten": "410"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01d",
+    "no": "411",
+    "nama_kabupaten": "Enrekang",
+    "id_kabupaten": "411"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01e",
+    "no": "412",
+    "nama_kabupaten": "Luwu",
+    "id_kabupaten": "412"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb01f",
+    "no": "413",
+    "nama_kabupaten": "Tana Toraja",
+    "id_kabupaten": "413"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb020",
+    "no": "414",
+    "nama_kabupaten": "Luwu Utara",
+    "id_kabupaten": "414"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb021",
+    "no": "415",
+    "nama_kabupaten": "Luwu Timur",
+    "id_kabupaten": "415"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb022",
+    "no": "416",
+    "nama_kabupaten": "Toraja Utara",
+    "id_kabupaten": "416"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb023",
+    "no": "417",
+    "nama_kabupaten": "Kota Makassar",
+    "id_kabupaten": "417"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb024",
+    "no": "418",
+    "nama_kabupaten": "Kota Pare-Pare",
+    "id_kabupaten": "418"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb025",
+    "no": "419",
+    "nama_kabupaten": "Kota Palopo",
+    "id_kabupaten": "419"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb026",
+    "no": "420",
+    "nama_kabupaten": "Buton Selatan",
+    "id_kabupaten": "420"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb027",
+    "no": "421",
+    "nama_kabupaten": "Buton Tengah",
+    "id_kabupaten": "421"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb028",
+    "no": "422",
+    "nama_kabupaten": "Kolaka Timur",
+    "id_kabupaten": "422"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb029",
+    "no": "423",
+    "nama_kabupaten": "Muna Barat",
+    "id_kabupaten": "423"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02a",
+    "no": "424",
+    "nama_kabupaten": "Kolaka",
+    "id_kabupaten": "424"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02b",
+    "no": "425",
+    "nama_kabupaten": "Konawe",
+    "id_kabupaten": "425"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02c",
+    "no": "426",
+    "nama_kabupaten": "Konawe Kepulauan",
+    "id_kabupaten": "426"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02d",
+    "no": "427",
+    "nama_kabupaten": "Muna",
+    "id_kabupaten": "427"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02e",
+    "no": "428",
+    "nama_kabupaten": "Buton",
+    "id_kabupaten": "428"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb02f",
+    "no": "429",
+    "nama_kabupaten": "Konawe Selatan",
+    "id_kabupaten": "429"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb030",
+    "no": "430",
+    "nama_kabupaten": "Bombana",
+    "id_kabupaten": "430"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb031",
+    "no": "431",
+    "nama_kabupaten": "Wakatobi",
+    "id_kabupaten": "431"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb032",
+    "no": "432",
+    "nama_kabupaten": "Kolaka Utara",
+    "id_kabupaten": "432"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb033",
+    "no": "433",
+    "nama_kabupaten": "Konawe Utara",
+    "id_kabupaten": "433"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb034",
+    "no": "434",
+    "nama_kabupaten": "Buton Utara",
+    "id_kabupaten": "434"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb035",
+    "no": "435",
+    "nama_kabupaten": "Kota Kendari",
+    "id_kabupaten": "435"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb036",
+    "no": "436",
+    "nama_kabupaten": "Kota Bau-Bau",
+    "id_kabupaten": "436"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb037",
+    "no": "437",
+    "nama_kabupaten": "Gorontalo",
+    "id_kabupaten": "437"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb038",
+    "no": "438",
+    "nama_kabupaten": "Boalemo",
+    "id_kabupaten": "438"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb039",
+    "no": "439",
+    "nama_kabupaten": "Bone Bolango",
+    "id_kabupaten": "439"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03a",
+    "no": "440",
+    "nama_kabupaten": "Pohuwato",
+    "id_kabupaten": "440"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03b",
+    "no": "441",
+    "nama_kabupaten": "Gorontalo Utara",
+    "id_kabupaten": "441"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03c",
+    "no": "442",
+    "nama_kabupaten": "Kota Gorontalo",
+    "id_kabupaten": "442"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03d",
+    "no": "443",
+    "nama_kabupaten": "Mamuju Tengah",
+    "id_kabupaten": "443"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03e",
+    "no": "444",
+    "nama_kabupaten": "Mamuju Utara",
+    "id_kabupaten": "444"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb03f",
+    "no": "445",
+    "nama_kabupaten": "Mamuju",
+    "id_kabupaten": "445"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb040",
+    "no": "446",
+    "nama_kabupaten": "Mamasa",
+    "id_kabupaten": "446"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb041",
+    "no": "447",
+    "nama_kabupaten": "Majene",
+    "id_kabupaten": "447"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb042",
+    "no": "448",
+    "nama_kabupaten": "Maluku Tengah",
+    "id_kabupaten": "448"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb043",
+    "no": "449",
+    "nama_kabupaten": "Maluku Tenggara",
+    "id_kabupaten": "449"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb044",
+    "no": "450",
+    "nama_kabupaten": "Maluku Tenggara Barat",
+    "id_kabupaten": "450"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb045",
+    "no": "451",
+    "nama_kabupaten": "Seram Bagian Timur",
+    "id_kabupaten": "451"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb046",
+    "no": "452",
+    "nama_kabupaten": "Seram Bagian Barat",
+    "id_kabupaten": "452"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb047",
+    "no": "453",
+    "nama_kabupaten": "Kepulauan Aru",
+    "id_kabupaten": "453"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb048",
+    "no": "454",
+    "nama_kabupaten": "Maluku Barat Daya",
+    "id_kabupaten": "454"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb049",
+    "no": "455",
+    "nama_kabupaten": "Buru Selatan",
+    "id_kabupaten": "455"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04a",
+    "no": "456",
+    "nama_kabupaten": "Kota Ambon",
+    "id_kabupaten": "456"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04b",
+    "no": "457",
+    "nama_kabupaten": "Kota Tual",
+    "id_kabupaten": "457"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04c",
+    "no": "458",
+    "nama_kabupaten": "Pulau Taliabu",
+    "id_kabupaten": "458"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04d",
+    "no": "459",
+    "nama_kabupaten": "Halmahera Barat",
+    "id_kabupaten": "459"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04e",
+    "no": "460",
+    "nama_kabupaten": "Halmahera Tengah",
+    "id_kabupaten": "460"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb04f",
+    "no": "461",
+    "nama_kabupaten": "Halmahera Utara",
+    "id_kabupaten": "461"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb050",
+    "no": "462",
+    "nama_kabupaten": "Halmahera Selatan",
+    "id_kabupaten": "462"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb051",
+    "no": "463",
+    "nama_kabupaten": "Kepulauan Sula",
+    "id_kabupaten": "463"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb052",
+    "no": "464",
+    "nama_kabupaten": "Halmahera Timur",
+    "id_kabupaten": "464"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb053",
+    "no": "465",
+    "nama_kabupaten": "Pulau Morotai",
+    "id_kabupaten": "465"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb054",
+    "no": "466",
+    "nama_kabupaten": "Kota Ternate",
+    "id_kabupaten": "466"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb055",
+    "no": "467",
+    "nama_kabupaten": "Kota Tidore Kepulauan",
+    "id_kabupaten": "467"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb056",
+    "no": "468",
+    "nama_kabupaten": "Merauke",
+    "id_kabupaten": "468"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb057",
+    "no": "469",
+    "nama_kabupaten": "Jayawijaya",
+    "id_kabupaten": "469"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb058",
+    "no": "470",
+    "nama_kabupaten": "Jayapura",
+    "id_kabupaten": "470"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb059",
+    "no": "471",
+    "nama_kabupaten": "Nabire",
+    "id_kabupaten": "471"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05a",
+    "no": "472",
+    "nama_kabupaten": "Kepulauan Yapen",
+    "id_kabupaten": "472"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05b",
+    "no": "473",
+    "nama_kabupaten": "Biak Numfor",
+    "id_kabupaten": "473"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05c",
+    "no": "474",
+    "nama_kabupaten": "Puncak Jaya",
+    "id_kabupaten": "474"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05d",
+    "no": "475",
+    "nama_kabupaten": "Paniai",
+    "id_kabupaten": "475"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05e",
+    "no": "476",
+    "nama_kabupaten": "Mimika",
+    "id_kabupaten": "476"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb05f",
+    "no": "477",
+    "nama_kabupaten": "Sarmi",
+    "id_kabupaten": "477"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb060",
+    "no": "478",
+    "nama_kabupaten": "Keerom",
+    "id_kabupaten": "478"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb061",
+    "no": "479",
+    "nama_kabupaten": "Pegunungan Bintang",
+    "id_kabupaten": "479"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb062",
+    "no": "480",
+    "nama_kabupaten": "Yahukimo",
+    "id_kabupaten": "480"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb063",
+    "no": "481",
+    "nama_kabupaten": "Tolikara",
+    "id_kabupaten": "481"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb064",
+    "no": "482",
+    "nama_kabupaten": "Waropen",
+    "id_kabupaten": "482"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb065",
+    "no": "483",
+    "nama_kabupaten": "Boven Digoel",
+    "id_kabupaten": "483"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb066",
+    "no": "484",
+    "nama_kabupaten": "Mappi",
+    "id_kabupaten": "484"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb067",
+    "no": "485",
+    "nama_kabupaten": "Asmat",
+    "id_kabupaten": "485"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb068",
+    "no": "486",
+    "nama_kabupaten": "Supiori",
+    "id_kabupaten": "486"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb069",
+    "no": "487",
+    "nama_kabupaten": "Mamberamo Raya",
+    "id_kabupaten": "487"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06a",
+    "no": "488",
+    "nama_kabupaten": "Mamberamo Tengah",
+    "id_kabupaten": "488"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06b",
+    "no": "489",
+    "nama_kabupaten": "Yalimo",
+    "id_kabupaten": "489"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06c",
+    "no": "490",
+    "nama_kabupaten": "Lanny Jaya",
+    "id_kabupaten": "490"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06d",
+    "no": "491",
+    "nama_kabupaten": "Nduga",
+    "id_kabupaten": "491"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06e",
+    "no": "492",
+    "nama_kabupaten": "Puncak",
+    "id_kabupaten": "492"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb06f",
+    "no": "493",
+    "nama_kabupaten": "Dogiyai",
+    "id_kabupaten": "493"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb070",
+    "no": "494",
+    "nama_kabupaten": "Intan Jaya",
+    "id_kabupaten": "494"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb071",
+    "no": "495",
+    "nama_kabupaten": "Deiyai",
+    "id_kabupaten": "495"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb072",
+    "no": "496",
+    "nama_kabupaten": "Kota Jayapura",
+    "id_kabupaten": "496"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb073",
+    "no": "497",
+    "nama_kabupaten": "Manokwari Selatan",
+    "id_kabupaten": "497"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb074",
+    "no": "498",
+    "nama_kabupaten": "Pegunungan Arfak",
+    "id_kabupaten": "498"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb075",
+    "no": "499",
+    "nama_kabupaten": "Sorong",
+    "id_kabupaten": "499"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb076",
+    "no": "500",
+    "nama_kabupaten": "Manokwari",
+    "id_kabupaten": "500"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb077",
+    "no": "501",
+    "nama_kabupaten": "Fak-Fak",
+    "id_kabupaten": "501"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb078",
+    "no": "502",
+    "nama_kabupaten": "Sorong Selatan",
+    "id_kabupaten": "502"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb079",
+    "no": "503",
+    "nama_kabupaten": "Raja Ampat",
+    "id_kabupaten": "503"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07a",
+    "no": "504",
+    "nama_kabupaten": "Teluk Bintuni",
+    "id_kabupaten": "504"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07b",
+    "no": "505",
+    "nama_kabupaten": "Teluk Wondama",
+    "id_kabupaten": "505"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07c",
+    "no": "506",
+    "nama_kabupaten": "Kaimana",
+    "id_kabupaten": "506"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07d",
+    "no": "507",
+    "nama_kabupaten": "Tambrauw",
+    "id_kabupaten": "507"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07e",
+    "no": "508",
+    "nama_kabupaten": "Maybrat",
+    "id_kabupaten": "508"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb07f",
+    "no": "509",
+    "nama_kabupaten": "Kota Sorong",
+    "id_kabupaten": "509"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb080",
+    "no": "510",
+    "nama_kabupaten": "Bogor",
+    "id_kabupaten": "510"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb081",
+    "no": "511",
+    "nama_kabupaten": "Probolinggo",
+    "id_kabupaten": "511"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb082",
+    "no": "512",
+    "nama_kabupaten": "Polewali Mandar",
+    "id_kabupaten": "512"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb083",
+    "no": "513",
+    "nama_kabupaten": "Buru",
+    "id_kabupaten": "513"
+  },
+  {
+    "_id": "668ce79faeb2d39bc2adb084",
+    "no": "514",
+    "nama_kabupaten": "Trenggalek",
+    "id_kabupaten": "514"
+  }
+]

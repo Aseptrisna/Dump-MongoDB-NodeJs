@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "668ce899aeb2d39bc2adb087",
+    "No": 1,
+    "Name": "Survei Tinjau",
+    "ID": 1
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb088",
+    "No": 2,
+    "Name": "Prospeksi",
+    "ID": 2
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb089",
+    "No": 3,
+    "Name": "Eksplorasi",
+    "ID": 3
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08a",
+    "No": 4,
+    "Name": "Eksplorasi Umum",
+    "ID": 4
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08b",
+    "No": 5,
+    "Name": "Eksplorasi Rinci",
+    "ID": 5
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08c",
+    "No": 6,
+    "Name": "Studi Kelayakan",
+    "ID": 6
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08d",
+    "No": 7,
+    "Name": "Eksploitasi",
+    "ID": 7
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08e",
+    "No": 8,
+    "Name": "Operasi Produksi",
+    "ID": 8
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb08f",
+    "No": 9,
+    "Name": "Konstruksi",
+    "ID": 9
+  },
+  {
+    "_id": "668ce899aeb2d39bc2adb090",
+    "No": 10,
+    "Name": "Lainnya",
+    "ID": 999
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9b8",
+    "Name": "SIPB",
+    "ID": 10,
+    "No": 11
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9b9",
+    "Name": "Perpanjangan Pertama IUP Operasi Produksi",
+    "ID": 11,
+    "No": 12
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9ba",
+    "Name": "Penyelidikan Umum",
+    "ID": 12,
+    "No": 13
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9bb",
+    "Name": "IUP Operasi Produksi",
+    "ID": 13,
+    "No": 14
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9bc",
+    "Name": "-",
+    "ID": 0,
+    "No": 15
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9bd",
+    "Name": "Perpanjangan Terakhir IUP Operasi Produksi",
+    "ID": 14,
+    "No": 16
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9be",
+    "Name": "Perpanjangan Operasi Produksi",
+    "ID": 15,
+    "No": 17
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9bf",
+    "Name": "IUP Eksplorasi",
+    "ID": 16,
+    "No": 18
+  },
+  {
+    "_id": "6694dec23bee162d4fb0b9c0",
+    "Name": "IUP Penjualan",
+    "ID": 17,
+    "No": 19
+  }
+]
