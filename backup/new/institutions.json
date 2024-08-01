@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "65767b5dc33d701fa7b773b7",
+    "guid": "8bf866bd-3c21-45f2-b8bb-d3d6f8bbfb2c",
+    "name": "Pemerintah",
+    "createdAt": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "_id": "65767b5dc33d701fa7b773b8",
+    "guid": "62f317dd-6521-4d69-81fe-6ec6825b7292",
+    "name": "Joint Study",
+    "createdAt": "2023-12-11T00:00:00.000Z"
+  },
+  {
+    "_id": "65767b5dc33d701fa7b773b9",
+    "guid": "c96ce85f-1ef9-4579-8455-d0c3a8e5873a",
+    "name": "Swasta",
+    "createdAt": "2023-12-11T00:00:00.000Z"
+  }
+]

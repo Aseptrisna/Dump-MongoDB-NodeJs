@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "6694ce133bee162d4fb0b977",
+    "No": 1,
+    "Name": "Batu Mulia",
+    "ID": 1
+  },
+  {
+    "_id": "6694ce133bee162d4fb0b978",
+    "No": 2,
+    "Name": "Bahan Bangunan",
+    "ID": 2
+  },
+  {
+    "_id": "6694ce133bee162d4fb0b979",
+    "No": 3,
+    "Name": "Bahan Keramik",
+    "ID": 3
+  },
+  {
+    "_id": "6694ce133bee162d4fb0b97a",
+    "No": 4,
+    "Name": "Mineral Industri",
+    "ID": 4
+  }
+]

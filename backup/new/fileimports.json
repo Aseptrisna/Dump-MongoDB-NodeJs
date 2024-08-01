@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "669098b132638c1286f0c58b",
+    "guid": "IMPORT-375ce095-a1c8-45b0-810d-36e0b119d1da-1720752305",
+    "potencyGuid": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "potency": "Mineral Logam",
+    "year": "2022",
+    "file": "IMPORT-375ce095-a1c8-45b0-810d-36e0b119d1da-1720752305-1720752745-GEORIMA.xlsx",
+    "type": "statistics",
+    "process": false
+  },
+  {
+    "_id": "66909a71736b4f633e48c2c0",
+    "guid": "IMPORT-51aa40c0-6279-4061-88cf-2889deeaaf13-1720752753",
+    "potencyGuid": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "potency": "Mineral Logam",
+    "year": "2022",
+    "file": "IMPORT-IMPORT-51aa40c0-6279-4061-88cf-2889deeaaf13-1720752753-1720752753-GEORIMA.xlsx",
+    "type": "sda",
+    "process": false
+  }
+]

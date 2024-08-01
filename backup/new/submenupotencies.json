@@ -1,0 +1,1517 @@
+[
+  {
+    "_id": "657346cfba3d16c6874c5339",
+    "guid": "ef432bbb-73b8-4623-a528-7e258955e7c5",
+    "name": "Air Raksa",
+    "icon": "ICON-ef432bbb-73b8-4623-a528-7e258955e7c5-1702053583-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:39:43.709Z",
+    "updatedAt": "2023-12-08T16:39:43.709Z",
+    "description": "Unsur golongan logam transisi ini berwarna keperakan dan merupakan satu dari lima unsur (bersama cesium, fransium, galium, dan brom) yang berbentuk cair dalam suhu kamar, serta mudah menguap.[2] Hg akan memadat pada tekanan 7.640 Atm. Kelimpahan Hg di bumi menempati di urutan ke-67 di antara elemen lainnya pada kerak bumi. Di alam, merkuri (Hg) ditemukan dalam bentuk unsur merkuri (Hg0), merkuri monovalen (Hg1+), dan bivalen (Hg2+). https://id.wikipedia.org/wiki/Raksa",
+    "imageUrl": "https://georima.esdm.go.id/assets/image/merkuri.jpg",
+    "detail": {
+      "id": "101",
+      "unsur": "Hg"
+    }
+  },
+  {
+    "_id": "65734964ba3d16c6874c533c",
+    "guid": "34f3693e-7491-45f3-8d26-01d8dc14fc22",
+    "name": "Antimon",
+    "icon": "ICON-34f3693e-7491-45f3-8d26-01d8dc14fc22-1702054244-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:50:44.812Z",
+    "updatedAt": "2023-12-08T16:50:44.812Z",
+    "description": "Antimon merupakan metaloid dan mempunyai bentuk empatalotropi",
+    "detail": {
+      "id": "126",
+      "unsur": "Sb"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/-"
+  },
+  {
+    "_id": "65734997ba3d16c6874c533f",
+    "guid": "af01cf9b-7246-4ffd-b6bf-2c6a0507292d",
+    "name": "Seng",
+    "icon": "ICON-af01cf9b-7246-4ffd-b6bf-2c6a0507292d-1702054295-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:51:35.374Z",
+    "updatedAt": "2023-12-08T16:51:35.374Z",
+    "description": "Seng (bahasa Belanda: zink), zink, atau timah sari adalah unsur kimia dengan lambang kimia Zn, bernomor atom 30, dan massa atom relatif 65,39. Ia merupakan unsur pertama golongan 12 pada tabel periodik. Beberapa sifat kimia seng mirip dengan magnesium (Mg). Hal ini dikarenakan ion kedua unsur ini berukuran hampir sama. Selain itu, keduanya juga memiliki keadaan oksidasi +2. Seng merupakan unsur paling melimpah ke-24 di kerak bumi dan memiliki lima isotop stabil. https://id.wikipedia.org/wiki/Seng",
+    "detail": {
+      "id": "119",
+      "unsur": "Zn"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/seng.jpg"
+  },
+  {
+    "_id": "657349b9ba3d16c6874c5342",
+    "guid": "ffd0fb94-19d8-45d6-bd9d-89285f82a437",
+    "name": "Tembaga",
+    "icon": "ICON-ffd0fb94-19d8-45d6-bd9d-89285f82a437-1702054329-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:52:09.750Z",
+    "updatedAt": "2023-12-08T16:52:09.750Z",
+    "description": "Tembaga adalah suatu unsur kimia dalam tabel periodik yang memiliki lambang Cu dan nomor atom 29. Lambangnya berasal dari bahasa Latin Cuprum.Tembaga merupakan konduktor panas dan listrik yang baik. Selain itu unsur ini memiliki korosi yang cepat sekali. Tembaga murni sifatnya halus dan lunak, dengan permukaan berwarna jingga kemerahan. Tembaga dicampurkan dengan timah untuk membuat perunggu. https://id.wikipedia.org/wiki/Tembaga",
+    "detail": {
+      "id": "120",
+      "unsur": "Cu"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/tembaga.jpg"
+  },
+  {
+    "_id": "657349d9ba3d16c6874c5345",
+    "guid": "9f86ba74-0018-4ab9-bd94-bc55fc8bcbba",
+    "name": "Timah",
+    "icon": "ICON-9f86ba74-0018-4ab9-bd94-bc55fc8bcbba-1702054361-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:52:41.329Z",
+    "updatedAt": "2023-12-08T16:52:41.329Z",
+    "description": "Timah (atau timah putih) adalah sebuah unsur kimia dalam tabel periodik yang memiliki simbol Sn (bahasa Latin: stannum) dan nomor atom 50.Timah termasuk logam pasca-transisi di kelompok 14 dalam tabel periodik.Timah menunjukan kemiripan kimia dengan Germanium dan Timbal yang juga berada di kelompok 14 dan memiliki dua kemungkinan bilangan oksidasi, +2 dan +4 yang sedikit lebih stabil. Timah adalah elemen ke 49 yang paling melimpah di bumi, memiliki 10 isotop stabil, jumlah terbesar dalam tabel periodik. https://id.wikipedia.org/wiki/Timah",
+    "detail": {
+      "id": "121",
+      "unsur": "Sn"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/timah.jpg"
+  },
+  {
+    "_id": "657349f9ba3d16c6874c5348",
+    "guid": "25056f30-d62c-41b1-a9d3-eae4ce49253b",
+    "name": "Timbal",
+    "icon": "ICON-25056f30-d62c-41b1-a9d3-eae4ce49253b-1702054393-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "0df0f44e-cb33-4012-86ac-acccf8d5d123",
+    "createdAt": "2023-12-08T16:53:13.987Z",
+    "updatedAt": "2023-12-08T16:53:13.987Z",
+    "description": "Timbal (Pb) adalah logam berat yang terdapat secara alami di dalam kerak bumi.  Pb terkonsentrasi dalam deposit bijih logam. Unsur Pb digunakan dalam bidang industri modern sebagai bahan pembuatan pipa air yang tahan korosi, bahan pembuat cat, baterai, dan campuran bahan bakar bensin tetraetil.",
+    "detail": {
+      "id": "122",
+      "unsur": "Pb"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/timbal.jpg"
+  },
+  {
+    "_id": "65734a48ba3d16c6874c534b",
+    "guid": "23b16756-57c7-486d-a25b-8ba736b9372a",
+    "name": "Emas Alluvial",
+    "icon": "ICON-23b16756-57c7-486d-a25b-8ba736b9372a-1702054472-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "4fb09b04-f937-41d9-b6b5-a7ccb167c840",
+    "createdAt": "2023-12-08T16:54:32.836Z",
+    "updatedAt": "2023-12-08T16:54:32.836Z",
+    "description": "Emas aluvial biasa disebut juga dengan \"emas placer\". Oleh para ahli geologi bijih (ore geologists), endapan placer merupakan endapan \"allochtonous\" yang bernilai ekonomis. Endapan placer adalah endapan kelas terigen yang terbentuk oleh proses sedimenter biasa (ordinary sedimentary processes) yang mengendapkan atau mengkonsentrasi mineral-mineral berat. Umumnya proses pemisahan gaya berat alamiah ini dibantu oleh media air bergerak, walaupun ada juga yang terkonsentrasi melalui media padat dan angin. Mineral-mineral berat tersebut harus terlebih dahulu terbebaskan dari batuan sumbernya, harus memiliki berat jenis (densitas) yang tinggi, resisten secara kimia terhadap pelapukan, serta memiliki durabilitas tinggi (tahan terhadap proses-proses mekanik). Emas adalah salah satu mineral yang memenuhi syarat tersebut. http://www.geologinesia.com/2016/02/emas-aluvial-placer-dan-sejarah.html",
+    "detail": {
+      "id": "107",
+      "unsur": "Au Alv"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/emasaluvial.jpg"
+  },
+  {
+    "_id": "65734a63ba3d16c6874c534e",
+    "guid": "7560a6db-6ba4-4e56-81e8-aa6eb60bebdf",
+    "name": "Emas Primer",
+    "icon": "ICON-7560a6db-6ba4-4e56-81e8-aa6eb60bebdf-1702054499-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "4fb09b04-f937-41d9-b6b5-a7ccb167c840",
+    "createdAt": "2023-12-08T16:54:59.458Z",
+    "updatedAt": "2023-12-08T16:54:59.458Z",
+    "description": "Emas adalah unsur kimia dlm tabel periodik yang memiliki simbol Au (bahasa Latin: 'aurum') dan nomor atom 79. Sebuah logam transisi (trivalen dan univalen) yang lembek, mengkilap, kuning, berat, \"malleable\", dan \"ductile\". Emas tidak bereaksi dengan zat kimia lainnya tetapi terserang oleh klorin, fluorin dan aqua regia. https://id.wikipedia.org/wiki/Emas",
+    "detail": {
+      "id": "108",
+      "unsur": "Au"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/emasprimer.jpg"
+  },
+  {
+    "_id": "65734a74ba3d16c6874c5351",
+    "guid": "c252c05e-a35b-4f96-9902-b8f8ce8e7b2c",
+    "name": "Perak",
+    "icon": "ICON-c252c05e-a35b-4f96-9902-b8f8ce8e7b2c-1702054516-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "4fb09b04-f937-41d9-b6b5-a7ccb167c840",
+    "createdAt": "2023-12-08T16:55:16.786Z",
+    "updatedAt": "2023-12-08T16:55:16.786Z",
+    "description": "Perak adalah unsur logam dengan nomor atom 47. Simbolnya adalah Ag, dari bahasa Latin argentum, dari akar PIE yang direkonstruksi sebagai *h₂erǵ-, \"abu-abu\" atau \"bersinar\". Sebuah logam transisi lunak, putih, dan berkilau, ia memiliki konduktivitas listrik, konduktivitas termal, dan reflektivitas tertinggi di antara semua logam. Logam ini terjadi secara alamiah dalam bentuk murni, bentuk bebas (perak asli), sebagai paduan dengan emas dan logam lainnya, dan dalam mineral seperti argentit dan klorargirit.  https://id.wikipedia.org/wiki/Perak",
+    "detail": {
+      "id": "117",
+      "unsur": "Ag"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/perak.jpg"
+  },
+  {
+    "_id": "65734a8cba3d16c6874c5354",
+    "guid": "193eee68-6aac-4cd4-a164-1d0783c1569d",
+    "name": "Platina",
+    "icon": "ICON-193eee68-6aac-4cd4-a164-1d0783c1569d-1702054540-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "4fb09b04-f937-41d9-b6b5-a7ccb167c840",
+    "createdAt": "2023-12-08T16:55:40.144Z",
+    "updatedAt": "2023-12-08T16:55:40.144Z",
+    "description": "Platina adalah suatu unsur kimia dalam tabel periodik yang memiliki lambang Pt dan nomor atom 78. Logam transisi putih abu-abu ini padat, lunak, ulet, sangat tidak reaktif, dan berharga. Namanya berasal dari istilah Spanyol platina, yang jika diterjemahkan secara harfiah berarti \"perak kecil\". https://id.wikipedia.org/wiki/Platina",
+    "detail": {
+      "id": "118",
+      "unsur": "Pt"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/platina.jpg"
+  },
+  {
+    "_id": "65734ac8ba3d16c6874c5357",
+    "guid": "bd77e392-e0fd-412a-9e00-cd30ac2e0c97",
+    "name": "Besi Laterit",
+    "icon": "ICON-bd77e392-e0fd-412a-9e00-cd30ac2e0c97-1702054600-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:56:40.393Z",
+    "updatedAt": "2023-12-08T16:56:40.393Z",
+    "description": "Bijih besi laterit terdapat dalam tanah laterit hasil pelapukan batuan piroksenit/peridotit yang disusun oleh mineral hematit dan goetit. Tanah lateritik umumnya berwarna coklat sampai kehitaman dengan ketebalan tanah bervariasi yang kadang-kadang masih mengandung bongkahan bijih besi berupa hematit/goetit berukuran kerikil – kerakal. (Lia Novalia Agung, Potensi Nilai Tambah Mineral Ikutan Pada Wilayah Bekas Tambang Bijih Besi Laterit di Kecamatan Mantewe dan Simpang Empat, Kab Tanah Bumbu, Pov. Kalimantan Selatan)",
+    "detail": {
+      "id": "103",
+      "unsur": "Fe Lat"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/besilaterit.jpg"
+  },
+  {
+    "_id": "65734adeba3d16c6874c535a",
+    "guid": "f28e31d3-9b8a-46e0-9192-9595cd8c0e3f",
+    "name": "Besi Primer",
+    "icon": "ICON-f28e31d3-9b8a-46e0-9192-9595cd8c0e3f-1702054622-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:57:02.378Z",
+    "updatedAt": "2023-12-08T16:57:02.378Z",
+    "description": "Bijih besi terdiri atas oksigen dan atom besi yang berikatan bersama dalam molekul. Besi sendiri biasanya didapatkan dalam bentuk magnetit (Fe3O4), hematit (Fe2O3), goethit, limonit atau siderit. Bijih besi biasanya kaya akan besi oksida dan beragam dalam hal warna, dari kelabu tua, kuning muda, ungu tua, hingga merah karat. https://id.wikipedia.org/wiki/Bijih_besi",
+    "detail": {
+      "id": "104",
+      "unsur": "Fe"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/besiprimer.jpg"
+  },
+  {
+    "_id": "65734af3ba3d16c6874c535d",
+    "guid": "6a702c6f-5c90-45f1-bb7e-39d7a6d3c4fd",
+    "name": "Besi Sedimen",
+    "icon": "ICON-6a702c6f-5c90-45f1-bb7e-39d7a6d3c4fd-1702054643-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:57:23.876Z",
+    "updatedAt": "2023-12-08T16:57:23.876Z",
+    "description": "Cebakan mineral alochton dibentuk oleh kumpulan mineral berat melalui proses sedimentasi, secara alamiah terpisah karena gravitasi dan dibantu pergerakan media cair, padat dan gas/udara. Kerapatan konsentrasi mineral-mineral berat tersebut tergantung kepada tingkat kebebasannya dari sumber, berat jenis, ketahanan kimiawi hingga lamanya pelapukan dan mekanisma. Dengan nilai ekonomi yang dimilikinya para ahli geologi menyebut endapan alochtontersebut sebagai cebakan placer. http://lavendervalleytsb.blogspot.co.id/2012/06/difinisi-struktur-bahan.html",
+    "detail": {
+      "id": "105",
+      "unsur": "Fe Sed"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/besisedimen.jpg"
+  },
+  {
+    "_id": "65734b04ba3d16c6874c5360",
+    "guid": "712f3d59-6d09-454c-bb55-b7fe374a4cdc",
+    "name": "Kobal",
+    "icon": "ICON-712f3d59-6d09-454c-bb55-b7fe374a4cdc-1702054660-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:57:40.938Z",
+    "updatedAt": "2023-12-08T16:57:40.938Z",
+    "description": "Kobalt merupakan unsur feromagnetik, keras, getas, berkilau, dan berwarna perak-keputihan. Seperti besi, kobalt bisa diubah menjadi magnet dengan sifat fisik mirip dengan besi dan nikel. Unsur ini aktif secara kimia dan mampu membentuk banyak senyawa. Kobalt stabil di udara dan tidak terpengaruh oleh air, namun perlahan-lahan larut oleh asam encer. Sebagian besar cadangan kobalt terdapat di inti bumi. Kobalt memiliki kelimpahan relatif rendah dalam kerak bumi dan di perairan. https://www.amazine.co/28257/kobalt-co-fakta-sifat-kegunaan-efek-kesehatannya/",
+    "detail": {
+      "id": "109",
+      "unsur": "Co"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kobal.jpg"
+  },
+  {
+    "_id": "65734b17ba3d16c6874c5363",
+    "guid": "fcb70199-e509-42fd-a6c9-74b62ea44572",
+    "name": "Kromit",
+    "icon": "ICON-fcb70199-e509-42fd-a6c9-74b62ea44572-1702054679-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:57:59.574Z",
+    "updatedAt": "2023-12-08T16:57:59.574Z",
+    "description": "Kromit   adalah   suatu   mineral   oksida   dengan   bentuk   oktahedral   yang terbentuk akibat proses kristalisasi magma. Kromit merupakan mineral oksida dari besi kromium dengan komposisi kimia   (FeCr2O3)  dan   bijih  logam  kromium. Mineral ini terdapat di dalam batuan beku ultrabasa seperti peridotit. Selain itu,terdapat pula pada serpentin dan batuan metamorf lainnya yang terbentuk dari alterasi batuan beku ultrabasa. Mineral ini terbentuk pada temperatur yang sangat tinggi  dan   pada bagian   bawah dari  tubuh  magma,  dimana  proses kristalisasi terjadi. https://documents.tips/documents/endapan-kromit-magmatik.html",
+    "detail": {
+      "id": "110",
+      "unsur": "Cr"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kromit.jpg"
+  },
+  {
+    "_id": "65734b43ba3d16c6874c5366",
+    "guid": "c605bcfb-d432-41ea-bbf7-b50c6d318e0b",
+    "name": "Kromit Plaser",
+    "icon": "ICON-c605bcfb-d432-41ea-bbf7-b50c6d318e0b-1702054723-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:58:43.178Z",
+    "updatedAt": "2023-12-08T16:58:43.178Z",
+    "description": "Kromit plaser adalah kromit yang terakumulasi oleh pemisahan secara gravitasi ketika proses sedimentasi. https://en.wikipedia.org/wiki/Placer_deposit",
+    "detail": {
+      "id": "111",
+      "unsur": "Cr Pla"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kromitplaser.jpg"
+  },
+  {
+    "_id": "65734b54ba3d16c6874c5369",
+    "guid": "2472d78c-15e5-4a6e-a979-46cb5ca51f0f",
+    "name": "Mangan",
+    "icon": "ICON-2472d78c-15e5-4a6e-a979-46cb5ca51f0f-1702054740-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:59:00.825Z",
+    "updatedAt": "2023-12-08T16:59:00.825Z",
+    "description": "Mangan merupakan logam keras dan getas berwarna abu-abu merah muda. Logam ini sulit mencair, tapi mudah teroksidasi. Mangan murni bersifat amat reaktif dan dalam bentuk bubuk akan terbakar dengan oksigen, serta larut dalam asam encer. \nMangan merupakan salah satu logam yang paling melimpah di tanah yang terutama berbentuk senyawa oksida dan hidroksida. Mangan terjadi terutama sebagai pyrolusite (MnO2), dan pada jumlah lebih rendah sebagai rhodochrosite (MnCO3). https://www.amazine.co/28251/mangan-mn-fakta-sifat-kegunaan-efek-kesehatannya/",
+    "detail": {
+      "id": "112",
+      "unsur": "Mn"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/mangan.jpg"
+  },
+  {
+    "_id": "65734b66ba3d16c6874c536c",
+    "guid": "b90b9ec8-784c-49fb-9971-3084fe4514f8",
+    "name": "Molibdenum",
+    "icon": "ICON-b90b9ec8-784c-49fb-9971-3084fe4514f8-1702054758-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:59:18.689Z",
+    "updatedAt": "2023-12-08T16:59:18.689Z",
+    "description": "Molibdenum adalah suatu unsur kimia dalam tabel periodik yang memiliki lambang Mo dan nomor atom 42. Namanya diambil dari Neo-Latin molybdaenum, dari bahasa Yunani Kuno Μόλυβδος molybdos, yang berarti timbal, karena bijihnya dirancukan dengan bijih timbal. Molibdenum tidak terjadi secara alami sebagai logam bebas di Bumi; ia hanya ditemukan dalam berbagai tingkat oksidasi pada mineral. Unsur bebasnya, suatu logam keperakan dengan noda abu-abu, memiliki titik lebur ke-6 di antara semua unsur. https://id.wikipedia.org/wiki/Molibdenum",
+    "detail": {
+      "id": "113",
+      "unsur": "Mo"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/molibdenum.jpg"
+  },
+  {
+    "_id": "65734b79ba3d16c6874c536f",
+    "guid": "aebe2a2a-8eed-4e8c-8da7-943be10938d1",
+    "name": "Nikel",
+    "icon": "ICON-aebe2a2a-8eed-4e8c-8da7-943be10938d1-1702054777-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:59:37.951Z",
+    "updatedAt": "2023-12-08T16:59:37.951Z",
+    "description": "Nikel adalah unsur kimia metalik dalam tabel periodik yang memiliki simbol Ni dan nomor atom 28. Nikel mempunyai sifat tahan karat. Dalam keadaan murni, nikel bersifat lembek, tetapi jika dipadukan dengan besi, krom, dan logam lainnya, dapat membentuk baja tahan karat yang keras. https://id.wikipedia.org/wiki/Nikel",
+    "detail": {
+      "id": "115",
+      "unsur": "Ni"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/nikel.jpg"
+  },
+  {
+    "_id": "65734b8fba3d16c6874c5372",
+    "guid": "2864617a-1a54-488e-8105-f8a731385d22",
+    "name": "Pasir Besi",
+    "icon": "ICON-2864617a-1a54-488e-8105-f8a731385d22-1702054799-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T16:59:59.616Z",
+    "updatedAt": "2023-12-08T16:59:59.616Z",
+    "description": "Pasir besi adalah sejenis pasir dengan konsentrasi besi yang signifikan. Hal ini biasanya berwarna abu-abu gelap atau berwarna kehitaman. Pasir ini terdiri dari magnetit, Fe3O4, dan juga mengandung sejumlah kecil titanium, silika, mangan, kalsium dan vanadium. https://id.wikipedia.org/wiki/Pasir_besi",
+    "detail": {
+      "id": "116",
+      "unsur": "Fe Pla"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/pasirbesi.jpg"
+  },
+  {
+    "_id": "65734ba7ba3d16c6874c5375",
+    "guid": "3a75559d-a4ec-4118-abc6-6c289a35e2c4",
+    "name": "Vanadium",
+    "icon": "ICON-3a75559d-a4ec-4118-abc6-6c289a35e2c4-1702054823-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "8b99789c-9eea-43e4-ad47-7c84f5a5d558",
+    "createdAt": "2023-12-08T17:00:23.048Z",
+    "updatedAt": "2023-12-08T17:00:23.048Z",
+    "description": "Vanadium adalah salah satu unsur kimia  dan juga merupakan Logam mulia yang cukup keras, Logam ini hanya bisa ditemukan di tempat-tempat tertentu, seperti pada alga atau ganggang, kerang, dan kepiting.",
+    "detail": {
+      "id": "127",
+      "unsur": "V"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/vanadium.jpg"
+  },
+  {
+    "_id": "65734bf1ba3d16c6874c5378",
+    "guid": "a7c16c7d-8f5d-481e-a2e7-4a5206a40a56",
+    "name": "Bauksit",
+    "icon": "ICON-a7c16c7d-8f5d-481e-a2e7-4a5206a40a56-1702054897-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "createdAt": "2023-12-08T17:01:37.119Z",
+    "updatedAt": "2023-12-08T17:01:37.119Z",
+    "description": "Bauksit (bahasa Inggris: bauxite) adalah biji utama aluminium terdiri dari hydrous aluminium oksida dan aluminium hidroksida yakni dari mineral gibbsite Al (OH) 3, boehmite γ-ALO (OH), dan diaspore α-ALO (OH), bersama-sama dengan oksida besi goethite dan bijih besi, mineral tanah liat kaolinit dan sejumlah kecil anatase Tio 2. https://id.wikipedia.org/wiki/Bauksit",
+    "detail": {
+      "id": "102",
+      "unsur": "Al"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/bauksit.jpg"
+  },
+  {
+    "_id": "65734c02ba3d16c6874c537b",
+    "guid": "42e93273-6f9f-4ecf-b2f2-9ed41c134c93",
+    "name": "Monasit",
+    "icon": "ICON-42e93273-6f9f-4ecf-b2f2-9ed41c134c93-1702054914-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "createdAt": "2023-12-08T17:01:54.617Z",
+    "updatedAt": "2023-12-08T17:01:54.617Z",
+    "description": "Monazit ((Ce,La,Y,Th)PO3) Merupakan senyawa fosfat logam tanah jarang yang mengandung 50-70% Oksida LTJ. Monasit diambil dari mineral pasir berat yang merupakan hasil samping dari senyawa logam berat lain. Monasit memiliki kandungan thorium yang cukup tinggi. Sehingga mineral tersebut memiliki sifat radioaktif. https://id.wikipedia.org/wiki/Logam_tanah_jarang",
+    "detail": {
+      "id": "114",
+      "unsur": "Ce"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/monasit.jpg"
+  },
+  {
+    "_id": "65734c16ba3d16c6874c537e",
+    "guid": "6b8ef3a5-6674-4448-993d-7b1178e1e579",
+    "name": "Titan Laterit",
+    "icon": "ICON-6b8ef3a5-6674-4448-993d-7b1178e1e579-1702054934-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "createdAt": "2023-12-08T17:02:14.120Z",
+    "updatedAt": "2023-12-08T17:02:14.120Z",
+    "description": "Titanium adalah sebuah unsur kimia dalam tabel periodik yang memiliki simbol Ti dan nomor atom 22. Unsur ini merupakan logam transisi yang ringan, kuat, berkilau, tahan korosi (termasuk tahan terhadap air laut, aqua regia, dan klorin) dengan warna putih-metalik-keperakan. https://id.wikipedia.org/wiki/Titanium\nEndapan laterit terbentuk melalui proses laterisasi yang berkaitan dengan bauksit dan nikel di Riau, Kalimantan dan Sulawesi. Sumber Titanium berasal dari batuan dasar metamorf dan granit. (Armin Tampubolon, The Indonesian Titanium Deposit Types and Their Reources: The Aspects for Titanium Commodity Development)",
+    "detail": {
+      "id": "123",
+      "unsur": "Ti Lat"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/titanium.jpg"
+  },
+  {
+    "_id": "65734c34ba3d16c6874c5381",
+    "guid": "01670096-5f4c-4e12-b4af-1e7edb7d091c",
+    "name": "Titan Plaser",
+    "icon": "ICON-01670096-5f4c-4e12-b4af-1e7edb7d091c-1702054964-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "createdAt": "2023-12-08T17:02:44.471Z",
+    "updatedAt": "2023-12-08T17:02:44.471Z",
+    "description": "Sumber mineral Titanium jenis plaser pantai berasal dari Batuan Gunungapi Tersier. Keterdapatan endapan Titanium aluvial sangat berkaitan dengan kasiterit (mineral timah) aluvial di Bangka-Belitung. Sumber mineral Titanium (ilmenit) berasal dari hasil pelapukan mineralisasi timah pada batuan induk metamorf dan granit pada lingkungan morfologi pengangkatan. (Armin Tampubolon, The Indonesian Titanium Deposit Types and Their Reources: The Aspects for Titanium Commodity Development)",
+    "detail": {
+      "id": "124",
+      "unsur": "Ti Pla"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/titanplaser.jpg"
+  },
+  {
+    "_id": "65734c48ba3d16c6874c5384",
+    "guid": "03763f06-a7a7-4521-b1b2-6933e759b09f",
+    "name": "Xenotim",
+    "icon": "ICON-03763f06-a7a7-4521-b1b2-6933e759b09f-1702054984-GEORIMA.png",
+    "guidPotency": "2e70d8ea-d293-46de-ac22-e5bf89b059e2",
+    "guidMenuPotency": "ccbee913-94a2-43ed-8d8f-b7cb28fc3ed2",
+    "createdAt": "2023-12-08T17:03:04.379Z",
+    "updatedAt": "2023-12-08T17:03:04.379Z",
+    "description": "Xenotim adalah suatu mineral itrium yang terdapat dalam granit dan sienit. Xenotim merupakan sumber logam itrium dan logam tanah langka lainnya. Kekerasannya 4-4,5, bobot jenis 4,4-5,1, kristal berbentuk trisma pendek, tetragonal, mengkilap, mirip zirkon tetapi lebih lunak. https://id.wikipedia.org/wiki/Xenotim",
+    "detail": {
+      "id": "125",
+      "unsur": "Xe"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/xenotim.jpg"
+  },
+  {
+    "_id": "65734c93ba3d16c6874c5387",
+    "guid": "eed65003-b971-4f38-bc07-3f147472c669",
+    "name": "Ametis",
+    "icon": "ICON-eed65003-b971-4f38-bc07-3f147472c669-1702055059-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:04:19.716Z",
+    "updatedAt": "2023-12-08T17:04:19.717Z",
+    "description": "Batu kecubung atau ametis merupakan jenis batuan mineral kuarsa. Batu kecubung merupakan batu lahir bagi seseorang yang lahir di bulan Februari. Batu kecubung biasanya berwarna ungu sampai merah muda. Dalam sejarah, ungu merupakan warna yang digunakan oleh raja, ratu, dan anggota keluarga kerajaan lain. Karena itulah, para penguasa sering memiliki berlian yang terbuat dari batu kecubung. (https://id.wikipedia.org/wiki/Batu_kecubung)",
+    "detail": {
+      "id": "201",
+      "unsur": "Am"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/ametis.jpg"
+  },
+  {
+    "_id": "65734ca8ba3d16c6874c538a",
+    "guid": "cfa37fa7-b707-44d4-b2f2-e3882195bd80",
+    "name": "Batu Hias",
+    "icon": "ICON-cfa37fa7-b707-44d4-b2f2-e3882195bd80-1702055080-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:04:40.548Z",
+    "updatedAt": "2023-12-08T17:04:40.548Z",
+    "description": "Batu hias adalah bentuk batu-batuan yang dibuat dari adukan semen pasir, dibentuk dan diberi warna sedemikian rupa sehingga menyerupai batuan yang sebenarnya (alami).(http://nardibinjai.blogspot.co.id/2013/01/batu-hias-oleh-sunardi-widyaiswara.html)",
+    "detail": {
+      "id": "206",
+      "unsur": "Orn"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batu_hias.jpg"
+  },
+  {
+    "_id": "65734cb9ba3d16c6874c538d",
+    "guid": "013f58b4-a786-4d11-9c1e-b50e86ff392c",
+    "name": "Intan",
+    "icon": "ICON-013f58b4-a786-4d11-9c1e-b50e86ff392c-1702055097-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:04:57.370Z",
+    "updatedAt": "2023-12-08T17:04:57.370Z",
+    "description": "Intan adalah benda berharga mineral yang secara kimia merupakan bentuk kristal, atau alotrop, dari karbon. Intan terkenal karena memiliki sifat-sifat fisika yang istimewa, terutama faktor kekerasannya dan kemampuannya mendispersikan cahaya. Sifat-sifat ini yang membuat intan digunakan dalam perhiasan dan berbagai penerapan di dalam dunia industri.",
+    "detail": {
+      "id": "223",
+      "unsur": "Di"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/intan.jpg"
+  },
+  {
+    "_id": "65734cc9ba3d16c6874c5390",
+    "guid": "7a73cfcc-fa9a-4e92-b9e2-d94482b743e6",
+    "name": "Jasper",
+    "icon": "ICON-7a73cfcc-fa9a-4e92-b9e2-d94482b743e6-1702055113-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:05:13.612Z",
+    "updatedAt": "2023-12-08T17:05:13.612Z",
+    "description": "Jasper merupakan jenis batuan mineral serta sedimen lava vulkanik yang mengalami proses pembentukan secara kimiawi. Jasper mengalami proses pemanasan yang berasal dari proses magmatik atau intrusi. (https://id.wikipedia.org/wiki/Jasper)",
+    "detail": {
+      "id": "224",
+      "unsur": "Jas"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/jasper.jpg"
+  },
+  {
+    "_id": "65734cd6ba3d16c6874c5393",
+    "guid": "9b602788-7611-42d8-9904-07479b5044e7",
+    "name": "Kalsedon",
+    "icon": "ICON-9b602788-7611-42d8-9904-07479b5044e7-1702055126-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:05:26.241Z",
+    "updatedAt": "2023-12-08T17:05:26.241Z",
+    "description": "Kalsedon adalah batu yang terdiri dari microcrystalline atau cryptocrystalline dalam berbagai batu kuarsa. (yang artinya jika tanpa bantuan mikroskop, kristal-kristal kuarsa yang tersusun amat rapat di dalamnya akan teralu kecil untuk dilihat oleh mata telanjang).  (http://elevenmillion.blogspot.co.id/2009/08/batu-kalsedon-chalcedony.html)",
+    "detail": {
+      "id": "225",
+      "unsur": "Cha"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kalsedon.jpg"
+  },
+  {
+    "_id": "65734ce7ba3d16c6874c5396",
+    "guid": "5da19332-1827-449f-8983-85a2ed359f74",
+    "name": "Oniks",
+    "icon": "ICON-5da19332-1827-449f-8983-85a2ed359f74-1702055143-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:05:43.437Z",
+    "updatedAt": "2023-12-08T17:05:43.437Z",
+    "description": "Oniks termasuk jenis mineral kuarsa (SiO2) mikrokristalin. Membentuk lapisan seperti agat dengan perselingan warna putih dan hitam. Berkilap kaca sampai lemak dengan kekerasan 7 pada skala Mohs dan berat jenis 2,72 . Bersifat transulen, kompak dan masif. (Publikasi khusus SEBARAN BATU MULIA DI INDONESIA Oleh H.R Wilher Simanjuntak 1990) ",
+    "detail": {
+      "id": "234",
+      "unsur": "Onx"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/oniks.jpg"
+  },
+  {
+    "_id": "65734cf7ba3d16c6874c5399",
+    "guid": "16367058-75ac-47ed-b0e3-acd1f148e1f2",
+    "name": "Opal",
+    "icon": "ICON-16367058-75ac-47ed-b0e3-acd1f148e1f2-1702055159-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:05:59.921Z",
+    "updatedAt": "2023-12-08T17:05:59.921Z",
+    "description": "Opal adalah  bentuk amorfis dari silika yang berkaitan dengan kuarsa (bentuk mineraloid-nya, bukan mineral). 3% hingga 21% dari berat keseluruhannya berupa air, namun biasanya isinya antara 6% hingga 10%.  (https://id.wikipedia.org/wiki/Opal)",
+    "detail": {
+      "id": "235",
+      "unsur": "Op"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/opal.jpg"
+  },
+  {
+    "_id": "65734d05ba3d16c6874c539c",
+    "guid": "e7f9994e-2aca-4b5c-8417-95fc6fdb62e5",
+    "name": "Rijang",
+    "icon": "ICON-e7f9994e-2aca-4b5c-8417-95fc6fdb62e5-1702055173-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "c88ef9da-6a3b-412a-b8d4-e6dab5a38ace",
+    "createdAt": "2023-12-08T17:06:13.603Z",
+    "updatedAt": "2023-12-08T17:06:13.603Z",
+    "description": "Rijang  adalah batuan endapan silikat kriptokristalin dengan permukaan yang licin (glassy). Rijang biasanya sering di sebut sebagai batu api oleh orang awam. Rijang terbentuk di lautan dalam dan batuan ini sering di gunakan sebagai batu permata karena memiliki warna yang biasanya cerah seperti merah hati.(http://rijangwp.blogspot.co.id/)",
+    "detail": {
+      "id": "243",
+      "unsur": "Ch"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/rijang.jpg"
+  },
+  {
+    "_id": "65734d27ba3d16c6874c539f",
+    "guid": "ae037e59-4907-4168-b9ea-65c22de58472",
+    "name": "Andesit",
+    "icon": "ICON-ae037e59-4907-4168-b9ea-65c22de58472-1702055207-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:06:47.658Z",
+    "updatedAt": "2023-12-08T17:06:47.658Z",
+    "description": "Andesit adalah suatu jenis batuan beku vulkanik , ekstrusif, komposisi menengah, dengan tekstur afanitik hingga porfiritik. Dalam pengertian umum, Andesit adalah jenis peralihan antara basal dan dasit, dengan rentang silikon dioksida (SiO2) adalah 57-63% seperti digambarkan di diagram TAS. Susunan mineral biasanya didominasi oleh plagioklas ditambah piroksen dan / atau hornblende. Magnetit, zirkon, apatit, ilmenit, biotit, dan garnet adalah mineral aksesori umum. Alkali feldspar dapat hadir dalam jumlah kecil. (https://id.wikipedia.org/wiki/Andesit)",
+    "detail": {
+      "id": "202",
+      "unsur": "An"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/andesit.jpg"
+  },
+  {
+    "_id": "65734d3cba3d16c6874c53a2",
+    "guid": "89df8b8d-e616-4d29-b2ae-7f64459c55aa",
+    "name": "Basal",
+    "icon": "ICON-89df8b8d-e616-4d29-b2ae-7f64459c55aa-1702055228-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:07:08.868Z",
+    "updatedAt": "2023-12-08T17:07:08.868Z",
+    "description": "Basalt adalah batuan beku yang ekstrusif, terbentuk dari solidifikasi magma yang terjadi di permukaan bumi. Biasanya basalt berwarna abu-abu atau hitam, karena pembekuannya cepat di permukaan bumi. Basalt juga terbentuk di Bulan, Mars, Venus, dan bahkan di asteroid Vesta. Basalt merupakan salah satu batuan paling umum di Bumi.(https://id.wikipedia.org/wiki/Basal)",
+    "detail": {
+      "id": "205",
+      "unsur": "Bs"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/basal.jpg"
+  },
+  {
+    "_id": "65734d52ba3d16c6874c53a5",
+    "guid": "375fef03-8fd0-40ef-9958-f87bf5ef45a2",
+    "name": "Batusabak",
+    "icon": "ICON-375fef03-8fd0-40ef-9958-f87bf5ef45a2-1702055250-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:07:30.487Z",
+    "updatedAt": "2023-12-08T17:07:30.487Z",
+    "description": "Batusabak (slate) adalah batuan metamorf homogen berbutir halus yang berfoliasi dan berasal dari batuan asal berupa batuan sedimen bertipe menyerpih yang terdiri dari lempung atau abu vulkanik yang mengalami metamorfisme regional berderajat rendah. Ini adalah batuan metamorf foliasi berbutir paling halus. (https://id.wikipedia.org/wiki/Batusabak)",
+    "detail": {
+      "id": "211",
+      "unsur": "Sl"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batusabak.jpg"
+  },
+  {
+    "_id": "65734d7dba3d16c6874c53a8",
+    "guid": "e75292b7-e757-43cd-acac-f8d37e0d67ae",
+    "name": "Dasit",
+    "icon": "ICON-e75292b7-e757-43cd-acac-f8d37e0d67ae-1702055293-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:08:13.292Z",
+    "updatedAt": "2023-12-08T17:08:13.292Z",
+    "description": "Dasit adalah salah satu jenis Batuan Beku yang terbentuk karena pembekuan magma secara cepat. Proses terbentuknya Batu dasir adalah pada suhu 900 – 1200 derajat celcius. Karena terbentuk pada permukaan bumi maka batu ini termasuk golongan batu Ekstrusif (Vulkanik). Permukaan dasar batu dasit halus namun permukaan mineralnya kasar.(http://bapakpengertian.blogspot.co.id/2015/05/Pengertian-Proses-Terbentuk-Ciri-Batu-Dasit-Adalah.html)",
+    "detail": {
+      "id": "214",
+      "unsur": "Da"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/dasit.jpg"
+  },
+  {
+    "_id": "65734dacba3d16c6874c53ab",
+    "guid": "0bf81c8b-b38b-4bea-bdbf-7b3dfb51eb5a",
+    "name": "Diorit",
+    "icon": "ICON-0bf81c8b-b38b-4bea-bdbf-7b3dfb51eb5a-1702055340-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:09:00.073Z",
+    "updatedAt": "2023-12-08T17:09:00.073Z",
+    "description": "Diorit adalah salah satu jenis batuan beku dalam (Batuan Plutonis), bertekstur feneris, mineralnya berbutir kasar hingga sedang, warnanya agak gelap.Batuan diorit mengandung feldspar plagioklas calsiksodik dalam jumlah yang besar dengan tipe sodik yang banyak. (https://id.wikipedia.org/wiki/Diorit) ",
+    "detail": {
+      "id": "216",
+      "unsur": "Dio"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/diorit.jpg"
+  },
+  {
+    "_id": "65734de0ba3d16c6874c53ae",
+    "guid": "f085537d-7f56-4e8c-afe8-2fbe3c29b303",
+    "name": "Dolomit",
+    "icon": "ICON-f085537d-7f56-4e8c-afe8-2fbe3c29b303-1702055392-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:09:52.161Z",
+    "updatedAt": "2023-12-08T17:09:52.161Z",
+    "description": "Dolomit adalah suatu mineral karbonat anhidrat yang terbentuk dari kalsium magnesium karbonat, idealnya adalah CaMg(CO3)2. Istilah ini juga digunakan untuk suatu sedimen batuan karbonat yang sebagian besar terbentuk dari mineral dolomit.  (https://id.wikipedia.org/wiki/Dolomit)",
+    "detail": {
+      "id": "217",
+      "unsur": "Do"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/dolomit.jpg"
+  },
+  {
+    "_id": "65734debba3d16c6874c53b1",
+    "guid": "58837582-1c33-4f9a-a165-35797494a5b4",
+    "name": "Granit",
+    "icon": "ICON-58837582-1c33-4f9a-a165-35797494a5b4-1702055403-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:10:03.802Z",
+    "updatedAt": "2023-12-08T17:10:03.802Z",
+    "description": "Granit merupakan salah satu batuan beku, yang bertekstur granitik dan struktur holokristalin, serta mempunyai komposisi kimia ±70% SiO2 dan ±15% Al2O3, sedangkan mineral lainnya terdapat dalam jumlah kecil, seperti biotit, muskovit, hornblende, dan piroksen. Umumnya granit berwarna putih keabuan (http://www.tekmira.esdm.go.id/data/Granit/ulasan.asp?xdir=Granit&commId=17&comm=Granit)",
+    "detail": {
+      "id": "221",
+      "unsur": "Gr"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/granit.jpg"
+  },
+  {
+    "_id": "65734df8ba3d16c6874c53b4",
+    "guid": "61c1162f-c64f-4aef-ab54-77f37558b404",
+    "name": "Granodiorit",
+    "icon": "ICON-61c1162f-c64f-4aef-ab54-77f37558b404-1702055416-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:10:16.314Z",
+    "updatedAt": "2023-12-08T17:10:16.314Z",
+    "description": "Granodiorit adalah salah satu contoh batuan beku yang berasal dari magma yang membeku saat belum keluar sampai ke permukaan bumi. Batuan Granodiorit mineralnya berbutir kasar hingga sedang, berwarna terang, menyerupai granit. (http://candycoffin.blogspot.co.id/2014/05/contoh-batuan-beku.html)",
+    "detail": {
+      "id": "222",
+      "unsur": "Gd"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/granodiorit.jpg"
+  },
+  {
+    "_id": "65734e03ba3d16c6874c53b7",
+    "guid": "4826d16f-9d11-49fb-962f-6317c010b60a",
+    "name": "Marmer",
+    "icon": "ICON-4826d16f-9d11-49fb-962f-6317c010b60a-1702055427-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:10:27.453Z",
+    "updatedAt": "2023-12-08T17:10:27.453Z",
+    "description": "Marmer  merupakan salah satu jenis batuan metamorf atau malihan, dimana proses terbentuknya batu marmer ini karena diakibatkan oleh proses metamorfosis batu kapur atau batu gamping. Marmer yang murni berwarna putih dan terutama disusun oleh mineral kalsit. (http://ilmugeografi.com/geologi/batuan-marmer)",
+    "detail": {
+      "id": "231",
+      "unsur": "Ma"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/marmer.jpg"
+  },
+  {
+    "_id": "65734e17ba3d16c6874c53ba",
+    "guid": "db9b6494-d674-4621-a662-64e694293d98",
+    "name": "Pasir Laut",
+    "icon": "ICON-db9b6494-d674-4621-a662-64e694293d98-1702055447-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:10:47.880Z",
+    "updatedAt": "2023-12-08T17:10:47.880Z",
+    "description": "Pasir laut adalah bebatuan sedimen yang berukuan 0.5-2.55 mm. Atau partikel-partikel yang dihasilkan dari hancuran batu padat karena pengikisan atau erosi gelombang laut. (http://www.signalreadymix.co/blog/pasir-laut-dan-darat#popup)",
+    "detail": {
+      "id": "236",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/pasir_laut.jpg"
+  },
+  {
+    "_id": "65734e26ba3d16c6874c53bd",
+    "guid": "d4119e2c-d6e4-406a-81c5-e6759874f8aa",
+    "name": "Peridotit",
+    "icon": "ICON-d4119e2c-d6e4-406a-81c5-e6759874f8aa-1702055462-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:11:02.190Z",
+    "updatedAt": "2023-12-08T17:11:02.190Z",
+    "description": "Peridotit  adalah batuan beku padat, berbutir kasar, dan sebagian besar terdiri dari mineral olivin dan piroksen. Peridotit adalah batuan ultramafik, karena mengandung kurang dari 45% silika. Peridotit tinggi akan magnesium, dengan proporsi olivin yang tinggi dengan besi yang cukup. (https://id.wikipedia.org/wiki/Peridotit)",
+    "detail": {
+      "id": "239",
+      "unsur": "Pdt"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/peridotit.jpg"
+  },
+  {
+    "_id": "65734e33ba3d16c6874c53c0",
+    "guid": "c3acdf10-1410-4399-a3df-b7f6b3ee7560",
+    "name": "Sirtu",
+    "icon": "ICON-c3acdf10-1410-4399-a3df-b7f6b3ee7560-1702055475-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:11:15.737Z",
+    "updatedAt": "2023-12-08T17:11:15.737Z",
+    "description": "Sirtu adalah adalah singkatan dari pasir batu. Sirtu terjadi karena akumulasi pasir dan batuan yang terendapkan di daerah-daerah relatif rendah atau lembah. Sirtu biasanya merupakan bahan yang belum terpadukan dan biasanya tersebar di daerah aliran sungai. (http://www.pbgn.co.id/id/product/material/?page=sandgravel)",
+    "detail": {
+      "id": "245",
+      "unsur": "Gra"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/sirtu.jpg\n"
+  },
+  {
+    "_id": "65734e48ba3d16c6874c53c3",
+    "guid": "7a2c2c06-315e-4b89-b562-e2f550d01aff",
+    "name": "Tras",
+    "icon": "ICON-7a2c2c06-315e-4b89-b562-e2f550d01aff-1702055496-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "4d380da2-4dda-4d73-b9f9-bcec87d37a07",
+    "createdAt": "2023-12-08T17:11:36.544Z",
+    "updatedAt": "2023-12-08T17:11:36.544Z",
+    "description": "Tras adalah batuan gunung api yang telah mengalami perubahan komposisi kimia yang disebabkan oleh pelapukan dan pengaruh kondisi air bawah tanah.(http://rembang.dosen.unimus.ac.id/?page_id=85)",
+    "detail": {
+      "id": "249",
+      "unsur": "Tra"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/tras.png"
+  },
+  {
+    "_id": "65734e98ba3d16c6874c53c6",
+    "guid": "31027b67-c34c-4407-9419-d722aec22009",
+    "name": "Ball / Bond Clay",
+    "icon": "ICON-31027b67-c34c-4407-9419-d722aec22009-1702055576-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:12:56.338Z",
+    "updatedAt": "2023-12-08T17:12:56.338Z",
+    "description": "Ball clay adalah jenis lempung yang tersusun dari mineral kaolinit yang bentuk kristalnya tidak sempurna, ilit, kuarsa dan mineral lain yang mengandung karbon. Apabila sifat-sifat fisik ball clay tersebut lebih rendah dari standart maka lempung tersebut disebut bond clay. (http://jumajuma27.blogspot.co.id/2014/03/ball-clay-and-bond-clay.html)",
+    "detail": {
+      "id": "203",
+      "unsur": "Bc"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/ball_clay.png"
+  },
+  {
+    "_id": "65734ea7ba3d16c6874c53c9",
+    "guid": "412da94a-6b61-4414-b274-097dd0f292f3",
+    "name": "Felspar",
+    "icon": "ICON-412da94a-6b61-4414-b274-097dd0f292f3-1702055591-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:13:11.334Z",
+    "updatedAt": "2023-12-08T17:13:11.334Z",
+    "description": "feldspar adalah nama kelompok mineral yang terdiri atas Kalium (potasium:K), Natrium(sodium:Na), dan kalsium alumino silikat. Pada umumnya kelompok mineral ini terbentuk oleh proses pneumatolistis dan hydrothermal yang membentuk urat pegmatite. (http://selvifoni.blogspot.co.id/2012/07/mineral-feldspar.html)",
+    "detail": {
+      "id": "218",
+      "unsur": "Fl"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/felspar.jpg"
+  },
+  {
+    "_id": "65734ec2ba3d16c6874c53cc",
+    "guid": "1c327355-482e-4f9d-a7e9-44b6cdef4e1e",
+    "name": "Kaolin",
+    "icon": "ICON-1c327355-482e-4f9d-a7e9-44b6cdef4e1e-1702055618-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:13:38.404Z",
+    "updatedAt": "2023-12-08T17:13:38.404Z",
+    "description": "Kaolin  merupakan masa batuan yang tersusun dari material lempung dengan kandungan besi yang rendah, dan umumnya berwarna putih atau agak keputihan. Kaolin mempunyai komposisi hidrous alumunium silikat (2H2O.Al2O3.2SiO2), dengan disertai mineral penyerta. (http://www.tekmira.esdm.go.id/data/Kaolin/ulasan.asp?xdir=Kaolin&commId=19&comm=Kaolin)",
+    "detail": {
+      "id": "227",
+      "unsur": "Ka"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kaolin.jpg"
+  },
+  {
+    "_id": "65734ed2ba3d16c6874c53cf",
+    "guid": "b54aba79-b42f-4ba3-9cfa-2ca14c0d87fb",
+    "name": "Lempung",
+    "icon": "ICON-b54aba79-b42f-4ba3-9cfa-2ca14c0d87fb-1702055634-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:13:54.195Z",
+    "updatedAt": "2023-12-08T17:13:54.195Z",
+    "description": "Lempung adalah  yaitu batuan yang memiliki struktur padat dengan susunan mineral yang lebih banyak dari batu lanau. Selain itu, batu lempung juga dapat diartikan sebagai salah satu jenis batuan sedimen yang bersifat liat atau plastis, tersusun dari hidrous aluminium silikat (mineral lempung) yang ukuran butirannya halus. Ukuran butiran batu lempung sangatlah halus, yakni tidak lebih dari 0,002 mm. (http://ilmugeografi.com/geologi/batu-lempung)",
+    "detail": {
+      "id": "229",
+      "unsur": "Cly"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/lempung.jpg"
+  },
+  {
+    "_id": "65734edfba3d16c6874c53d2",
+    "guid": "abdcecef-d1ad-45de-b908-cd06646ff1a8",
+    "name": "Magnesit",
+    "icon": "ICON-abdcecef-d1ad-45de-b908-cd06646ff1a8-1702055647-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:14:07.394Z",
+    "updatedAt": "2023-12-08T17:14:07.394Z",
+    "description": "Magnesit  merupakan logam yang teringan, dengan berat jenisnya 1,74, cukup kuat dan dalam bentuk alloy, tahan terhadap korosi di udara tetapi tidak tahan terhadap air laut, serta mudah terbakar. Magnesit dapat ditemukan dalam mineral sekunder dan biasanya berasosiasi dengan batuan sedimen atau batuan metamorfik, berasal dari endapan marin, kecuali brukit.  (http://www.tekmira.esdm.go.id/data/Magnesit/ulasan.asp?xdir=Magnesit&commId=21&comm=Magnesit)",
+    "detail": {
+      "id": "230",
+      "unsur": "Mg"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/magnesit.jpg"
+  },
+  {
+    "_id": "65734eebba3d16c6874c53d5",
+    "guid": "20f336d8-1c02-4534-98a1-1b4a323c273d",
+    "name": "Obsidian",
+    "icon": "ICON-20f336d8-1c02-4534-98a1-1b4a323c273d-1702055659-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:14:19.893Z",
+    "updatedAt": "2023-12-08T17:14:19.893Z",
+    "description": "Obsidian adalah kaca vulkank yang terbentuk sebagai batu apung ekstrusif. Obsidian terbentuk dari ekstrusi lava felsik yang mendingin dengan cepat tanpa pertumbuhan kristal.  (https://id.wikipedia.org/wiki/Obsidian)",
+    "detail": {
+      "id": "232",
+      "unsur": "Ob"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/obsidian.jpg"
+  },
+  {
+    "_id": "65734ef9ba3d16c6874c53d8",
+    "guid": "51a8ceed-7416-45d2-98b6-69efb6013461",
+    "name": "Perlit",
+    "icon": "ICON-51a8ceed-7416-45d2-98b6-69efb6013461-1702055673-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:14:33.224Z",
+    "updatedAt": "2023-12-08T17:14:33.224Z",
+    "description": "Perlit batuan yang terbentuk oleh lava riolit. Pada waktu lava mengalir, bagian bawahnya bersentuhan dengan media air dan akibat beban diatasnya dan aliran lava yang tertahan akan terjadi pendinginan sangat cepat, maka terbentuklah perlitisasi. (http://mineritysriwijaya.blogspot.co.id/2011/12/perlit-dan-obsidian.html)",
+    "detail": {
+      "id": "240",
+      "unsur": "Pe"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/perlit.jpg"
+  },
+  {
+    "_id": "65734f06ba3d16c6874c53db",
+    "guid": "fdb77285-e4c1-483e-b3a4-bd46416c3335",
+    "name": "Pirofilit",
+    "icon": "ICON-fdb77285-e4c1-483e-b3a4-bd46416c3335-1702055686-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:14:46.917Z",
+    "updatedAt": "2023-12-08T17:14:46.917Z",
+    "description": "Pirofilit adalah paduan dari alumunium silikat, yang mempunyai rumus kimia Al2O3.4SiO2H2O.Mineral yang termasuk pyrophyllite adalah kianit, andalusit, dan diaspor. Bentuk kristal pyrophyllite adalah monoklin serta mempunyai sifat fisik dan kimia yang mirip dengan talk. (https://winnerfirmansyah.wordpress.com/2010/01/03/pyrophyllite-support-material/)",
+    "detail": {
+      "id": "241",
+      "unsur": "Phy"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/pirofilit.jpg"
+  },
+  {
+    "_id": "65734f14ba3d16c6874c53de",
+    "guid": "79ef7143-b894-422a-85ae-e26cdc365623",
+    "name": "Toseki",
+    "icon": "ICON-79ef7143-b894-422a-85ae-e26cdc365623-1702055700-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:15:00.980Z",
+    "updatedAt": "2023-12-08T17:15:00.980Z",
+    "description": "Toseki adalah batuan beku asam (ziolit, dasit, perlit dan tufa asan) yang terbentuk oleh proses hidrotermal dan menyebabkan terjadinya endapatn bijih pada dinding yang diterobos dan kemudian mengalami perubahan sifat fisik, kimia dan mineral. (http://adnorthya.blogspot.co.id/2012/07/toseki.html)",
+    "detail": {
+      "id": "247",
+      "unsur": "To"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/toseki.jpg"
+  },
+  {
+    "_id": "65734f1fba3d16c6874c53e1",
+    "guid": "c27ca2db-e7f1-47df-ba08-abf9e7e9a33c",
+    "name": "Trakhit",
+    "icon": "ICON-c27ca2db-e7f1-47df-ba08-abf9e7e9a33c-1702055711-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "9d3330db-33b9-417b-8989-0477da62e630",
+    "createdAt": "2023-12-08T17:15:11.938Z",
+    "updatedAt": "2023-12-08T17:15:11.938Z",
+    "description": "Trakhit Trachyte mempunyai komposisi yang terdiri dari alkali feldspar yang merupakan mineral essential pada batu ini, lalu terdapat sedikit mineral plagioklas, kuarsa, dan feldspatoid seperti naphelin. Biotit, Klinopiroksen, dan Olivin banyak menjadi mineral aksesoris utama pada batu ini. terbentuk pada daerah vulkanik (karena merupakan batuan beku vulkanik), yaitu dengan pembekuan magma yang cenderung cepat sehingga mineral penyusunnya terlihat lebih kecil.  (http://guardianofbishope.blogspot.co.id/2012/01/batuan-beku-trachyte-trakit-bagi-miners.html)",
+    "detail": {
+      "id": "248",
+      "unsur": "Tr"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/trakhit.jpg"
+  },
+  {
+    "_id": "65734f96ba3d16c6874c53e4",
+    "guid": "c577f62c-5dde-4532-b932-09c158b30ebd",
+    "name": "Barit",
+    "icon": "ICON-c577f62c-5dde-4532-b932-09c158b30ebd-1702055830-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:17:10.379Z",
+    "updatedAt": "2023-12-08T17:17:10.379Z",
+    "description": "Baryte atau barit (BaSO4) adalah mineral yang terdiri dari barium sulfat.  Kelompok baryte terdiri dari bariton, selestine, anglesite dan anhydrite. Barit umumnya putih atau tidak berwarna, dan merupakan sumber utama barium. Barit dan selestine membentuk larutan padat (Ba, Sr) SO4. (https://en.wikipedia.org/wiki/Baryte)",
+    "detail": {
+      "id": "204",
+      "unsur": "Ba"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/barit.jpg"
+  },
+  {
+    "_id": "65734fa8ba3d16c6874c53e7",
+    "guid": "0cc22861-b2a6-4e06-8072-1ac6390a94e1",
+    "name": "Batuan Pembawa Kalium",
+    "icon": "ICON-0cc22861-b2a6-4e06-8072-1ac6390a94e1-1702055848-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:17:28.084Z",
+    "updatedAt": "2023-12-08T17:17:28.084Z",
+    "description": "Kalium adalah suatu unsur kimia dalam tabel periodik yang memiliki lambang K dan nomor atom 19, dan massa atom sebesar 39,0983 g/mol. Kalium berbentuk logam lunak berwarna putih keperakan dan termasuk golongan alkali tanah. Secara alami, kalium ditemukan sebagai senyawa dengan unsur lain dalam air laut atau mineral lainnya. (http://sushy-sushytesla.blogspot.co.id/2014/04/kalium.html)",
+    "detail": {
+      "id": "208",
+      "unsur": "K"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kalium.jpg"
+  },
+  {
+    "_id": "65734fb4ba3d16c6874c53ea",
+    "guid": "3b7f25a1-6ec4-4535-b097-3fadd86ce9d5",
+    "name": "Batuapung",
+    "icon": "ICON-3b7f25a1-6ec4-4535-b097-3fadd86ce9d5-1702055860-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:17:40.294Z",
+    "updatedAt": "2023-12-08T17:17:40.294Z",
+    "description": "Batuapung atau Pumis (pumice) adalah istilah tekstural untuk batuan vulkanik yang merupakan lava berbuih terpadatkan yang tersusun atas piroklastik kaca yang amat mikrovesikular dengan dinding batuan beku gunung berapi ekstrusif yang bergelembung, amat tipis dan tembus cahaya. Batu apung adalah produk umum letusan gunung (pembentukan Plinius dann ignimbrit) dan umumnya membentuk zona-zona di bagian atas lava silikat. (https://id.wikipedia.org/wiki/Batuapung) ",
+    "detail": {
+      "id": "209",
+      "unsur": "Pu"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batuapung.jpg"
+  },
+  {
+    "_id": "65734fc0ba3d16c6874c53ed",
+    "guid": "22d00aed-4f38-4435-834f-75a9af631433",
+    "name": "Batugamping",
+    "icon": "ICON-22d00aed-4f38-4435-834f-75a9af631433-1702055872-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:17:52.617Z",
+    "updatedAt": "2023-12-08T17:17:52.617Z",
+    "description": "Batu Gamping (Kapur) adalah salah satu jenis batuan sedimen yang terdiri dari mineral utama calcite (kalsium karbonat). Pembentukan batu gamping dapat terjadi secara mekanik, kimia, dan organik. Batu Gamping (kapur) mudah larut dalam air terutama yang mengandung CO2, dan bila ditetesi zat asam maka akan membentuk gas CO2.(http://bapakpengertian.blogspot.co.id/2015/05/Pengertian-Ciri-Proses-Terbentuk-Batu-Gamping-Kapur-Adalah.html)",
+    "detail": {
+      "id": "210",
+      "unsur": "Ls"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batugamping.jpg"
+  },
+  {
+    "_id": "65734fd4ba3d16c6874c53f0",
+    "guid": "b11ea418-61c5-4302-b00b-debceaa415af",
+    "name": "Batu Kuarsa",
+    "icon": "ICON-b11ea418-61c5-4302-b00b-debceaa415af-1702055892-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:18:12.864Z",
+    "updatedAt": "2023-12-08T17:18:12.864Z",
+    "description": "Batu kuarsa adalah batu kristal mineral yang terbuat dari silicon dioxide (ketika silicon dan oxygen menyatu) dan merupakan mineral kedua (setelah feldspar) yang paling banyak dan yang paling umum ditemukan di kerak kontinen bumi (mencakup 12% dari keseluruhan).Mineral ini memiliki struktur kristal heksagonal yang terbuat dari silika trigonal terkristalisasi (silikon dioksida, SiO2), dengan skala kekerasan Mohs 7 dan densitas 2,65 g/cm³. (http://elevenmillion.blogspot.co.id/2009/09/batu-kuarsa-batu-quartz.html)",
+    "detail": {
+      "id": "207",
+      "unsur": "Q"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batu_kuarsa.jpg"
+  },
+  {
+    "_id": "65734fe3ba3d16c6874c53f3",
+    "guid": "0c3e76a8-18b2-4ec5-a1b5-1fdd389f4c08",
+    "name": "Belerang",
+    "icon": "ICON-0c3e76a8-18b2-4ec5-a1b5-1fdd389f4c08-1702055907-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:18:27.984Z",
+    "updatedAt": "2023-12-08T17:18:27.984Z",
+    "description": "Belerang (sulfur) adalah unsur non-logam multivalen, berlimpah, tidak berasa dan tidak berbau. Dalam bentuk alami, belerang berbentuk kristal padat berwarna kuning. Belerang memiliki kristalografi kompleks. Tergantung pada kondisinya, alotrop belerang membentuk beberapa struktur kristal yang berbeda. (https://www.amazine.co/27072/belerang-s-fakta-sifat-kegunaan-efek-kesehatannya/)",
+    "detail": {
+      "id": "212",
+      "unsur": "S"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/belerang.jpg"
+  },
+  {
+    "_id": "65734feeba3d16c6874c53f6",
+    "guid": "3bfa35f3-8b26-4498-8f8d-b694b808a86e",
+    "name": "Bentonit",
+    "icon": "ICON-3bfa35f3-8b26-4498-8f8d-b694b808a86e-1702055918-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:18:38.811Z",
+    "updatedAt": "2023-12-08T17:18:38.811Z",
+    "description": "Bentonit adalah istilah pada lempung yang mengandung monmorillonit dalam dunia perdagangan dan termasuk kelompok dioktohedral.  Bentonit dapat dibagi menjadi 2 golongan berdasarkan kandungan alu-munium silikat hydrous, yaitu activated clay dan fuller's Earth. (http://www.tekmira.esdm.go.id/data/Bentonit/ulasan.asp?xdir=Bentonit&commId=8&comm=Bentonit)",
+    "detail": {
+      "id": "213",
+      "unsur": "Btn"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/bentonit.jpg"
+  },
+  {
+    "_id": "65734ffaba3d16c6874c53f9",
+    "guid": "842efb04-c492-41a8-8c63-73f7ce4d1790",
+    "name": "Diatomea",
+    "icon": "ICON-842efb04-c492-41a8-8c63-73f7ce4d1790-1702055930-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:18:50.449Z",
+    "updatedAt": "2023-12-08T17:18:50.449Z",
+    "description": "Diatomea merupakan bahan galian silika yang yang berasal dari sisa-sisa rangka tumbuh-tumbuhan diatom dan algae (mengandung SiO3 tinggi). Diatomea terbentuk di daerah perairan, seperti laut, air tawar, danau dan dasar sungai. Tebalnya hanya beberapa inci hingga beberapa kaki. Warna pada diatomea adalah putih dan coklat. (http://pustakatambang.blogspot.co.id/2011/10/diatomea.html)",
+    "detail": {
+      "id": "215",
+      "unsur": "Dia"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/diatomea.jpg"
+  },
+  {
+    "_id": "65735004ba3d16c6874c53fc",
+    "guid": "161137c3-c142-487c-8cbe-2ca0ab570dec",
+    "name": "Fosfat",
+    "icon": "ICON-161137c3-c142-487c-8cbe-2ca0ab570dec-1702055940-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:19:00.678Z",
+    "updatedAt": "2023-12-08T17:19:00.678Z",
+    "description": "Fosfat adalah unsur dalam suatu batuan beku (apatit) atau sedimen dengan kandungan fosfor ekonomis. Biasanya, kandungan fosfor dinyatakan sebagai bone phosphate of lime (BPL) atau triphosphate of lime (TPL), atau berdasarkan kandungan P2O5. (http://www.tekmira.esdm.go.id/data/Fosfat/ulasan.asp?xdir=Fosfat&commId=14&comm=Fosfat)",
+    "detail": {
+      "id": "219",
+      "unsur": "P"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/fosfat.jpg"
+  },
+  {
+    "_id": "65735010ba3d16c6874c53ff",
+    "guid": "50a3fc46-aa7d-4128-ab0a-e8efc2e904f4",
+    "name": "Gipsum",
+    "icon": "ICON-50a3fc46-aa7d-4128-ab0a-e8efc2e904f4-1702055951-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:19:12.002Z",
+    "updatedAt": "2023-12-08T17:19:12.002Z",
+    "description": "Gipsum merupakan garam yang pertama kali mengendap akibat proses evaporasi air laut diikuti oleh anhidrit dan halit, ketika salinitas makin bertambah. Sebagai mineral evaporit, endapan gypsum berbentuk lapisan di antara batuan-batuan sedimen batugamping, serpih merah, batupasir, lempung, dan garam batu, serta sering pula berbentuk endapan lensa-lensa dalam satuan-satuan batuan sedimen. (http://www.tekmira.esdm.go.id/data/Gipsum/ulasan.asp?xdir=Gipsum&commId=15&comm=Gipsum)",
+    "detail": {
+      "id": "220",
+      "unsur": "Gy"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/gipsum.jpg"
+  },
+  {
+    "_id": "6573501aba3d16c6874c5402",
+    "guid": "f89214d9-2d56-438c-96ca-bd92d190a20b",
+    "name": "Kalsit",
+    "icon": "ICON-f89214d9-2d56-438c-96ca-bd92d190a20b-1702055962-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:19:22.450Z",
+    "updatedAt": "2023-12-08T17:19:22.450Z",
+    "description": "Kalsit adalah mineral karbonat dan polimorf kalsium karbonat yang paling stabil. Kalsit merupakan mineral penyusun berbagai jenis batuan dengan rumus kimia CaCO3. Kalsit sangat umum ditemukan di seluruh dunia baik di dalam batuan sedimen, batuan metamorf, maupun batuan beku. (http://www.geologinesia.com/2016/02/deskripsi-genesa-dan-kegunaan-mineral-kalsit.html)",
+    "detail": {
+      "id": "226",
+      "unsur": "Ca"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kalsit.jpg"
+  },
+  {
+    "_id": "65735024ba3d16c6874c5405",
+    "guid": "6f31b42e-5bb3-4ded-a875-81828e74046f",
+    "name": "Kuarsit",
+    "icon": "ICON-6f31b42e-5bb3-4ded-a875-81828e74046f-1702055972-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:19:32.727Z",
+    "updatedAt": "2023-12-08T17:19:32.727Z",
+    "description": "Kuarsit adalah batuan metamorf tidak berfoliasi (nonfoliated) yang hampir tersusun seluruhnya oleh mineral kuarsa. Batuan ini dapat terbentuk ketika batupasir yang kaya kuarsa diubah oleh panas, tekanan, dan aktivitas kimia akibat proses metamorfosis. (http://www.geologinesia.com/2016/05/batu-kuarsit-dan-proses-pembentukannya.html)\n",
+    "detail": {
+      "id": "228",
+      "unsur": "Qtz"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/kuarsit.jpg"
+  },
+  {
+    "_id": "65735030ba3d16c6874c5408",
+    "guid": "62483585-2bd1-4cab-9e75-3434529bfd7b",
+    "name": "Oker",
+    "icon": "ICON-62483585-2bd1-4cab-9e75-3434529bfd7b-1702055984-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:19:44.230Z",
+    "updatedAt": "2023-12-08T17:19:44.230Z",
+    "description": "Oker adalah tanah lunak yang terdiri dari campuran oksida besi, tanah liatkapur atau bahan-bahan yang berbentuk pasir. adalah tanah lunak yang terdiri dari campuran oksida besi, tanah liatkapur atau bahan-bahan yang berbentuk pasir. (http://pustakatambang.blogspot.co.id/2011/10/oker.html)",
+    "detail": {
+      "id": "233",
+      "unsur": "Och"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/oker.jpg"
+  },
+  {
+    "_id": "65735044ba3d16c6874c540b",
+    "guid": "62f298cc-0f67-4c45-9824-515234ebebf8",
+    "name": "Pasirkuarsa",
+    "icon": "ICON-62f298cc-0f67-4c45-9824-515234ebebf8-1702056004-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:20:04.053Z",
+    "updatedAt": "2023-12-08T17:20:04.053Z",
+    "description": "Pasir kuarsa adalah bahan galian yang terdiri atas kristal-kristal silika (SiO2) dan mengandung senyawa pengotor yang terbawa selama proses pengendapan. (http://www.tekmira.esdm.go.id/data/PasirKwarsa/ulasan.asp?xdir=PasirKwarsa&commId=25&comm=Pasir%20Kwarsa)",
+    "detail": {
+      "id": "238",
+      "unsur": "SiO2"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/pasirkuarsa.jpg"
+  },
+  {
+    "_id": "65735057ba3d16c6874c540e",
+    "guid": "57de9a8c-d844-4fe2-a524-a76283218013",
+    "name": "Pasir Zirkon",
+    "icon": "ICON-57de9a8c-d844-4fe2-a524-a76283218013-1702056023-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:20:23.912Z",
+    "updatedAt": "2023-12-08T17:20:23.912Z",
+    "description": "Pasir zirkon merupakan mineral zirconium yang paling banyak di bumi. Zircon ditemukan dalam bentuk mineral aksesori pada batuan baku hasil pembekuan magma yang kaya akan silika seperti granit, pegmatit, dan nepheline syenite. (https://id.wikipedia.org/wiki/Zirkonium(IV)_silikat)",
+    "detail": {
+      "id": "237",
+      "unsur": "Zr"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/pasir_zirkon.jpg"
+  },
+  {
+    "_id": "65735063ba3d16c6874c5411",
+    "guid": "89ef6c9f-cab4-43f5-98ff-f2513824f5b2",
+    "name": "Prehnit",
+    "icon": "ICON-89ef6c9f-cab4-43f5-98ff-f2513824f5b2-1702056035-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:20:35.691Z",
+    "updatedAt": "2023-12-08T17:20:35.691Z",
+    "description": "Prehnit adalah inosilicate kalsium dan aluminium dengan rumus: Ca 2 Al (AlSi 3 O 10 ) (OH) 2 . Terbatas Fe 3+ pengganti aluminium dalam struktur. Prehnite mengkristal dalam sistem kristal ortorombik , dan sebagian besar bentuknya berbentuk agregat stalaktitik atau botetoid , hanya dengan puncak kristal kecil yang menunjukkan wajah apa pun, yang hampir selalu melengkung atau komposit. (https://translate.google.co.id/translate?hl=id&sl=en&u=https://en.wikipedia.org/wiki/Prehnite&prev=search)",
+    "detail": {
+      "id": "242",
+      "unsur": "Pr"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/prehnit.jpg"
+  },
+  {
+    "_id": "65735070ba3d16c6874c5414",
+    "guid": "9b735805-dcfc-4b27-99d4-0be7419d72cd",
+    "name": "Serpentin",
+    "icon": "ICON-9b735805-dcfc-4b27-99d4-0be7419d72cd-1702056048-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:20:48.170Z",
+    "updatedAt": "2023-12-08T17:20:48.170Z",
+    "description": "Serpentin adalah sebuah lapisan mineral lattice dengan komposisi H, Mg Si, O yang terbentuk oleh proses alterasi hidrotermal dari mineral FerroMagnesian (Fe, Mg) seperti olivin, piroksen, amphibol. Mg serpentin murni bercampur dengan air kristal kurang lebih 12,9 % pada temperatur tinggi +800 derajat celcius. Pada kenyataannya serpentin dapat dilihat sebagai replacement produk dari mineral utama dan terbentuk sebagai pseudomorph yang terendapakan pada kekar/rekahan dan batuan terbuka lainnya, juga dapat terbentuk dalam massa yang sangat besar/luas.(Sumber: http://www.geologinesia.com/2015/09/sekilas-tentang-serpentin-sebagai-hasil.html)",
+    "detail": {
+      "id": "244",
+      "unsur": "Sp"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/serpentin.jpg"
+  },
+  {
+    "_id": "6573507bba3d16c6874c5417",
+    "guid": "70c3738a-7489-42e3-8789-a62b80d11e1a",
+    "name": "Talk",
+    "icon": "ICON-70c3738a-7489-42e3-8789-a62b80d11e1a-1702056059-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:20:59.861Z",
+    "updatedAt": "2023-12-08T17:20:59.861Z",
+    "description": "Talk  merupakan mineral metamorf yang dihasilkan dari mineral magnesium seperti piroksen, amfibol, olivin, dan mineral serupa lainnya dengan adanya karbon dioksida dan air. Hal ini biasa dikenal sebagai karbonasi talek atau steatisasi dan memproduksi sederetan cadas yang dikenal sebagai karbonat talek.(https://id.wikipedia.org/wiki/Talk)",
+    "detail": {
+      "id": "246",
+      "unsur": "Tc"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/talk.jpg"
+  },
+  {
+    "_id": "65735086ba3d16c6874c541a",
+    "guid": "70dfe053-e8cb-4397-b2a3-266acd03b7e4",
+    "name": "Travertin",
+    "icon": "ICON-70dfe053-e8cb-4397-b2a3-266acd03b7e4-1702056070-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:21:10.167Z",
+    "updatedAt": "2023-12-08T17:21:10.167Z",
+    "description": "Travertin adalah bentuk batu kapur yang didepositkan oleh mata air mineral, terutama air panas. Travertin sering memiliki penampilan berserat atau konsentris dan ada yang berwarna putih, cokelat dan varietas berwarna krem​​.(https://id.wikipedia.org/wiki/Travertin)",
+    "detail": {
+      "id": "250",
+      "unsur": "Trv"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/travertin.jpg"
+  },
+  {
+    "_id": "65735099ba3d16c6874c541d",
+    "guid": "d1f85d9a-dde8-4155-898f-b33a08dba36f",
+    "name": "Ultrabasa",
+    "icon": "ICON-d1f85d9a-dde8-4155-898f-b33a08dba36f-1702056089-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:21:29.680Z",
+    "updatedAt": "2023-12-08T17:21:29.680Z",
+    "description": "Ultrabasa  adalah batuan beku yang kandungan silikanya rendah (< 45 %), kandungan MgO > 18 %, tinggi akan kandungan FeO, rendah akan kandungan kalium dan umumnya kandungan mineral mafiknya lebih dari 90 %. Batuan ultrabasa umumnya terdapat sebagai opiolit.(http://fahrygeologicas.blogspot.co.id/2012/04/batuan-ultrabasa.html)",
+    "detail": {
+      "id": "251",
+      "unsur": "Ub"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/peridotit.jpg"
+  },
+  {
+    "_id": "657350a8ba3d16c6874c5420",
+    "guid": "476b9f79-f043-46fd-8759-b9598b7ee3df",
+    "name": "Yodium",
+    "icon": "ICON-476b9f79-f043-46fd-8759-b9598b7ee3df-1702056104-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:21:44.212Z",
+    "updatedAt": "2023-12-08T17:21:44.212Z",
+    "description": "Yodium adalah unsur bukan logam yang termasuk dalam golongan unsur kimia yang dikenal sebagai halogen. Pada suhu dan tekanan biasa, Yodium berwarna abu-abu gelap / ungu-hitam padatan yang siap tersublimasi, ia akan langsung berubah dari fase padat ke fase gas.(http://www.sridianti.com/pengertian-yodium.html)",
+    "detail": {
+      "id": "252",
+      "unsur": "Y"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/yodium.jpg"
+  },
+  {
+    "_id": "657350b4ba3d16c6874c5423",
+    "guid": "5d81a673-49df-4069-af81-44487300eb6e",
+    "name": "Zeolit",
+    "icon": "ICON-5d81a673-49df-4069-af81-44487300eb6e-1702056116-GEORIMA.png",
+    "guidPotency": "18029944-0de5-443e-b785-6a89a0abdf17",
+    "guidMenuPotency": "086cd8d0-dcc2-48e1-bf69-7bd7b01ff304",
+    "createdAt": "2023-12-08T17:21:56.585Z",
+    "updatedAt": "2023-12-08T17:21:56.585Z",
+    "description": "Zeolit  adalah senyawa zat kimia alumino-silikat berhidrat dengan kation natrium, kalium dan barium.\nSecara umum, Zeolit memiliki melekular sruktur yang unik, di mana atom silikon dikelilingi oleh 4 atom oksigen sehingga membentuk semacam jaringan dengan pola yang teratur. (https://id.wikipedia.org/wiki/Zeolit)",
+    "detail": {
+      "id": "253",
+      "unsur": "Ze"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/zeolit.jpg"
+  },
+  {
+    "_id": "657350eaba3d16c6874c5426",
+    "guid": "88f20754-88c0-42ca-9e99-80256e80f945",
+    "name": "Rendah (< 5100 Kal/Gram)",
+    "icon": "ICON-88f20754-88c0-42ca-9e99-80256e80f945-1702056170-GEORIMA.png",
+    "guidPotency": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "guidMenuPotency": "e40b50a0-ed0f-4cf2-afa2-202e0477e985",
+    "createdAt": "2023-12-08T17:22:50.833Z",
+    "updatedAt": "2023-12-08T17:22:50.833Z",
+    "description": "Endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan. Bisa juga berarti batuan bersifat karbon berbentuk padat, rapuh, berwarna coklat tua sampai hitam, dapat terbakar, yang terjadi akibat perubahan/pelapukan tumbuhan secara kimia dan fisik. Batubara dapat dibeda-bedakan menurut jenis tumbuhan pembentuknya, peringkat metamorfosisnya dan tingkat bahan pengotornya. Klasifikasi seluruh batubara didasarkan pada faktor-faktor diatas tadi.",
+    "detail": {
+      "id": "0",
+      "unsur": "C"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batubara.jpg",
+    "id": "1"
+  },
+  {
+    "_id": "657350faba3d16c6874c5429",
+    "guid": "270d65f2-b864-45a2-8be9-81fed57b7137",
+    "name": "Sedang (5100-6100 Kal/Gram)",
+    "icon": "ICON-270d65f2-b864-45a2-8be9-81fed57b7137-1702056186-GEORIMA.png",
+    "guidPotency": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "guidMenuPotency": "e40b50a0-ed0f-4cf2-afa2-202e0477e985",
+    "createdAt": "2023-12-08T17:23:06.062Z",
+    "updatedAt": "2023-12-08T17:23:06.062Z",
+    "description": "Endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan. Bisa juga berarti batuan bersifat karbon berbentuk padat, rapuh, berwarna coklat tua sampai hitam, dapat terbakar, yang terjadi akibat perubahan/pelapukan tumbuhan secara kimia dan fisik. Batubara dapat dibeda-bedakan menurut jenis tumbuhan pembentuknya, peringkat metamorfosisnya dan tingkat bahan pengotornya. Klasifikasi seluruh batubara didasarkan pada faktor-faktor diatas tadi.",
+    "detail": {
+      "id": "0",
+      "unsur": "C"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batubara.jpg",
+    "id": "2"
+  },
+  {
+    "_id": "65735111ba3d16c6874c542c",
+    "guid": "55be0df9-feab-470e-b9ca-e95d09fab91b",
+    "name": "Tinggi (6100-7100 Kal/Gram)",
+    "icon": "ICON-55be0df9-feab-470e-b9ca-e95d09fab91b-1702056209-GEORIMA.png",
+    "guidPotency": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "guidMenuPotency": "e40b50a0-ed0f-4cf2-afa2-202e0477e985",
+    "createdAt": "2023-12-08T17:23:29.808Z",
+    "updatedAt": "2023-12-08T17:23:29.808Z",
+    "description": "Endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan. Bisa juga berarti batuan bersifat karbon berbentuk padat, rapuh, berwarna coklat tua sampai hitam, dapat terbakar, yang terjadi akibat perubahan/pelapukan tumbuhan secara kimia dan fisik. Batubara dapat dibeda-bedakan menurut jenis tumbuhan pembentuknya, peringkat metamorfosisnya dan tingkat bahan pengotornya. Klasifikasi seluruh batubara didasarkan pada faktor-faktor diatas tadi.",
+    "detail": {
+      "id": "0",
+      "unsur": "C"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batubara.jpg",
+    "id": "3"
+  },
+  {
+    "_id": "6573511fba3d16c6874c542f",
+    "guid": "ebafed0b-406a-44b6-b41f-d753ea84422e",
+    "name": "Sangat Tinggi (>7100 Kal/Gram)",
+    "icon": "ICON-ebafed0b-406a-44b6-b41f-d753ea84422e-1702056223-GEORIMA.png",
+    "guidPotency": "ca5798cf-413f-40ef-a7f3-ba5fd0bd8b18",
+    "guidMenuPotency": "e40b50a0-ed0f-4cf2-afa2-202e0477e985",
+    "createdAt": "2023-12-08T17:23:43.719Z",
+    "updatedAt": "2023-12-08T17:23:43.719Z",
+    "description": "Endapan senyawa organik karbonan yang terbentuk secara alamiah dari sisa tumbuh-tumbuhan. Bisa juga berarti batuan bersifat karbon berbentuk padat, rapuh, berwarna coklat tua sampai hitam, dapat terbakar, yang terjadi akibat perubahan/pelapukan tumbuhan secara kimia dan fisik. Batubara dapat dibeda-bedakan menurut jenis tumbuhan pembentuknya, peringkat metamorfosisnya dan tingkat bahan pengotornya. Klasifikasi seluruh batubara didasarkan pada faktor-faktor diatas tadi.",
+    "detail": {
+      "id": "0",
+      "unsur": "C"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/batubara.jpg",
+    "id": "4"
+  },
+  {
+    "_id": "657351d9ba3d16c6874c5432",
+    "guid": "fbef117c-8979-4bab-ae7e-0f9b29e67c02",
+    "name": "Survey Pendahuluan Awal",
+    "icon": "ICON-fbef117c-8979-4bab-ae7e-0f9b29e67c02-1702056409-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "createdAt": "2023-12-08T17:26:49.351Z",
+    "updatedAt": "2023-12-08T17:26:49.351Z",
+    "description": "Menurut UU No. 21 Tahun 2014 Tentang Panas Bumi, sumber daya panas bumi adalah suber energi panas yang terkandung di dalam air panas, uap air, dan batuan bersama mineral ikutan dan gas lainnya yang secara genetik semuanya tidak dapat dipisahkan dalam suatu sistem panas bumi dan untuk pemanfaatannya diperlukan proses penambangan yang dapat dimanfaatkan untuk pembangkitan tenaga listrik atau pemanfaatan langsung lainnya.",
+    "detail": {
+      "id": "0",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/panasbumi.jpg",
+    "id": "1"
+  },
+  {
+    "_id": "657351f6ba3d16c6874c5435",
+    "guid": "8b50b5ab-cb30-4d85-b46a-e213442aaa41",
+    "name": "Survey Pendahuluan",
+    "icon": "ICON-8b50b5ab-cb30-4d85-b46a-e213442aaa41-1702056437-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "createdAt": "2023-12-08T17:27:18.003Z",
+    "updatedAt": "2023-12-08T17:27:18.003Z",
+    "description": "Menurut UU No. 21 Tahun 2014 Tentang Panas Bumi, sumber daya panas bumi adalah suber energi panas yang terkandung di dalam air panas, uap air, dan batuan bersama mineral ikutan dan gas lainnya yang secara genetik semuanya tidak dapat dipisahkan dalam suatu sistem panas bumi dan untuk pemanfaatannya diperlukan proses penambangan yang dapat dimanfaatkan untuk pembangkitan tenaga listrik atau pemanfaatan langsung lainnya.",
+    "detail": {
+      "id": "0",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/panasbumi.jpg",
+    "id": "2"
+  },
+  {
+    "_id": "65735209ba3d16c6874c5438",
+    "guid": "e16738a9-4e15-43fe-b186-e5f5103f07d4",
+    "name": "Survey Rinci",
+    "icon": "ICON-e16738a9-4e15-43fe-b186-e5f5103f07d4-1702056457-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "createdAt": "2023-12-08T17:27:37.736Z",
+    "updatedAt": "2023-12-08T17:27:37.736Z",
+    "description": "Menurut UU No. 21 Tahun 2014 Tentang Panas Bumi, sumber daya panas bumi adalah suber energi panas yang terkandung di dalam air panas, uap air, dan batuan bersama mineral ikutan dan gas lainnya yang secara genetik semuanya tidak dapat dipisahkan dalam suatu sistem panas bumi dan untuk pemanfaatannya diperlukan proses penambangan yang dapat dimanfaatkan untuk pembangkitan tenaga listrik atau pemanfaatan langsung lainnya.",
+    "detail": {
+      "id": "0",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/panasbumi.jpg",
+    "id": "3"
+  },
+  {
+    "_id": "65735216ba3d16c6874c543b",
+    "guid": "d9367400-6a05-4f79-82b9-ee03a52cb8ee",
+    "name": "Siap Dikembangkan",
+    "icon": "ICON-d9367400-6a05-4f79-82b9-ee03a52cb8ee-1702056470-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "createdAt": "2023-12-08T17:27:50.776Z",
+    "updatedAt": "2023-12-08T17:27:50.776Z",
+    "description": "Menurut UU No. 21 Tahun 2014 Tentang Panas Bumi, sumber daya panas bumi adalah suber energi panas yang terkandung di dalam air panas, uap air, dan batuan bersama mineral ikutan dan gas lainnya yang secara genetik semuanya tidak dapat dipisahkan dalam suatu sistem panas bumi dan untuk pemanfaatannya diperlukan proses penambangan yang dapat dimanfaatkan untuk pembangkitan tenaga listrik atau pemanfaatan langsung lainnya.",
+    "detail": {
+      "id": "0",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/panasbumi.jpg",
+    "id": "4"
+  },
+  {
+    "_id": "6573522aba3d16c6874c543e",
+    "guid": "66d787dc-b6a5-4148-abef-db4375c7b876",
+    "name": "Terpasang",
+    "icon": "ICON-66d787dc-b6a5-4148-abef-db4375c7b876-1702056490-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "createdAt": "2023-12-08T17:28:10.629Z",
+    "updatedAt": "2023-12-08T17:28:10.629Z",
+    "description": "Menurut UU No. 21 Tahun 2014 Tentang Panas Bumi, sumber daya panas bumi adalah suber energi panas yang terkandung di dalam air panas, uap air, dan batuan bersama mineral ikutan dan gas lainnya yang secara genetik semuanya tidak dapat dipisahkan dalam suatu sistem panas bumi dan untuk pemanfaatannya diperlukan proses penambangan yang dapat dimanfaatkan untuk pembangkitan tenaga listrik atau pemanfaatan langsung lainnya.",
+    "detail": {
+      "id": "0",
+      "unsur": "-"
+    },
+    "imageUrl": "https://georima.esdm.go.id/assets/image/panasbumi.jpg",
+    "id": "5"
+  },
+  {
+    "_id": "6696801d6d7b9c2144fd8d4a",
+    "guid": "e25b3a59-a091-4dd9-b7a3-9b4b2d40331c",
+    "name": "Survei Rinci-Siap Dikembangkan",
+    "icon": "ICON-e25b3a59-a091-4dd9-b7a3-9b4b2d40331c-1721139229-GEORIMA.png",
+    "image": "IMAGE-e25b3a59-a091-4dd9-b7a3-9b4b2d40331c-1721139229-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-e25b3a59-a091-4dd9-b7a3-9b4b2d40331c-1721139229-GEORIMA.png",
+    "createdAt": "2024-07-16T14:13:49.860Z",
+    "updatedAt": "2024-07-16T14:13:49.860Z",
+    "id": "6"
+  },
+  {
+    "_id": "6696806f6d7b9c2144fd8d4f",
+    "guid": "c6073f3a-11d7-46bb-9f75-30c36628e8ae",
+    "name": "Survei Rinci, MT",
+    "icon": "ICON-c6073f3a-11d7-46bb-9f75-30c36628e8ae-1721139311-GEORIMA.png",
+    "image": "IMAGE-c6073f3a-11d7-46bb-9f75-30c36628e8ae-1721139311-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-c6073f3a-11d7-46bb-9f75-30c36628e8ae-1721139311-GEORIMA.png",
+    "createdAt": "2024-07-16T14:15:11.571Z",
+    "updatedAt": "2024-07-16T14:15:11.571Z",
+    "id": "7"
+  },
+  {
+    "_id": "669681466d7b9c2144fd8dad",
+    "guid": "9e229634-9545-4be5-a962-e83e041d42d1",
+    "name": "Survei Rinci -Terpasang",
+    "icon": "ICON-9e229634-9545-4be5-a962-e83e041d42d1-1721139526-GEORIMA.png",
+    "image": "IMAGE-9e229634-9545-4be5-a962-e83e041d42d1-1721139526-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-9e229634-9545-4be5-a962-e83e041d42d1-1721139526-GEORIMA.png",
+    "createdAt": "2024-07-16T14:18:46.939Z",
+    "updatedAt": "2024-07-16T14:18:46.939Z",
+    "id": "8"
+  },
+  {
+    "_id": "669681936d7b9c2144fd8fc0",
+    "guid": "2465792d-9092-4470-a64e-e07087a98c45",
+    "name": "Survei Rinci, MT, LS",
+    "icon": "ICON-2465792d-9092-4470-a64e-e07087a98c45-1721139603-GEORIMA.png",
+    "image": "IMAGE-2465792d-9092-4470-a64e-e07087a98c45-1721139603-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-2465792d-9092-4470-a64e-e07087a98c45-1721139603-GEORIMA.png",
+    "createdAt": "2024-07-16T14:20:03.988Z",
+    "updatedAt": "2024-07-16T14:20:03.988Z",
+    "id": "9"
+  },
+  {
+    "_id": "669682946d7b9c2144fd8fc5",
+    "guid": "47503521-0dd3-418d-ab38-21387f407ca3",
+    "name": "Survei Rinci, MT, Eksplorasi",
+    "icon": "ICON-47503521-0dd3-418d-ab38-21387f407ca3-1721139860-GEORIMA.png",
+    "image": "IMAGE-47503521-0dd3-418d-ab38-21387f407ca3-1721139860-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-47503521-0dd3-418d-ab38-21387f407ca3-1721139860-GEORIMA.png",
+    "createdAt": "2024-07-16T14:24:20.172Z",
+    "updatedAt": "2024-07-16T14:24:20.172Z",
+    "id": "10"
+  },
+  {
+    "_id": "669682dc6d7b9c2144fd8fc9",
+    "guid": "924eb979-3770-4afc-91b2-3510f0cdb4c4",
+    "name": "Survei Pendahuluan Awal /R?",
+    "icon": "ICON-924eb979-3770-4afc-91b2-3510f0cdb4c4-1721139932-GEORIMA.png",
+    "image": "IMAGE-924eb979-3770-4afc-91b2-3510f0cdb4c4-1721139932-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-924eb979-3770-4afc-91b2-3510f0cdb4c4-1721139932-GEORIMA.png",
+    "createdAt": "2024-07-16T14:25:32.687Z",
+    "updatedAt": "2024-07-16T14:25:32.687Z",
+    "id": "11"
+  },
+  {
+    "_id": "669683536d7b9c2144fd8fce",
+    "guid": "17429927-a749-4f47-a670-5b450b5e72bf",
+    "name": "Survei Pendahuluan Awal/SP?",
+    "icon": "ICON-17429927-a749-4f47-a670-5b450b5e72bf-1721140051-GEORIMA.png",
+    "image": "IMAGE-17429927-a749-4f47-a670-5b450b5e72bf-1721140051-GEORIMA.png",
+    "guidPotency": "10d51afe-3fbf-408e-834a-c1d8f0c6970b",
+    "guidMenuPotency": "d8907e57-31b5-4bed-8848-1bdfe00e1f10",
+    "description": ".",
+    "imageUrl": "undefinedicon/IMAGE-17429927-a749-4f47-a670-5b450b5e72bf-1721140051-GEORIMA.png",
+    "createdAt": "2024-07-16T14:27:31.863Z",
+    "updatedAt": "2024-07-16T14:27:31.863Z",
+    "id": "12"
+  }
+]

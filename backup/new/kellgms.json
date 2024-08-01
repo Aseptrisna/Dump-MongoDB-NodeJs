@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "668ce087aeb2d39bc2adae4e",
+    "No": 1,
+    "Name": "Logam Dasar",
+    "ID": 1
+  },
+  {
+    "_id": "668ce087aeb2d39bc2adae4f",
+    "No": 2,
+    "Name": "Logam Mulia",
+    "ID": 2
+  },
+  {
+    "_id": "668ce087aeb2d39bc2adae50",
+    "No": 3,
+    "Name": "Logam Besi dan Paduan Besi",
+    "ID": 3
+  },
+  {
+    "_id": "668ce087aeb2d39bc2adae51",
+    "No": 4,
+    "Name": "Logam Ringan dan Langka",
+    "ID": 4
+  },
+  {
+    "_id": "668ce087aeb2d39bc2adae52",
+    "No": 5,
+    "Name": "Mineral Radioaktif",
+    "ID": 5
+  }
+]

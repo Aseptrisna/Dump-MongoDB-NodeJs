@@ -3,9 +3,10 @@ const fs = require('fs-extra');
 const path = require('path');
 
 // Konfigurasi
-const uri = 'mongodb://georima-map:mltYSZ2Vvc1tYXA@database2.pptik.id:27017/georima-map';
+// const uri = 'mongodb://georima-map:mltYSZ2Vvc1tYXA@database2.pptik.id:27017/georima-map';
+const uri = 'mongodb://localhost:27017/georima-peta';
 // const dbName = 'georima-map';
-const outputDir = path.join(__dirname, 'backup/potensi');
+const outputDir = path.join(__dirname, 'backup/new');
 
 async function exportCollections() {
   console.log('Memastikan direktori output ada...');
