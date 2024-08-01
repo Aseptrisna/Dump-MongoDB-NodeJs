@@ -3,7 +3,8 @@ const fs = require('fs-extra');
 const path = require('path');
 
 // Konfigurasi untuk database tujuan
-const targetUri = 'mongodb://localhost:27017/georima-peta';
+// const targetUri = 'mongodb://localhost:27017/georima-peta';
+const targetUri = 'mongodb://ngadmin:Agat3Dolomit3@localhost.localdomain:27017/georima-peta';
 const inputDir = path.join(__dirname, 'backup/new');
 
 async function importCollections() {
