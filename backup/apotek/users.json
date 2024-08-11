@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "668a50df240787ff8aea24df"
+  },
+  "guid": "USER-ad361860-5367-4662-96c4-b23a9c22e5ce-2024",
+  "name": "ADMIN TIRTA MANDIRI",
+  "email": "admin@csi.id",
+  "password": "$2a$10$VBBTLmYzNf.oG5ADkyUva.RHMrDeTw2csgzy4pA4kqkypEr00Kcpu",
+  "createdAt": {
+    "$date": "2024-07-07T08:25:03.282Z"
+  },
+  "applications": [
+    {
+      "name": "APATEK TIRTA MANDIRI (TOKO 1)",
+      "companyGuid": "COMPANY-45b21a59-8cd3-47fc-95f0-9667355b1a9d-2024",
+      "guidAplication": "STORE-68e631f9-1e1f-4f86-ac06-eb82d03d99f8-2024",
+      "role": "admin",
+      "key": "KEY-b385587d-1bc1-4d4a-b478-5c2ed66acb8c-2024",
+      "isActive": true,
+      "otp": "$2a$10$Ym6o1LSBP.Ja9Sazzff6mucjf4LPFboHlNAUDlQAGRJna8z4WWzti",
+      "_id": {
+        "$oid": "668a50df240787ff8aea24e0"
+      }
+    }
+  ],
+  "phoneNumber": "08676327766",
+  "address": "Tanggerang",
+  "member": true
+},
+{
+  "_id": {
+    "$oid": "66946d84c32d21245922ea90"
+  },
+  "guid": "USER-32178c10-39b3-48fc-9cec-4bcfa043d660-2024",
+  "name": "Ardi Hidayat ",
+  "email": "ardyhdyt02@gmail.com",
+  "password": "$2a$10$MCKg3fq7D3HvATpFQsEbbOSuv5KZl5B.xeBnWhjXmPLcJiLtVRZvW",
+  "createdAt": {
+    "$date": "2024-07-15T00:29:56.028Z"
+  },
+  "applications": [
+    {
+      "name": "APATEK TIRTA MANDIRI (TOKO 1)",
+      "companyGuid": "COMPANY-45b21a59-8cd3-47fc-95f0-9667355b1a9d-2024",
+      "guidAplication": "STORE-68e631f9-1e1f-4f86-ac06-eb82d03d99f8-2024",
+      "role": "user",
+      "key": "KEY-b385587d-1bc1-4d4a-b478-5c2ed66acb8c-2024",
+      "isActive": true,
+      "otp": "$2a$10$8b4TeW99x1GGSynwUsB4vuDI4foYh1Gexj/k.7sIxd9WeGRgqi.6a",
+      "_id": {
+        "$oid": "66946d84c32d21245922ea91"
+      }
+    }
+  ],
+  "phoneNumber": "085624819514",
+  "member": false
+},
+{
+  "_id": {
+    "$oid": "669c8436bc3ef3ee59947ef3"
+  },
+  "guid": "USER-7d2e4a62-be33-4753-bf16-3d61c75f4b3b-2024",
+  "name": "Asep Trisna Setiawan",
+  "email": "asep.iot@ubl.ac.id",
+  "password": "$2a$10$zQRCI.pQ.njvHknGlh.Oxu/YtF3bp.UcP.NL3bZ2/h5tkyOv6rEOG",
+  "createdAt": {
+    "$date": "2024-07-21T03:44:54.831Z"
+  },
+  "applications": [
+    {
+      "name": "APATEK TIRTA MANDIRI (TOKO 1)",
+      "companyGuid": "COMPANY-45b21a59-8cd3-47fc-95f0-9667355b1a9d-2024",
+      "guidAplication": "STORE-68e631f9-1e1f-4f86-ac06-eb82d03d99f8-2024",
+      "role": "user",
+      "key": "KEY-b385587d-1bc1-4d4a-b478-5c2ed66acb8c-2024",
+      "isActive": true,
+      "otp": "$2a$10$mllg872ljRmdtFKcichaKen8yzuU1ep31yvSREhUYgRyK5c06elbi",
+      "_id": {
+        "$oid": "669c8436bc3ef3ee59947ef4"
+      }
+    }
+  ],
+  "phoneNumber": "082283198216",
+  "member": false,
+  "address": "Bandung"
+},
+{
+  "_id": {
+    "$oid": "669cde2ebc3ef3ee59948065"
+  },
+  "guid": "USER-ac2439b7-aec8-4e30-9aa5-c5570f717c2d-2024",
+  "name": "Jefri Heryatyono Barasa ",
+  "email": "jebe0305@gmail.com",
+  "password": "$2a$10$r9LrvUkJcpVUpBuN4s96luzICJazaKOa68LpY7.mS6DxwQ2aqCq.u",
+  "createdAt": {
+    "$date": "2024-07-21T10:08:46.273Z"
+  },
+  "applications": [
+    {
+      "name": "APATEK TIRTA MANDIRI (TOKO 1)",
+      "companyGuid": "COMPANY-45b21a59-8cd3-47fc-95f0-9667355b1a9d-2024",
+      "guidAplication": "STORE-68e631f9-1e1f-4f86-ac06-eb82d03d99f8-2024",
+      "role": "user",
+      "key": "KEY-b385587d-1bc1-4d4a-b478-5c2ed66acb8c-2024",
+      "isActive": true,
+      "otp": "$2a$10$4z7ICt/dEBb9Un5Gm38bQ.LhfeughbrHbiEkgZh5lk0JLMaabI32m",
+      "_id": {
+        "$oid": "669cde2ebc3ef3ee59948066"
+      }
+    }
+  ],
+  "phoneNumber": "081288417913",
+  "member": false,
+  "address": "Batu Sari Barat No 2 RT 04 RW 01 "
+}]

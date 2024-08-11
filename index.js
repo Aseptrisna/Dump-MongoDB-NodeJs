@@ -4,9 +4,10 @@ const path = require('path');
 
 // Konfigurasi
 // const uri = 'mongodb://georima-map:mltYSZ2Vvc1tYXA@database2.pptik.id:27017/georima-map';
-const uri = 'mongodb://localhost:27017/georima-peta';
+// const uri = 'mongodb://localhost:27017/georima-peta';
+const uri = 'mongodb://apotek24:Db2023_@103.147.114.195:27017/dbApotek';
 // const dbName = 'georima-map';
-const outputDir = path.join(__dirname, 'backup/new');
+const outputDir = path.join(__dirname, 'backup/apotek');
 
 async function exportCollections() {
   console.log('Memastikan direktori output ada...');

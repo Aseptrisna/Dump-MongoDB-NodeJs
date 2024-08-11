@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "669ce870d30456d85bb1a5bf",
+    "guid": "CART-d30f13df-7675-4fd7-a335-251c783c9fda-2024",
+    "userGuid": "USER-7d2e4a62-be33-4753-bf16-3d61c75f4b3b-2024",
+    "productId": "987615551",
+    "productGuid": "PRODUKCT-e260d0c6-e546-4ec2-afac-e19143bb6e29-2024",
+    "name": "Paracetamol",
+    "quantity": 1,
+    "price": 15000,
+    "totalPrice": 15000,
+    "createdAt": "2024-07-21T10:52:32.860Z",
+    "updatedAt": "2024-07-21T10:52:32.860Z"
+  }
+]

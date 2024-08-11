@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "668a4491cde835983ee67e1a",
+    "guid": "STORE-68e631f9-1e1f-4f86-ac06-eb82d03d99f8-2024",
+    "companyGuid": "COMPANY-45b21a59-8cd3-47fc-95f0-9667355b1a9d-2024",
+    "name": "APATEK TIRTA MANDIRI (TOKO 1)",
+    "icon": "icon.png",
+    "secretKey": "KEY-b385587d-1bc1-4d4a-b478-5c2ed66acb8c-2024",
+    "status": true,
+    "domain": "-",
+    "packageName": "-",
+    "createdAt": "2024-07-07T07:32:33.522Z",
+    "bankAccounts": [
+      {
+        "bankName": "Bank Mandiri",
+        "accountNumber": 1234567890,
+        "accountName": "John Doe",
+        "_id": "668a5087b7f4d925354a7d09"
+      },
+      {
+        "bankName": "Bank BCA",
+        "accountNumber": 987654321,
+        "accountName": "Jane Smith",
+        "_id": "668a5087b7f4d925354a7d0a"
+      },
+      {
+        "bankName": "Bank BRI",
+        "accountNumber": 2468013579,
+        "accountName": "Michael Johnson",
+        "_id": "668a5087b7f4d925354a7d0b"
+      },
+      {
+        "bankName": "Bank BNI",
+        "accountNumber": 9753108642,
+        "accountName": "Emily Brown",
+        "_id": "668a5087b7f4d925354a7d0c"
+      }
+    ]
+  }
+]
